@@ -1,18 +1,98 @@
 [
   {
-    "title": "Отечественный суперкартридж для старушки Mega Drive и его киллер-фичи",
-    "summary": "Ко мне в руки попал профессиональный флеш-картридж InviteDRIVE v6 MAX с поддержкой игр Sega Genesis / Mega Drive / Sega CD / Master System / 32x, разработанный широко известным в у...",
-    "link": "https://habr.com/ru/articles/1035910/?utm_campaign=1035910&utm_source=habrahabr&utm_medium=rss",
+    "title": "Что у SpaceX с патентным портфелем перед IPO?",
+    "summary": "21 мая 2026 года стало известно, что космическая компания SpaceX, стремящаяся обеспечить условия жизни человечества за пределами Земли, планирует выйти на биржу. Ее капитализация о...",
+    "link": "https://habr.com/ru/companies/onlinepatent/articles/1038208/?utm_campaign=1038208&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 16 May 2026 12:46:07 GMT",
+    "pubDate": "Sat, 23 May 2026 10:30:59 GMT",
     "lang": "ru"
   },
   {
-    "title": "Как сделать процессор Российским",
-    "summary": "Мы часто участвуем в дискуссиях, почему процессоры, произведенные за рубежом, могут считаться российскими. Эти дискуссии порой носят весьма обывательский и оторванный от действител...",
-    "link": "https://habr.com/ru/companies/baikalelectron/articles/1035710/?utm_campaign=1035710&utm_source=habrahabr&utm_medium=rss",
+    "title": "Китайцы ответили на H200 — обзор Zhenwu M890 от Alibaba",
+    "summary": "20 мая на ежегодном Alibaba Cloud Summit T-Head полупроводниковое подразделение Alibaba представила новое поколение GPU — Zhenwu M890. Это ускоритель с 144 ГБ памяти HBM на борту и...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1038418/?utm_campaign=1038418&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 15 May 2026 15:00:57 GMT",
+    "pubDate": "Sat, 23 May 2026 08:42:37 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Китайцы ответили на H200 — обзор Zhenwu M890 от Alibaba",
+    "summary": "20 мая на ежегодном Alibaba Cloud Summit T-Head полупроводниковое подразделение Alibaba представила новое поколение GPU — Zhenwu M890. Это ускоритель с 144 ГБ памяти HBM на борту и...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1038418/?utm_campaign=1038418&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 23 May 2026 08:42:37 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "II Всероссийская конференция по печатным платам: время масштабировать прорывы",
+    "summary": "II Всероссийская конференция по печатным платам: время масштабировать прорывы Москва, 05-06 июня 2026 года – АНО «Консорциум печатных плат» совместно с РТУ МИРЭА при поддержке Минп...",
+    "link": "https://elcomdesign.ru/uncategorized/ii-vserossijskaya-konferencziya-po-pechatnym-platam-vremya-masshtabirovat-proryvy/",
+    "source": "Электронные компоненты",
+    "pubDate": "Fri, 22 May 2026 13:58:32 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "[Перевод] Проектируем с нуля калькулятор на FPGA. Части 4 и 5: Фреймворк и оборудование",
+    "summary": "← Третья часть\nСколько себя помню, я любил играть в LEGO. Больше всего меня восхищало то, что из одного и того же набора типов блоков можно построить что угодно: главными были не б...",
+    "link": "https://habr.com/ru/articles/1037312/?utm_campaign=1037312&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 22 May 2026 07:32:54 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Сравниваем точность расчета копланарных линий передачи для СВЧ МИС: SimPCB Lite против Ansys HFSS",
+    "summary": "Проверили, насколько сильно расходятся результаты расчета, полученные в быстрой 2D-системе инженерного анализа SimPCB Lite, с результатами полноволнового 3D-симулятора Ansys HFSS н...",
+    "link": "https://habr.com/ru/companies/eremexru/articles/1037856/?utm_campaign=1037856&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Thu, 21 May 2026 14:55:53 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "LLM-инференс на фотонах? Препарируем передовые технологии, представленные в апреле",
+    "summary": "Majestic Labs Prometheus, Kingston DC3000ME на 30,72 ТБ, TPU восьмого поколения от Google и не только... Как всегда, вендоры не дремлют и участвует в AI-гонке. И должен признать, и...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1037756/?utm_campaign=1037756&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Thu, 21 May 2026 11:31:11 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Почему e-ink до сих пор не убил LCD, хотя должен был",
+    "summary": "В 2010 году у меня появился Kindle 3. Помню первое включение: открыл коробку, а внутри на экране — какой-то текст про настройку. Хотите верьте, хотите нет, но я секунд десять смотр...",
+    "link": "https://habr.com/ru/articles/1037642/?utm_campaign=1037642&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Thu, 21 May 2026 08:28:43 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Asus, MSI и Gigabyte урезают производство материнских плат. Что происходит на рынке",
+    "summary": "В последние месяцы компьютерная индустрия обсуждает не столько новые процессоры и видеокарты, сколько неожиданное сокращение выпуска материнских плат. Asus, MSI, Gigabyte и ASRock,...",
+    "link": "https://habr.com/ru/companies/ru_mts/articles/1036836/?utm_campaign=1036836&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Thu, 21 May 2026 07:17:59 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "II Международная промышленная выставка «ИННОПРОМ. Беларусь» откроется в Минске 30 сентября 2026 года",
+    "summary": "II Международная промышленная выставка «ИННОПРОМ. Беларусь» откроется в Минске 30 сентября 2026 года С 30 сентября по 2 октября 2026 года столица Республики Беларусь во второй раз...",
+    "link": "https://elcomdesign.ru/uncategorized/ii-mezhdunarodnaya-promyshlennaya-vystavka-innoprom-belarus-otkroetsya-v-minske-30-sentyabrya-2026-goda/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 20 May 2026 10:23:39 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Открыта регистрация на выставку ИННОПРОМ",
+    "summary": "Открыта регистрация на выставку ИННОПРОМ Открыта регистрация на 16-ю Международную промышленную выставку ИННОПРОМ, которая состоится с 6 по 9 июля 2026 года в МВЦ «Екатеринбург-ЭКС...",
+    "link": "https://elcomdesign.ru/uncategorized/otkryta-registracziya-na-vystavku-innoprom/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 20 May 2026 10:19:21 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Технологические идеи и технологическая реальность: какие идеи станут былью?",
+    "summary": "Технологические идеи и технологическая реальность: какие идеи станут былью? В Москве 27–29 мая пройдет XXVIII Международная научно-техническая конференция по фотоэлектронике. Мероп...",
+    "link": "https://elcomdesign.ru/uncategorized/tehnologicheskie-idei-i-tehnologicheskaya-realnost-kakie-idei-stanut-bylyu/",
+    "source": "Электронные компоненты",
+    "pubDate": "Tue, 19 May 2026 09:16:35 +0000",
     "lang": "ru"
   },
   {
@@ -32,59 +112,11 @@
     "lang": "ru"
   },
   {
-    "title": "Оверклокинг умер, да здравствует андервольтинг: как современные процессоры перестали разгонять и начали оптимизировать",
-    "summary": "Неделю назад друг собрал себе новый компьютер. Ничего экстремального: материнская плата Gigabyte B760 Gaming AX, процессор Intel Core i5-14600KF, башенный кулер, корпус с приличной...",
-    "link": "https://habr.com/ru/articles/1033494/?utm_campaign=1033494&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 15 May 2026 09:00:36 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Форвард-М. Странный домофон со странными функциями",
-    "summary": "Приветствую всех! \nПожалуй, самыми странными среди домофонов являются не какие-то раритетные экземпляры с оптическими или магнитными ключами, а «локальные» модели, выпускавшиеся од...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1033864/?utm_campaign=1033864&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 15 May 2026 08:05:22 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Тестируем NVIDIA HGX B300 — инференс-сервер с 8 GPU и 2,3 ТБ VRAM на DeepSeek, Qwen и MiniMax",
-    "summary": "Итак, вы внедрили ИИ в свой сервис и решили ехать в продакшен, где у вас много пользователей. Закономерно возникает вопрос — а на чем запустить инференс, чтобы и пользователи были...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1035066/?utm_campaign=1035066&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 15 May 2026 08:00:19 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "История создания промышленных роботов: как в СССР попытались догнать Америку (и даже в чем-то преуспели)",
-    "summary": "Инженерно-изобретательская мысль работала над промышленными роботами не только в Америке. В Японии и Европе появились собственные варианты промышленных роботов, и поначалу это был...",
-    "link": "https://habr.com/ru/companies/onlinepatent/articles/1035070/?utm_campaign=1035070&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 15 May 2026 07:30:10 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Протокол UUCP для девушки",
-    "summary": "Дело было в девяностых годах прошлого века.\nВремя беспокойное. Страна развалилась, люди обеднели, многие пытались уехать за границу. Особенно успешно отъезды получались у девушек,...",
-    "link": "https://habr.com/ru/articles/1035350/?utm_campaign=1035350&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 14 May 2026 19:40:37 GMT",
-    "lang": "ru"
-  },
-  {
     "title": "Сформирована программа конференции «Силовая электроника- 2026»",
     "summary": "Сформирована программа конференции «Силовая электроника- 2026» Конференция «Силовая электроника — 2026» состоится 28 мая в Москве ПРОГРАММА КОНФЕРЕНЦИИ   Конгресс—центр отеля “Вега...",
     "link": "https://elcomdesign.ru/uncategorized/sformirovana-programma-konferenczii-silovaya-elektronika-2026/",
     "source": "Электронные компоненты",
     "pubDate": "Thu, 14 May 2026 09:03:52 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "[Перевод] Брусенцов: хакер, построивший троичную ЭВМ",
-    "summary": "Про Сетунь и Брусенцова уже было сказано:\n- Как Сетунь обогнала время и проиграла кремнию\n- Импортозамещение, которое мы потеряли: «Сетунь» — судьба первых серийных троичных компью...",
-    "link": "https://habr.com/ru/articles/1033490/?utm_campaign=1033490&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Wed, 13 May 2026 15:24:18 GMT",
     "lang": "ru"
   },
   {
@@ -109,38 +141,6 @@
     "link": "https://elcomdesign.ru/uncategorized/evolyucziya-elektricheskih-zaryadok-ot-pervyh-razyomov-do-megavattnyh-stanczij-dlya-gruzovikov/",
     "source": "Электронные компоненты",
     "pubDate": "Sun, 26 Apr 2026 08:33:24 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Новые решения для силовой электроники",
-    "summary": "Новые решения для силовой электроники   Борис Воронов   Этот краткий обзор является продолжением аналогичных публикаций в журнале «Электронные компоненты» №№ 1, 5, 12 за 2024 г. и...",
-    "link": "https://elcomdesign.ru/uncategorized/novye-resheniya-dlya-silovoj-elektroniki/",
-    "source": "Электронные компоненты",
-    "pubDate": "Tue, 21 Apr 2026 18:51:58 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Доклад Александра Ставцева на конференции «Силовая электроника — 2026»",
-    "summary": "Доклад Александра Ставцева на конференции «Силовая электроника — 2026» C докладом «Подходы к обеспечению конкурентоспособности отечественной силовой полупроводниковой электроники»...",
-    "link": "https://elcomdesign.ru/uncategorized/doklad-aleksandra-stavczeva-na-konferenczii-silovaya-elektronika-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Sun, 19 Apr 2026 07:21:32 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Передовые журналы отрасли на выставке! Приглашаем на стенд D6164, Пресс-офис, зал 15",
-    "summary": "Передовые журналы отрасли на выставке! Приглашаем на стенд D6164, Пресс-офис, зал 15   ООО ИД Электроника принимает участие в выставке ЭкспоЭлектроника. Приглашаем на стенд D6164,...",
-    "link": "https://elcomdesign.ru/uncategorized/peredovye-zhurnaly-otrasli-na-vystavke-priglashaem-na-stend-d6164-press-ofis-zal-15/",
-    "source": "Электронные компоненты",
-    "pubDate": "Wed, 15 Apr 2026 05:28:39 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "ExpoElectronica 2026",
-    "summary": "ExpoElectronica 2026   ПРЕСС-РЕЛИЗ   28-я Международная выставка электроники ExpoElectronica и выставка цифровых решений ExpoCifra 2026 официально открылись в Москве В МВЦ «Крокус...",
-    "link": "https://elcomdesign.ru/uncategorized/expoelectronica-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Wed, 15 Apr 2026 05:21:07 +0000",
     "lang": "ru"
   }
 ]
