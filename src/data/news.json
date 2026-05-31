@@ -1,26 +1,130 @@
 [
   {
-    "title": "Что у SpaceX с патентным портфелем перед IPO?",
-    "summary": "21 мая 2026 года стало известно, что космическая компания SpaceX, стремящаяся обеспечить условия жизни человечества за пределами Земли, планирует выйти на биржу. Ее капитализация о...",
-    "link": "https://habr.com/ru/companies/onlinepatent/articles/1038208/?utm_campaign=1038208&utm_source=habrahabr&utm_medium=rss",
+    "title": "Золото в вашем смартфоне и ноутбуке. Или про современный урбан майнинг",
+    "summary": "Смартфоны, ноутбуки, мониторы и другие гаджеты являются не только полезными средствами связи или бытовой электроникой, но и кладезью драгоценных материалов. Внутри них сокрыты деся...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1026174/?utm_campaign=1026174&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 23 May 2026 10:30:59 GMT",
+    "pubDate": "Sat, 30 May 2026 08:05:43 GMT",
     "lang": "ru"
   },
   {
-    "title": "Китайцы ответили на H200 — обзор Zhenwu M890 от Alibaba",
-    "summary": "20 мая на ежегодном Alibaba Cloud Summit T-Head полупроводниковое подразделение Alibaba представила новое поколение GPU — Zhenwu M890. Это ускоритель с 144 ГБ памяти HBM на борту и...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1038418/?utm_campaign=1038418&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Sat, 23 May 2026 08:42:37 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Китайцы ответили на H200 — обзор Zhenwu M890 от Alibaba",
-    "summary": "20 мая на ежегодном Alibaba Cloud Summit T-Head полупроводниковое подразделение Alibaba представила новое поколение GPU — Zhenwu M890. Это ускоритель с 144 ГБ памяти HBM на борту и...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1038418/?utm_campaign=1038418&utm_source=habrahabr&utm_medium=rss",
+    "title": "Пять мини-ПК мая 2026 года: Panther Lake, RTX 5080 и поддержка внешних видеокарт",
+    "summary": "Мини-ПК давно перестали быть просто маленькими офисными компьютерами. Весной 2026 года показали сразу несколько моделей, среди которых есть система с RTX 5080, компьютеры на новых...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1041168/?utm_campaign=1041168&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 23 May 2026 08:42:37 GMT",
+    "pubDate": "Sat, 30 May 2026 08:00:19 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как я собрал LLM-печку на 4 GPU, и на что она способна",
+    "summary": "Всем привет, недавно я собрал и сейчас активно использую ПК для локального запуска хоть сколько-то серьезных LLM, и захотелось поделиться этим опытом с сообществом. На статью меня...",
+    "link": "https://habr.com/ru/articles/1041422/?utm_campaign=1041422&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 30 May 2026 06:51:05 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Шасси Cisco на прокачку: как мой товарищ ударился в DIY",
+    "summary": "Обычно я пишу о опенсорсе и разработке софта, но сегодня хочу рассказать о своем товарище, с которым познакомился на экскурсии по дата-центру Selectel. Даня работает там инженером,...",
+    "link": "https://habr.com/ru/articles/1041370/?utm_campaign=1041370&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 29 May 2026 18:09:20 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Упаковка компонентов поверхностного монтажа: от россыпи до готовой катушки",
+    "summary": "Упаковка компонентов поверхностного монтажа: от россыпи до готовой катушки   Елизавета Лавриновская, специалист отдела Технологического оборудования, ООО НПП «Универсал Прибор»,...",
+    "link": "https://elcomdesign.ru/uncategorized/upakovka-komponentov-poverhnostnogo-montazha-ot-rossypi-do-gotovoj-katushki/",
+    "source": "Электронные компоненты",
+    "pubDate": "Fri, 29 May 2026 16:11:44 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Без названия",
+    "summary": "Приглашаем разместить рекламу/статью/интервью или репортаж с производства в журнале «СВЧ электроника» №02/2026 Журнал выйдет в июле и будет распространяться на выставке “РАДЭЛ-2026...",
+    "link": "https://elcomdesign.ru/uncategorized/48785/",
+    "source": "Электронные компоненты",
+    "pubDate": "Fri, 29 May 2026 14:45:52 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Linux на смартфоне — PostmarketOS",
+    "summary": "Один из немногих способов пользоваться чистым Linux на смартфоне - установка операционной системы PostmarketOS.\nВ данной статье я расскажу об этой системе, о том, как она ставится,...",
+    "link": "https://habr.com/ru/articles/1041208/?utm_campaign=1041208&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 29 May 2026 12:35:08 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как мы контролируем сборку печатных плат: опыт внедрения ML-модели на производстве",
+    "summary": "Привет, Хабр! Это команда SmartFab YADRO. Мы решаем задачи на собственном производстве полного цикла Фаб Дубна, включающем цеха по производству многослойных печатных плат и автомат...",
+    "link": "https://habr.com/ru/companies/yadro/articles/1039246/?utm_campaign=1039246&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 29 May 2026 11:33:25 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Проблемы печей оплавления припоя Pu*** и их превенция",
+    "summary": "ЛУТовый текстолит, паяльная паста Mechanic, настольная печь Puhui и, опционально, руки из плеч – базовый набор начинающего контрактного монтажника/производителя микросерий. Если бы...",
+    "link": "https://habr.com/ru/articles/1041162/?utm_campaign=1041162&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 29 May 2026 11:31:57 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Новая DRAM в 1000 раз быстрее обычной, и она может изменить компьютерный мир",
+    "summary": "Пока мы привыкаем к мысли, что оперативная память за прошлый год подорожала более чем на 200% и в обозримом будущем дешеветь не собирается, в Токийском университете тихо показали ш...",
+    "link": "https://habr.com/ru/companies/x-com/articles/1041022/?utm_campaign=1041022&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 29 May 2026 08:47:57 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Российский бренд StarLine получил международную премию Brand Awards International 2026",
+    "summary": "Российский бренд StarLine получил международную премию Brand Awards International 2026 Российский бренд StarLine стал лауреатом международной премии Brand Awards International 2026...",
+    "link": "https://elcomdesign.ru/uncategorized/rossijskij-brend-starline-poluchil-mezhdunarodnuyu-premiyu-brand-awards-international-2026/",
+    "source": "Электронные компоненты",
+    "pubDate": "Thu, 28 May 2026 16:41:19 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "TORNADO-iMCH/B10G.1 – Модуль универсального «базового» коммутатора 10/40GbE фирмы МикроЛАБ Системс для модульных систем ЦОС TORNADO-iMTCA",
+    "summary": "TORNADO—iMCH/B10G.1 – Модуль универсального «базового» коммутатора 10/40GbE фирмы МикроЛАБ Системс для модульных систем ЦОС TORNADO-iMTCA Российская фирма МикроЛАБ Системс приступи...",
+    "link": "https://elcomdesign.ru/uncategorized/tornado-imch-b10g-1-modul-universalnogo-bazovogo-kommutatora-10-40gbe-firmy-mikrolab-sistems-dlya-modulnyh-sistem-czos-tornado-imtca/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 27 May 2026 15:49:57 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "TORNADO-iMC/4.1 – Шасси стандарта iMTCA фирмы МикроЛАБ Системс для модульных систем ЦОС TORNADO-iMTCA",
+    "summary": "TORNADO—iMC/4.1 – Шасси стандарта iMTCA фирмы МикроЛАБ Системс для модульных систем ЦОС TORNADO-iMTCA Российская фирма МикроЛАБ Системс приступила к производству первого шасси TORN...",
+    "link": "https://elcomdesign.ru/uncategorized/tornado-imc-4-1-shassi-standarta-imtca-firmy-mikrolab-sistems-dlya-modulnyh-sistem-czos-tornado-imtca/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 27 May 2026 15:47:52 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Программа конференции «Контрактное производство и разработка на заказ» 18  июня в Москве",
+    "summary": "Программа конференции «Контрактное производство и разработка на заказ» 18  июня в Москве Коллеги, добрый день! Приглашаем руководителей компаний, технических директоров, директоров...",
+    "link": "https://elcomdesign.ru/uncategorized/programma-konferenczii-kontraktnoe-proizvodstvo-i-razrabotka-na-zakaz-18-iyunya-v-moskve/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 27 May 2026 14:36:08 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "«Правила, которые объединят»: в Москве впервые пройдет межотраслевая кейс-игра для производителей печатных плат, заказчиков и поставщиков",
+    "summary": "«Правила, которые объединят»: в Москве впервые пройдет межотраслевая кейс-игра для производителей печатных плат, заказчиков и поставщиков 05 июня в рамках II Всероссийской научно-п...",
+    "link": "https://elcomdesign.ru/uncategorized/pravila-kotorye-obedinyat-v-moskve-vpervye-projdet-mezhotraslevaya-kejs-igra-dlya-proizvoditelej-pechatnyh-plat-zakazchikov-i-postavshhikov/",
+    "source": "Электронные компоненты",
+    "pubDate": "Tue, 26 May 2026 14:01:41 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Завершён предварительный отбор участников Первого Всероссийского хакатона по CAE/CAD/CAM‑инструментам проектирования печатных плат!",
+    "summary": "Завершён предварительный отбор участников Первого Всероссийского хакатона по CAE/CAD/CAM‑инструментам проектирования печатных плат! РТУ МИРЭА и АНО «Консорциум печатных плат» сообщ...",
+    "link": "https://elcomdesign.ru/uncategorized/zavershyon-predvaritelnyj-otbor-uchastnikov-pervogo-vserossijskogo-hakatona-po-cae-cad-cam%e2%80%91instrumentam-proektirovaniya-pechatnyh-plat/",
+    "source": "Электронные компоненты",
+    "pubDate": "Tue, 26 May 2026 13:53:37 +0000",
     "lang": "ru"
   },
   {
@@ -32,115 +136,11 @@
     "lang": "ru"
   },
   {
-    "title": "[Перевод] Проектируем с нуля калькулятор на FPGA. Части 4 и 5: Фреймворк и оборудование",
-    "summary": "← Третья часть\nСколько себя помню, я любил играть в LEGO. Больше всего меня восхищало то, что из одного и того же набора типов блоков можно построить что угодно: главными были не б...",
-    "link": "https://habr.com/ru/articles/1037312/?utm_campaign=1037312&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 22 May 2026 07:32:54 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Сравниваем точность расчета копланарных линий передачи для СВЧ МИС: SimPCB Lite против Ansys HFSS",
-    "summary": "Проверили, насколько сильно расходятся результаты расчета, полученные в быстрой 2D-системе инженерного анализа SimPCB Lite, с результатами полноволнового 3D-симулятора Ansys HFSS н...",
-    "link": "https://habr.com/ru/companies/eremexru/articles/1037856/?utm_campaign=1037856&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Thu, 21 May 2026 14:55:53 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "LLM-инференс на фотонах? Препарируем передовые технологии, представленные в апреле",
-    "summary": "Majestic Labs Prometheus, Kingston DC3000ME на 30,72 ТБ, TPU восьмого поколения от Google и не только... Как всегда, вендоры не дремлют и участвует в AI-гонке. И должен признать, и...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1037756/?utm_campaign=1037756&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 21 May 2026 11:31:11 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Почему e-ink до сих пор не убил LCD, хотя должен был",
-    "summary": "В 2010 году у меня появился Kindle 3. Помню первое включение: открыл коробку, а внутри на экране — какой-то текст про настройку. Хотите верьте, хотите нет, но я секунд десять смотр...",
-    "link": "https://habr.com/ru/articles/1037642/?utm_campaign=1037642&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 21 May 2026 08:28:43 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Asus, MSI и Gigabyte урезают производство материнских плат. Что происходит на рынке",
-    "summary": "В последние месяцы компьютерная индустрия обсуждает не столько новые процессоры и видеокарты, сколько неожиданное сокращение выпуска материнских плат. Asus, MSI, Gigabyte и ASRock,...",
-    "link": "https://habr.com/ru/companies/ru_mts/articles/1036836/?utm_campaign=1036836&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 21 May 2026 07:17:59 GMT",
-    "lang": "ru"
-  },
-  {
     "title": "II Международная промышленная выставка «ИННОПРОМ. Беларусь» откроется в Минске 30 сентября 2026 года",
     "summary": "II Международная промышленная выставка «ИННОПРОМ. Беларусь» откроется в Минске 30 сентября 2026 года С 30 сентября по 2 октября 2026 года столица Республики Беларусь во второй раз...",
     "link": "https://elcomdesign.ru/uncategorized/ii-mezhdunarodnaya-promyshlennaya-vystavka-innoprom-belarus-otkroetsya-v-minske-30-sentyabrya-2026-goda/",
     "source": "Электронные компоненты",
     "pubDate": "Wed, 20 May 2026 10:23:39 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Открыта регистрация на выставку ИННОПРОМ",
-    "summary": "Открыта регистрация на выставку ИННОПРОМ Открыта регистрация на 16-ю Международную промышленную выставку ИННОПРОМ, которая состоится с 6 по 9 июля 2026 года в МВЦ «Екатеринбург-ЭКС...",
-    "link": "https://elcomdesign.ru/uncategorized/otkryta-registracziya-na-vystavku-innoprom/",
-    "source": "Электронные компоненты",
-    "pubDate": "Wed, 20 May 2026 10:19:21 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Технологические идеи и технологическая реальность: какие идеи станут былью?",
-    "summary": "Технологические идеи и технологическая реальность: какие идеи станут былью? В Москве 27–29 мая пройдет XXVIII Международная научно-техническая конференция по фотоэлектронике. Мероп...",
-    "link": "https://elcomdesign.ru/uncategorized/tehnologicheskie-idei-i-tehnologicheskaya-realnost-kakie-idei-stanut-bylyu/",
-    "source": "Электронные компоненты",
-    "pubDate": "Tue, 19 May 2026 09:16:35 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Регистрация на Российский форум «Микроэлектроника 2026» открыта",
-    "summary": "Регистрация на Российский форум «Микроэлектроника 2026» открыта Форум пройдет с 27 сентября по 3 октября 2026 года на традиционной площадке Научно-технологического университета «Си...",
-    "link": "https://elcomdesign.ru/uncategorized/registracziya-na-rossijskij-forum-mikroelektronika-2026-otkryta/",
-    "source": "Электронные компоненты",
-    "pubDate": "Fri, 15 May 2026 14:10:12 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Расчет и построение повышающего DC/DC-преобразователя с мягкой коммутацией",
-    "summary": "Расчет и построение повышающего DC/DC-преобразователя с мягкой коммутацией Михаил Соколов, инженер Статья размещена в журнале «Электронные Компоненты» » №3-2026г. В статье поэтапно...",
-    "link": "https://elcomdesign.ru/uncategorized/raschet-i-postroenie-povyshayushhego-dc-dc-preobrazovatelya-s-myagkoj-kommutacziej/",
-    "source": "Электронные компоненты",
-    "pubDate": "Fri, 15 May 2026 11:35:39 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Сформирована программа конференции «Силовая электроника- 2026»",
-    "summary": "Сформирована программа конференции «Силовая электроника- 2026» Конференция «Силовая электроника — 2026» состоится 28 мая в Москве ПРОГРАММА КОНФЕРЕНЦИИ   Конгресс—центр отеля “Вега...",
-    "link": "https://elcomdesign.ru/uncategorized/sformirovana-programma-konferenczii-silovaya-elektronika-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 14 May 2026 09:03:52 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Презентация исследования российского рынка электронных компонентов",
-    "summary": "Презентация исследования российского рынка электронных компонентов Дата: 28 мая 2026 года Место проведения: Москва, Измайловское шоссе д. 71, корп. 2Б, Отель «Бета» Измайлово, зал...",
-    "link": "https://elcomdesign.ru/uncategorized/prezentacziya-issledovaniya-rossijskogo-rynka-elektronnyh-komponentov/",
-    "source": "Электронные компоненты",
-    "pubDate": "Tue, 12 May 2026 16:48:05 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "От ЭКБ до готовой продукции: российские разработки на «Электронике России» 2026",
-    "summary": "От ЭКБ до готовой продукции: российские разработки на «Электронике России» 2026 24-26 ноября 2026 в Москве, в МВЦ «Крокус Экспо» пройдет 5-я Международная выставка-форум «Электрони...",
-    "link": "https://elcomdesign.ru/uncategorized/ot-ekb-do-gotovoj-produkczii-rossijskie-razrabotki-na-elektronike-rossii-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Tue, 28 Apr 2026 07:58:33 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Эволюция электрических зарядок: от первых разъёмов до мегаваттных станций для грузовиков",
-    "summary": "Эволюция электрических зарядок: от первых разъёмов до мегаваттных станций для грузовиков Истоки: зарождение инфраструктуры электромобилей   Статья размещена в журнале «Электронные...",
-    "link": "https://elcomdesign.ru/uncategorized/evolyucziya-elektricheskih-zaryadok-ot-pervyh-razyomov-do-megavattnyh-stanczij-dlya-gruzovikov/",
-    "source": "Электронные компоненты",
-    "pubDate": "Sun, 26 Apr 2026 08:33:24 +0000",
     "lang": "ru"
   }
 ]

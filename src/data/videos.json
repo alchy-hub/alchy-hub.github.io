@@ -1,5 +1,76 @@
 [
   {
+    "id": "nZCsmlEl4fM",
+    "title": "Сколько нужно времени для выборки АЦП? Постоянные времени и точность. #электроника #АЦП",
+    "description": "Многие ищут проблему в цифровых фильтрах, когда АЦП работает нестабильно, но часто причина в банальном недозаряде входной емкости.\n\nВ этом видео разбираем: \n- Почему для 10, 12 и 16 бит нужны разные коэффициенты времени выборки (7.6, 9.0 и 11.8). \n- Как требование «ошибки менее 1/2 МЗР» превращается в математическую формулу. \n- Почему RC-цепочка на входе определяет стабильность ваших измерений.\n\nСначала проверьте фазу выборки, а уже потом настраивайте усреднение!\n\nПодписывайтесь на канал ALCHY, здесь мы разбираем схемотехнику.\n\nBoosty - https://boosty.to/alchy_channel (материалы по видео, ссылки и коллекции документов)\nTelegram - https://t.me/alchy_lab (оповещение о выходе новых видео, чек-листы, ссылки на источники)\nСайт - https://alchy-hub.github.io/ \n\n#схемотехника #электроника #АЦП #микроконтроллер #инженерия  #измерения",
+    "publishedAt": "2026-05-29T16:26:55Z",
+    "thumbnails": {
+      "medium": "https://i.ytimg.com/vi/nZCsmlEl4fM/mqdefault.jpg",
+      "high": "https://i.ytimg.com/vi/nZCsmlEl4fM/hqdefault.jpg",
+      "maxres": "https://i.ytimg.com/vi/nZCsmlEl4fM/maxresdefault.jpg"
+    },
+    "duration": "PT2M44S",
+    "viewCount": 5415,
+    "likeCount": 401,
+    "commentCount": 13,
+    "tags": [
+      "АЦП",
+      "точность АЦП",
+      "время выборки",
+      "sample time",
+      "время установления",
+      "RC цепь",
+      "электроника",
+      "схемотехника",
+      "разрядность АЦП",
+      "12 бит",
+      "16 бит",
+      "ошибки АЦП",
+      "входной каскад",
+      "микроконтроллер",
+      "ALCHY."
+    ]
+  },
+  {
+    "id": "R5LmaI6iu6Q",
+    "title": "Как сгладить сигнал без буфера: EMA простыми словамию. #EMA #DSP",
+    "description": "Как сгладить шумный сигнал с датчика, не храня массив прошлых измерений?\n\nВ этом видео разбираем EMA - экспоненциальное скользящее среднее. Это простой цифровой фильтр, который использует только одно состояние и постепенно сдвигает его в сторону нового измерения.\n\nПокажем, почему скользящему среднему нужен буфер, как EMA обходится одной переменной, что делает коэффициент alpha и почему такой фильтр особенно удобен для микроконтроллеров.\n\nEMA — это сглаживание данных без массива.\n\nBoosty - https://boosty.to/alchy_channel (материалы по видео, ссылки и коллекции документов)\nTelegram - https://t.me/alchy_lab (оповещение о выходе новых видео, чек-листы, ссылки на источники)\nСайт - https://alchy-hub.github.io/ \n\n#EMA #DSP #ЦОС #Микроконтроллеры #ESP32 #Arduino #Embedded #Фильтрация",
+    "publishedAt": "2026-05-24T11:52:17Z",
+    "thumbnails": {
+      "medium": "https://i.ytimg.com/vi/R5LmaI6iu6Q/mqdefault.jpg",
+      "high": "https://i.ytimg.com/vi/R5LmaI6iu6Q/hqdefault.jpg",
+      "maxres": "https://i.ytimg.com/vi/R5LmaI6iu6Q/maxresdefault.jpg"
+    },
+    "duration": "PT2M58S",
+    "viewCount": 23663,
+    "likeCount": 1332,
+    "commentCount": 72,
+    "tags": [
+      "EMA",
+      "EMA фильтр",
+      "Exponential Moving Average",
+      "экспоненциальное скользящее среднее",
+      "сглаживание данных",
+      "сглаживание сигнала",
+      "цифровой фильтр",
+      "фильтрация сигнала",
+      "ЦОС",
+      "DSP",
+      "микроконтроллеры",
+      "Arduino",
+      "ESP32",
+      "STM32",
+      "embedded",
+      "фильтр для датчика",
+      "шум датчика",
+      "скользящее среднее",
+      "moving average",
+      "фильтр без массива",
+      "фильтр без буфера",
+      "alpha filter"
+    ]
+  },
+  {
     "id": "pAEOdxPwLVI",
     "title": "АЦП шумит? Почему младшие биты могут быть не шумом. #АЦП #Электроника #Схемотехника",
     "description": "В этом выпуске начинаем серию про реальные ошибки измерений на АЦП.\n\nРазберем, почему даже хороший АЦП в реальной схеме может терять точность до начала самого преобразования. Главная тема выпуска - входная емкостная структура АЦП последовательного приближения: фаза выборки, внутренняя емкость, зарядовое перераспределение, коммутационный импульс и ошибка установления.\n\nКлючевая мысль выпуска: младшие биты могут быть нестабильны не только из-за шума. Иногда это следствие того, что внутренняя емкость АЦП просто не успела установиться до нужного допуска.\n\nВ следующей части разберем входной RC-фильтр и драйвер АЦП: как внешний конденсатор помогает входу АЦП, почему он может вызвать звон операционного усилителя и как правильно рассматривать фильтр, драйвер и АЦП как единую динамическую систему.\n\nТаймкоды выпуска:\n00:00 — Почему реальные измерения АЦП хуже, чем в даташите?\n00:59 — Главное заблуждение: почему статическая модель входного сопротивления не работает.\n01:22 — Динамическая модель: ключи, паразитные емкости и перенос заряда.\n02:07 — Внутренний цикл работы: фаза выборки (acquisition) и фаза приближения.\n03:14 — Физика процесса: почему время установления зависит от RC-цепи.\n04:44 — Эффект \"Charge Kickback\" (зарядовый выброс) при коммутации.\n05:34 — Математика точности: сколько младших разрядов (LSB) мы теряем?\n06:55 — Почему высокая разрядность не делает вход точнее, а лишь усложняет расчет.\n07:51 — Практический пример: расчет времени выборки для 16-битного АЦП.\n09:28 — Чек-лист: что проверить в схеме, если АЦП шумит.\n10:12 — Анонс: роль внешнего конденсатора и драйвера АЦП.\n\nПолезные материалы и эксклюзив:  https://boosty.to/alchy_channel \nTelegram-канал  (анонсы):  t.me/alchy_lab\nКаталог канал:   https://https://alchy-hub.github.io/",
@@ -10,9 +81,9 @@
       "maxres": "https://i.ytimg.com/vi/pAEOdxPwLVI/maxresdefault.jpg"
     },
     "duration": "PT10M46S",
-    "viewCount": 4327,
-    "likeCount": 312,
-    "commentCount": 40,
+    "viewCount": 6759,
+    "likeCount": 422,
+    "commentCount": 71,
     "tags": [
       "АЦП",
       "ADC",
@@ -55,9 +126,9 @@
       "maxres": "https://i.ytimg.com/vi/fjaRKd52_vc/maxresdefault.jpg"
     },
     "duration": "PT2M59S",
-    "viewCount": 32706,
-    "likeCount": 1650,
-    "commentCount": 105,
+    "viewCount": 38299,
+    "likeCount": 1965,
+    "commentCount": 115,
     "tags": [
       "алиасинг",
       "aliasing",
@@ -102,9 +173,9 @@
       "maxres": "https://i.ytimg.com/vi/32Zims71ljI/maxresdefault.jpg"
     },
     "duration": "PT3M",
-    "viewCount": 96132,
-    "likeCount": 2688,
-    "commentCount": 110,
+    "viewCount": 102010,
+    "likeCount": 2859,
+    "commentCount": 116,
     "tags": [
       "скользящее среднее",
       "moving average",
@@ -142,9 +213,9 @@
       "maxres": "https://i.ytimg.com/vi/BHzm34h6SE8/maxresdefault.jpg"
     },
     "duration": "PT1M30S",
-    "viewCount": 3727,
+    "viewCount": 3872,
     "likeCount": 50,
-    "commentCount": 6,
+    "commentCount": 7,
     "tags": [
       "Доктор Ворис",
       "Чёрный корпус",
@@ -173,8 +244,8 @@
       "maxres": "https://i.ytimg.com/vi/6c8l1NyrnCM/maxresdefault.jpg"
     },
     "duration": "PT14M3S",
-    "viewCount": 2894,
-    "likeCount": 163,
+    "viewCount": 3010,
+    "likeCount": 167,
     "commentCount": 85,
     "tags": [
       "Доктор Ворис",
@@ -204,9 +275,9 @@
       "maxres": "https://i.ytimg.com/vi/i5U4lV_T8lA/maxresdefault.jpg"
     },
     "duration": "PT2M59S",
-    "viewCount": 110542,
-    "likeCount": 3780,
-    "commentCount": 163,
+    "viewCount": 118169,
+    "likeCount": 4028,
+    "commentCount": 176,
     "tags": [
       "arduino",
       "analogRead",
@@ -236,8 +307,8 @@
       "maxres": "https://i.ytimg.com/vi/QCKv6HQRd6s/maxresdefault.jpg"
     },
     "duration": "PT10M41S",
-    "viewCount": 4578,
-    "likeCount": 326,
+    "viewCount": 4752,
+    "likeCount": 331,
     "commentCount": 28,
     "tags": [],
     "playlistId": "PLX_FogAQkJsj_ObqvK9Di28aFgMFiNu0U",
@@ -254,8 +325,8 @@
       "maxres": "https://i.ytimg.com/vi/jngotwW1M24/maxresdefault.jpg"
     },
     "duration": "PT1M9S",
-    "viewCount": 19900,
-    "likeCount": 799,
+    "viewCount": 20225,
+    "likeCount": 811,
     "commentCount": 13,
     "tags": []
   },
@@ -270,8 +341,8 @@
       "maxres": "https://i.ytimg.com/vi/H35X9dkWkww/maxresdefault.jpg"
     },
     "duration": "PT11M32S",
-    "viewCount": 18052,
-    "likeCount": 997,
+    "viewCount": 18387,
+    "likeCount": 1015,
     "commentCount": 91,
     "tags": [],
     "playlistId": "PLX_FogAQkJsj_ObqvK9Di28aFgMFiNu0U",
@@ -288,8 +359,8 @@
       "maxres": "https://i.ytimg.com/vi/PAkaTXAyT0w/maxresdefault.jpg"
     },
     "duration": "PT1M25S",
-    "viewCount": 32111,
-    "likeCount": 805,
+    "viewCount": 32505,
+    "likeCount": 822,
     "commentCount": 37,
     "tags": [
       "mosfet",
@@ -326,8 +397,8 @@
       "maxres": "https://i.ytimg.com/vi/nhsDZjDi4mQ/maxresdefault.jpg"
     },
     "duration": "PT10M45S",
-    "viewCount": 14752,
-    "likeCount": 599,
+    "viewCount": 14838,
+    "likeCount": 604,
     "commentCount": 50,
     "tags": [],
     "playlistId": "PLX_FogAQkJshnM8W9vGjaMd0eh47TlQ5H",
@@ -344,8 +415,8 @@
       "maxres": "https://i.ytimg.com/vi/2_Y-I6RUSTE/maxresdefault.jpg"
     },
     "duration": "PT10M21S",
-    "viewCount": 35043,
-    "likeCount": 1641,
+    "viewCount": 35203,
+    "likeCount": 1652,
     "commentCount": 240,
     "tags": [],
     "playlistId": "PLX_FogAQkJshnM8W9vGjaMd0eh47TlQ5H",
@@ -362,9 +433,9 @@
       "maxres": "https://i.ytimg.com/vi/-wSgm_oHuro/maxresdefault.jpg"
     },
     "duration": "PT1M52S",
-    "viewCount": 149287,
-    "likeCount": 3707,
-    "commentCount": 128,
+    "viewCount": 149611,
+    "likeCount": 3724,
+    "commentCount": 131,
     "tags": [
       "биполярный транзистор",
       "коллекторная стабилизация",
@@ -398,8 +469,8 @@
       "maxres": "https://i.ytimg.com/vi/EGQvO4XyJiE/maxresdefault.jpg"
     },
     "duration": "PT1M13S",
-    "viewCount": 72827,
-    "likeCount": 2340,
+    "viewCount": 72975,
+    "likeCount": 2348,
     "commentCount": 125,
     "tags": [
       "MOSFET",
@@ -423,8 +494,8 @@
       "high": "https://i.ytimg.com/vi/15oR2GwTJMM/hqdefault.jpg"
     },
     "duration": "PT9M9S",
-    "viewCount": 10279,
-    "likeCount": 681,
+    "viewCount": 10309,
+    "likeCount": 683,
     "commentCount": 93,
     "tags": [],
     "playlistId": "PLX_FogAQkJshnM8W9vGjaMd0eh47TlQ5H",
@@ -441,8 +512,8 @@
       "maxres": "https://i.ytimg.com/vi/MHQyjHjpFw0/maxresdefault.jpg"
     },
     "duration": "PT59S",
-    "viewCount": 59771,
-    "likeCount": 1266,
+    "viewCount": 60785,
+    "likeCount": 1298,
     "commentCount": 38,
     "tags": [
       "электроника",
@@ -477,8 +548,8 @@
       "maxres": "https://i.ytimg.com/vi/5VJUw4pyL98/maxresdefault.jpg"
     },
     "duration": "PT1M8S",
-    "viewCount": 220479,
-    "likeCount": 4695,
+    "viewCount": 221342,
+    "likeCount": 4727,
     "commentCount": 154,
     "tags": [
       "транзистор",
@@ -519,8 +590,8 @@
       "maxres": "https://i.ytimg.com/vi/Weg1OGRXESA/maxresdefault.jpg"
     },
     "duration": "PT1M1S",
-    "viewCount": 144087,
-    "likeCount": 2969,
+    "viewCount": 144375,
+    "likeCount": 2981,
     "commentCount": 109,
     "tags": [
       "биполярный транзистор",
@@ -550,8 +621,8 @@
       "maxres": "https://i.ytimg.com/vi/cEnrgPaGTq0/maxresdefault.jpg"
     },
     "duration": "PT1M8S",
-    "viewCount": 84612,
-    "likeCount": 1713,
+    "viewCount": 85005,
+    "likeCount": 1729,
     "commentCount": 52,
     "tags": [
       "тепловой расчет",
@@ -586,8 +657,8 @@
       "maxres": "https://i.ytimg.com/vi/dE9ku55qtqE/maxresdefault.jpg"
     },
     "duration": "PT14M30S",
-    "viewCount": 6274,
-    "likeCount": 550,
+    "viewCount": 6310,
+    "likeCount": 551,
     "commentCount": 62,
     "tags": [],
     "playlistId": "PLX_FogAQkJshnM8W9vGjaMd0eh47TlQ5H",
@@ -604,9 +675,9 @@
       "maxres": "https://i.ytimg.com/vi/vQWHMs5QQpw/maxresdefault.jpg"
     },
     "duration": "PT1M8S",
-    "viewCount": 237713,
-    "likeCount": 3372,
-    "commentCount": 66,
+    "viewCount": 238418,
+    "likeCount": 3398,
+    "commentCount": 69,
     "tags": [
       "PCB Design",
       "KiCad 7",
@@ -645,8 +716,8 @@
       "maxres": "https://i.ytimg.com/vi/KKRNX9beUm0/maxresdefault.jpg"
     },
     "duration": "PT9M6S",
-    "viewCount": 26255,
-    "likeCount": 553,
+    "viewCount": 26274,
+    "likeCount": 556,
     "commentCount": 82,
     "tags": [],
     "playlistId": "PLX_FogAQkJshnM8W9vGjaMd0eh47TlQ5H",
@@ -663,8 +734,8 @@
       "maxres": "https://i.ytimg.com/vi/p-K4IXRTHl0/maxresdefault.jpg"
     },
     "duration": "PT1M",
-    "viewCount": 81806,
-    "likeCount": 1305,
+    "viewCount": 86653,
+    "likeCount": 1408,
     "commentCount": 49,
     "tags": [
       "почему греется транзистор",
@@ -699,8 +770,8 @@
       "maxres": "https://i.ytimg.com/vi/nFdJW1axKjY/maxresdefault.jpg"
     },
     "duration": "PT1M1S",
-    "viewCount": 41361,
-    "likeCount": 663,
+    "viewCount": 41430,
+    "likeCount": 665,
     "commentCount": 24,
     "tags": [
       "почему греется транзистор",
@@ -735,8 +806,8 @@
       "maxres": "https://i.ytimg.com/vi/Ob13lVU41mA/maxresdefault.jpg"
     },
     "duration": "PT11M31S",
-    "viewCount": 18058,
-    "likeCount": 986,
+    "viewCount": 18104,
+    "likeCount": 989,
     "commentCount": 225,
     "tags": [],
     "playlistId": "PLX_FogAQkJshnM8W9vGjaMd0eh47TlQ5H",
@@ -753,9 +824,9 @@
       "maxres": "https://i.ytimg.com/vi/Qe4N0Lm9tcQ/maxresdefault.jpg"
     },
     "duration": "PT48S",
-    "viewCount": 14083,
-    "likeCount": 321,
-    "commentCount": 65,
+    "viewCount": 14269,
+    "likeCount": 328,
+    "commentCount": 66,
     "tags": [
       "белый налет на плате",
       "дендриты",
@@ -794,8 +865,8 @@
       "maxres": "https://i.ytimg.com/vi/AZrsEkDQP7Y/maxresdefault.jpg"
     },
     "duration": "PT17S",
-    "viewCount": 11329,
-    "likeCount": 187,
+    "viewCount": 11426,
+    "likeCount": 189,
     "commentCount": 16,
     "tags": [
       "белый налет на плате",
@@ -835,8 +906,8 @@
       "maxres": "https://i.ytimg.com/vi/INzs3l3glGg/maxresdefault.jpg"
     },
     "duration": "PT52S",
-    "viewCount": 11006,
-    "likeCount": 224,
+    "viewCount": 11100,
+    "likeCount": 227,
     "commentCount": 6,
     "tags": [
       "белый налет на плате",
@@ -876,8 +947,8 @@
       "maxres": "https://i.ytimg.com/vi/J5GfMmro6dQ/maxresdefault.jpg"
     },
     "duration": "PT10M57S",
-    "viewCount": 7260,
-    "likeCount": 515,
+    "viewCount": 7293,
+    "likeCount": 519,
     "commentCount": 67,
     "tags": [],
     "playlistId": "PLX_FogAQkJsjUq7PkiYSOwpVcLkv1s4Th",
@@ -894,8 +965,8 @@
       "maxres": "https://i.ytimg.com/vi/3RQqCnE72Wc/maxresdefault.jpg"
     },
     "duration": "PT6M28S",
-    "viewCount": 5454,
-    "likeCount": 416,
+    "viewCount": 5480,
+    "likeCount": 419,
     "commentCount": 43,
     "tags": [
       "электроника",
@@ -939,8 +1010,8 @@
       "maxres": "https://i.ytimg.com/vi/4wow7071JRw/maxresdefault.jpg"
     },
     "duration": "PT49S",
-    "viewCount": 26880,
-    "likeCount": 633,
+    "viewCount": 26964,
+    "likeCount": 638,
     "commentCount": 31,
     "tags": [
       "электроника",
@@ -986,8 +1057,8 @@
       "maxres": "https://i.ytimg.com/vi/DG3BVZCpNVA/maxresdefault.jpg"
     },
     "duration": "PT55S",
-    "viewCount": 25692,
-    "likeCount": 604,
+    "viewCount": 25765,
+    "likeCount": 608,
     "commentCount": 22,
     "tags": [
       "электроника",
@@ -1032,8 +1103,8 @@
       "high": "https://i.ytimg.com/vi/A1OoWAe3pq0/hqdefault.jpg"
     },
     "duration": "PT11M34S",
-    "viewCount": 18603,
-    "likeCount": 1439,
+    "viewCount": 18653,
+    "likeCount": 1442,
     "commentCount": 276,
     "tags": [
       "электроника",
@@ -1081,8 +1152,8 @@
       "maxres": "https://i.ytimg.com/vi/SFMfhRoqogI/maxresdefault.jpg"
     },
     "duration": "PT53S",
-    "viewCount": 21792,
-    "likeCount": 536,
+    "viewCount": 21840,
+    "likeCount": 535,
     "commentCount": 10,
     "tags": [
       "PPTC",
@@ -1110,7 +1181,7 @@
       "maxres": "https://i.ytimg.com/vi/1m8B8sjYUL4/maxresdefault.jpg"
     },
     "duration": "PT59S",
-    "viewCount": 56236,
+    "viewCount": 56286,
     "likeCount": 1055,
     "commentCount": 17,
     "tags": [
@@ -1139,7 +1210,7 @@
       "maxres": "https://i.ytimg.com/vi/Y2bt6YLlQDw/maxresdefault.jpg"
     },
     "duration": "PT11M22S",
-    "viewCount": 6459,
+    "viewCount": 6470,
     "likeCount": 491,
     "commentCount": 95,
     "tags": [
@@ -1170,8 +1241,8 @@
       "maxres": "https://i.ytimg.com/vi/XDj7Pbtbgb0/maxresdefault.jpg"
     },
     "duration": "PT54S",
-    "viewCount": 242733,
-    "likeCount": 5276,
+    "viewCount": 243382,
+    "likeCount": 5294,
     "commentCount": 202,
     "tags": [
       "MLCC",
@@ -1211,8 +1282,8 @@
       "maxres": "https://i.ytimg.com/vi/rtU5jg5-qR0/maxresdefault.jpg"
     },
     "duration": "PT1M12S",
-    "viewCount": 133595,
-    "likeCount": 2606,
+    "viewCount": 133693,
+    "likeCount": 2611,
     "commentCount": 105,
     "tags": [
       "MLCC",
@@ -1251,8 +1322,8 @@
       "high": "https://i.ytimg.com/vi/JzSFNS81l9s/hqdefault.jpg"
     },
     "duration": "PT14M59S",
-    "viewCount": 29482,
-    "likeCount": 2464,
+    "viewCount": 29572,
+    "likeCount": 2463,
     "commentCount": 398,
     "tags": [
       "MLCC",
@@ -1294,8 +1365,8 @@
       "maxres": "https://i.ytimg.com/vi/4IJ2bHmFS6c/maxresdefault.jpg"
     },
     "duration": "PT36S",
-    "viewCount": 6903,
-    "likeCount": 157,
+    "viewCount": 6945,
+    "likeCount": 158,
     "commentCount": 6,
     "tags": [
       "LDO",
@@ -1333,8 +1404,8 @@
       "high": "https://i.ytimg.com/vi/uEADsoYJWIY/hqdefault.jpg"
     },
     "duration": "PT13M18S",
-    "viewCount": 27046,
-    "likeCount": 1376,
+    "viewCount": 27150,
+    "likeCount": 1389,
     "commentCount": 262,
     "tags": [
       "LDO",
@@ -1375,7 +1446,7 @@
       "maxres": "https://i.ytimg.com/vi/vr53JZKNiX8/maxresdefault.jpg"
     },
     "duration": "PT1M1S",
-    "viewCount": 6292,
+    "viewCount": 6334,
     "likeCount": 238,
     "commentCount": 12,
     "tags": [
@@ -1413,8 +1484,8 @@
       "maxres": "https://i.ytimg.com/vi/4wqjZsHh3lI/maxresdefault.jpg"
     },
     "duration": "PT13M42S",
-    "viewCount": 18383,
-    "likeCount": 1020,
+    "viewCount": 18459,
+    "likeCount": 1023,
     "commentCount": 182,
     "tags": [
       "даташит",
@@ -1453,7 +1524,7 @@
       "maxres": "https://i.ytimg.com/vi/mK-fpQq68QY/maxresdefault.jpg"
     },
     "duration": "PT1M1S",
-    "viewCount": 7825,
+    "viewCount": 7857,
     "likeCount": 201,
     "commentCount": 7,
     "tags": [
@@ -1496,7 +1567,7 @@
       "maxres": "https://i.ytimg.com/vi/9VX_MwXWRjs/maxresdefault.jpg"
     },
     "duration": "PT1M11S",
-    "viewCount": 6871,
+    "viewCount": 6932,
     "likeCount": 158,
     "commentCount": 4,
     "tags": [
@@ -1539,8 +1610,8 @@
       "maxres": "https://i.ytimg.com/vi/3N2Q9AeRVpM/maxresdefault.jpg"
     },
     "duration": "PT11M58S",
-    "viewCount": 6550,
-    "likeCount": 375,
+    "viewCount": 6576,
+    "likeCount": 379,
     "commentCount": 62,
     "tags": [
       "TVS",
@@ -1584,7 +1655,7 @@
       "maxres": "https://i.ytimg.com/vi/JWFyPJxE72M/maxresdefault.jpg"
     },
     "duration": "PT58S",
-    "viewCount": 7682,
+    "viewCount": 7712,
     "likeCount": 197,
     "commentCount": 2,
     "tags": [
@@ -1624,8 +1695,8 @@
       "maxres": "https://i.ytimg.com/vi/RgT22FQmLAY/maxresdefault.jpg"
     },
     "duration": "PT15M37S",
-    "viewCount": 3396,
-    "likeCount": 203,
+    "viewCount": 3430,
+    "likeCount": 205,
     "commentCount": 22,
     "tags": [
       "RS-485",
@@ -1666,7 +1737,7 @@
       "maxres": "https://i.ytimg.com/vi/72iUd5Ntqpw/maxresdefault.jpg"
     },
     "duration": "PT8M41S",
-    "viewCount": 1112,
+    "viewCount": 1130,
     "likeCount": 58,
     "commentCount": 3,
     "tags": [
@@ -1708,7 +1779,7 @@
       "maxres": "https://i.ytimg.com/vi/94uLLZkvk2Q/maxresdefault.jpg"
     },
     "duration": "PT35S",
-    "viewCount": 2815,
+    "viewCount": 2848,
     "likeCount": 26,
     "commentCount": 2,
     "tags": [
@@ -1748,7 +1819,7 @@
       "maxres": "https://i.ytimg.com/vi/-bfwo7mcU4c/maxresdefault.jpg"
     },
     "duration": "PT10M32S",
-    "viewCount": 778,
+    "viewCount": 786,
     "likeCount": 65,
     "commentCount": 9,
     "tags": [
@@ -1790,7 +1861,7 @@
       "maxres": "https://i.ytimg.com/vi/-RHa7fe9ciU/maxresdefault.jpg"
     },
     "duration": "PT9M23S",
-    "viewCount": 1283,
+    "viewCount": 1290,
     "likeCount": 65,
     "commentCount": 0,
     "tags": [
@@ -1832,7 +1903,7 @@
       "maxres": "https://i.ytimg.com/vi/gG67wpt6zzc/maxresdefault.jpg"
     },
     "duration": "PT8M48S",
-    "viewCount": 633,
+    "viewCount": 639,
     "likeCount": 38,
     "commentCount": 11,
     "tags": [
@@ -1871,7 +1942,7 @@
       "maxres": "https://i.ytimg.com/vi/7O7IDw_AKO0/maxresdefault.jpg"
     },
     "duration": "PT9M22S",
-    "viewCount": 512,
+    "viewCount": 521,
     "likeCount": 38,
     "commentCount": 4,
     "tags": [
@@ -1921,7 +1992,7 @@
       "maxres": "https://i.ytimg.com/vi/vkqWnad-72I/maxresdefault.jpg"
     },
     "duration": "PT6M39S",
-    "viewCount": 1271,
+    "viewCount": 1283,
     "likeCount": 73,
     "commentCount": 7,
     "tags": [
@@ -1971,8 +2042,8 @@
       "maxres": "https://i.ytimg.com/vi/A1a4Xz2nHJ0/maxresdefault.jpg"
     },
     "duration": "PT7M50S",
-    "viewCount": 3990,
-    "likeCount": 261,
+    "viewCount": 4008,
+    "likeCount": 262,
     "commentCount": 27,
     "tags": [
       "конденсаторы",
@@ -2004,7 +2075,7 @@
       "maxres": "https://i.ytimg.com/vi/2I33fG3H-aY/maxresdefault.jpg"
     },
     "duration": "PT19S",
-    "viewCount": 3093,
+    "viewCount": 3115,
     "likeCount": 45,
     "commentCount": 3,
     "tags": [
@@ -2041,7 +2112,7 @@
       "maxres": "https://i.ytimg.com/vi/iNOxVyl4MWw/maxresdefault.jpg"
     },
     "duration": "PT22S",
-    "viewCount": 3139,
+    "viewCount": 3170,
     "likeCount": 33,
     "commentCount": 4,
     "tags": []
@@ -2057,8 +2128,8 @@
       "maxres": "https://i.ytimg.com/vi/K_LRJmJ9nCk/maxresdefault.jpg"
     },
     "duration": "PT10M4S",
-    "viewCount": 3832,
-    "likeCount": 184,
+    "viewCount": 3859,
+    "likeCount": 186,
     "commentCount": 47,
     "tags": [
       "ПЛК",
@@ -2094,9 +2165,9 @@
       "maxres": "https://i.ytimg.com/vi/ojswY4zScYI/maxresdefault.jpg"
     },
     "duration": "PT7M3S",
-    "viewCount": 1271,
-    "likeCount": 111,
-    "commentCount": 10,
+    "viewCount": 1280,
+    "likeCount": 112,
+    "commentCount": 11,
     "tags": [
       "Измерение температуры",
       "ratiometric",
@@ -2136,7 +2207,7 @@
       "maxres": "https://i.ytimg.com/vi/SoV4is1h7pY/maxresdefault.jpg"
     },
     "duration": "PT7M44S",
-    "viewCount": 1985,
+    "viewCount": 1992,
     "likeCount": 142,
     "commentCount": 22,
     "tags": [
@@ -2178,8 +2249,8 @@
       "maxres": "https://i.ytimg.com/vi/1eWwpZR-Xtk/maxresdefault.jpg"
     },
     "duration": "PT10M55S",
-    "viewCount": 1737,
-    "likeCount": 86,
+    "viewCount": 1744,
+    "likeCount": 87,
     "commentCount": 9,
     "tags": [
       "Конечно",
@@ -2232,8 +2303,8 @@
       "maxres": "https://i.ytimg.com/vi/hLPR7vmF6NY/maxresdefault.jpg"
     },
     "duration": "PT10M56S",
-    "viewCount": 6632,
-    "likeCount": 338,
+    "viewCount": 6713,
+    "likeCount": 340,
     "commentCount": 42,
     "tags": [
       "терминирование rs-485",
@@ -2275,7 +2346,7 @@
       "maxres": "https://i.ytimg.com/vi/pvQ6i8S9p4Q/maxresdefault.jpg"
     },
     "duration": "PT10M46S",
-    "viewCount": 2945,
+    "viewCount": 2952,
     "likeCount": 174,
     "commentCount": 31,
     "tags": [
@@ -2324,7 +2395,7 @@
       "maxres": "https://i.ytimg.com/vi/QaIzH4idCe4/maxresdefault.jpg"
     },
     "duration": "PT30S",
-    "viewCount": 2801,
+    "viewCount": 2824,
     "likeCount": 26,
     "commentCount": 4,
     "tags": []
@@ -2340,8 +2411,8 @@
       "maxres": "https://i.ytimg.com/vi/GvdebS3QaM8/maxresdefault.jpg"
     },
     "duration": "PT11M19S",
-    "viewCount": 6969,
-    "likeCount": 324,
+    "viewCount": 7002,
+    "likeCount": 326,
     "commentCount": 52,
     "tags": [
       "RS-232",
@@ -2380,7 +2451,7 @@
       "maxres": "https://i.ytimg.com/vi/_s3iabbfcfQ/maxresdefault.jpg"
     },
     "duration": "PT13M57S",
-    "viewCount": 6327,
+    "viewCount": 6353,
     "likeCount": 340,
     "commentCount": 47,
     "tags": [
@@ -2429,7 +2500,7 @@
       "maxres": "https://i.ytimg.com/vi/cyL6ZzqR8lk/maxresdefault.jpg"
     },
     "duration": "PT35S",
-    "viewCount": 1604,
+    "viewCount": 1625,
     "likeCount": 30,
     "commentCount": 2,
     "tags": []
@@ -2445,8 +2516,8 @@
       "maxres": "https://i.ytimg.com/vi/80eXGn2-oZs/maxresdefault.jpg"
     },
     "duration": "PT10M29S",
-    "viewCount": 4797,
-    "likeCount": 307,
+    "viewCount": 4850,
+    "likeCount": 308,
     "commentCount": 64,
     "tags": [
       "заземление экрана",
@@ -2489,7 +2560,7 @@
       "maxres": "https://i.ytimg.com/vi/rjGxwMe7C8Q/maxresdefault.jpg"
     },
     "duration": "PT30S",
-    "viewCount": 2229,
+    "viewCount": 2249,
     "likeCount": 13,
     "commentCount": 1,
     "tags": [
@@ -2539,8 +2610,8 @@
       "maxres": "https://i.ytimg.com/vi/n4Gwa5wvazs/maxresdefault.jpg"
     },
     "duration": "PT16M13S",
-    "viewCount": 7334,
-    "likeCount": 425,
+    "viewCount": 7370,
+    "likeCount": 428,
     "commentCount": 91,
     "tags": [
       "заземление",
@@ -2588,8 +2659,8 @@
       "maxres": "https://i.ytimg.com/vi/mhB9qYKqYfE/maxresdefault.jpg"
     },
     "duration": "PT15M",
-    "viewCount": 12835,
-    "likeCount": 651,
+    "viewCount": 12904,
+    "likeCount": 652,
     "commentCount": 125,
     "tags": [
       "токовая петля",
@@ -2631,7 +2702,7 @@
       "maxres": "https://i.ytimg.com/vi/tXyZ4qmPtVo/maxresdefault.jpg"
     },
     "duration": "PT1M13S",
-    "viewCount": 2013,
+    "viewCount": 2028,
     "likeCount": 26,
     "commentCount": 4,
     "tags": [
@@ -2668,7 +2739,7 @@
       "maxres": "https://i.ytimg.com/vi/L5JwrCddTpg/maxresdefault.jpg"
     },
     "duration": "PT41S",
-    "viewCount": 2540,
+    "viewCount": 2552,
     "likeCount": 31,
     "commentCount": 1,
     "tags": [
@@ -2706,8 +2777,8 @@
       "maxres": "https://i.ytimg.com/vi/q260HQ8NqF8/maxresdefault.jpg"
     },
     "duration": "PT29S",
-    "viewCount": 2693,
-    "likeCount": 27,
+    "viewCount": 2712,
+    "likeCount": 28,
     "commentCount": 3,
     "tags": [
       "твердотельное реле",
@@ -2746,8 +2817,8 @@
       "maxres": "https://i.ytimg.com/vi/HHrvW_iQ_oY/maxresdefault.jpg"
     },
     "duration": "PT26S",
-    "viewCount": 2838,
-    "likeCount": 23,
+    "viewCount": 2879,
+    "likeCount": 25,
     "commentCount": 4,
     "tags": [
       "монтаж RS-485",
@@ -2787,9 +2858,9 @@
       "maxres": "https://i.ytimg.com/vi/ut60REU19Gk/maxresdefault.jpg"
     },
     "duration": "PT10M11S",
-    "viewCount": 20943,
-    "likeCount": 942,
-    "commentCount": 196,
+    "viewCount": 21063,
+    "likeCount": 946,
+    "commentCount": 197,
     "tags": [
       "монтаж RS-485",
       "схема подключения RS-485",
@@ -2830,7 +2901,7 @@
       "maxres": "https://i.ytimg.com/vi/-AQ7-99-uZM/maxresdefault.jpg"
     },
     "duration": "PT9M51S",
-    "viewCount": 1256,
+    "viewCount": 1273,
     "likeCount": 61,
     "commentCount": 29,
     "tags": []
@@ -2846,8 +2917,8 @@
       "maxres": "https://i.ytimg.com/vi/FIs1T9gQJdY/maxresdefault.jpg"
     },
     "duration": "PT9M51S",
-    "viewCount": 20029,
-    "likeCount": 866,
+    "viewCount": 20088,
+    "likeCount": 874,
     "commentCount": 158,
     "tags": [],
     "playlistId": "PLX_FogAQkJsiSkRGwK3ATMQ_sKAS3zT0o",
@@ -2864,8 +2935,8 @@
       "maxres": "https://i.ytimg.com/vi/aAPpcYRGNuk/maxresdefault.jpg"
     },
     "duration": "PT12M4S",
-    "viewCount": 548,
-    "likeCount": 27,
+    "viewCount": 562,
+    "likeCount": 28,
     "commentCount": 4,
     "tags": [],
     "playlistId": "PLX_FogAQkJsiRUexMY1J0-XgFDzz3qYKO",
@@ -2882,8 +2953,8 @@
       "maxres": "https://i.ytimg.com/vi/lqSSMJyw_3Q/maxresdefault.jpg"
     },
     "duration": "PT11M20S",
-    "viewCount": 3290,
-    "likeCount": 175,
+    "viewCount": 3301,
+    "likeCount": 177,
     "commentCount": 23,
     "tags": [],
     "playlistId": "PLX_FogAQkJsiSkRGwK3ATMQ_sKAS3zT0o",
@@ -2900,7 +2971,7 @@
       "maxres": "https://i.ytimg.com/vi/gVygti_6aoI/maxresdefault.jpg"
     },
     "duration": "PT8M56S",
-    "viewCount": 2495,
+    "viewCount": 2564,
     "likeCount": 18,
     "commentCount": 5,
     "tags": []
