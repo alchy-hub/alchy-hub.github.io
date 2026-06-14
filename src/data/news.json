@@ -1,26 +1,90 @@
 [
   {
-    "title": "Как Япония попыталась в 1980-х создать компьютер пятого поколения и напугала Америку",
-    "summary": "В 1970-е годы Япония стала вторым по величине после Америки производителем автомобилей, обогнав по их экспорту ФРГ и став мировым лидером по этому показателю. Японские карманные ка...",
-    "link": "https://habr.com/ru/companies/onlinepatent/articles/1044050/?utm_campaign=1044050&utm_source=habrahabr&utm_medium=rss",
+    "title": "Лампа плавного пуска",
+    "summary": "У меня было множество вело фар и всегда меня напрягало то, что фара включается практически мгновенно. \nГлаза даже не успевают приспособиться и это доставляет существенный дискомфор...",
+    "link": "https://habr.com/ru/articles/1044098/?utm_campaign=1044098&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 06 Jun 2026 06:30:51 GMT",
+    "pubDate": "Sat, 13 Jun 2026 12:20:54 GMT",
     "lang": "ru"
   },
   {
-    "title": "Как Япония попыталась в 1980-х создать компьютер пятого поколения и напугала Америку",
-    "summary": "В 1970-е годы Япония стала вторым по величине после Америки производителем автомобилей, обогнав по их экспорту ФРГ и став мировым лидером по этому показателю. Японские карманные ка...",
-    "link": "https://habr.com/ru/companies/onlinepatent/articles/1044050/?utm_campaign=1044050&utm_source=habrahabr&utm_medium=rss",
+    "title": "Игровой автомат своими руками",
+    "summary": "Кто из нас в детстве не мечтал о собственном игровом автомате? Настало время реализовать свою мечту. Рассказываю, как собрал аркадный автомат своими руками и не сошел с ума.\nПотому...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1041664/?utm_campaign=1041664&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Sat, 13 Jun 2026 08:05:42 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "5 портативных игровых консолей 2026 года: складной экран, съемные контроллеры и стриминг без ПК",
+    "summary": "За последние несколько лет рынок портативных игровых устройств заметно изменился. Если раньше выбор в основном сводился к Nintendo Switch и нескольким нишевым решениям, то теперь н...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1045244/?utm_campaign=1045244&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 06 Jun 2026 06:30:51 GMT",
+    "pubDate": "Sat, 13 Jun 2026 08:00:37 GMT",
     "lang": "ru"
   },
   {
-    "title": "Конечный автомат (FSM) — ловушка для программиста",
-    "summary": "Всем привет, с вами вновь сумасшедший профессор (хотя совсем не профессор и возможно не совсем сумасшедший). Разберем очередную актуальную тему или не очень актуальную.\nКак конечны...",
-    "link": "https://habr.com/ru/articles/1044244/?utm_campaign=1044244&utm_source=habrahabr&utm_medium=rss",
+    "title": "Хлопок одной рукой: создание полнофункциональной одноручной клавиатуры",
+    "summary": "Клавиатура на Arduino для одной руки, полностью совместимая со стандартной 101-клавишной клавиатурой. \n Читать далее...",
+    "link": "https://habr.com/ru/articles/1025354/?utm_campaign=1025354&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 12 Jun 2026 14:23:54 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Десять лет поддержки и новые процессоры: как AMD превратила сокеты в долгожителей",
+    "summary": "В мире сборки и апгрейда персональных компьютеров смена платформы почти всегда оборачивается дополнительными тратами. Новый сокет часто вынуждает менять не только процессор, но и м...",
+    "link": "https://habr.com/ru/companies/ru_mts/articles/1046552/?utm_campaign=1046552&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 12 Jun 2026 12:07:07 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Аппаратная метрика. Оживляем счётчик покупателей",
+    "summary": "Приветствую всех!\nТе, кто знакомы со мной и моими статьями, хорошо знают мой интерес ко всякому торговому оборудованию. Тем не менее, предмет сегодняшней статьи я как-то упорно обх...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1045668/?utm_campaign=1045668&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 06 Jun 2026 05:54:27 GMT",
+    "pubDate": "Fri, 12 Jun 2026 08:05:52 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как создавались национальные вычислительные школы в разных странах и что из этого вышло",
+    "summary": "По пути Японией пошли Китай и Южная Корея, и сейчас, когда региональная вычислительная школа ЮВА занимает наряду с США лидирующие позиции в сфере вычислительных технологий повторяе...",
+    "link": "https://habr.com/ru/companies/onlinepatent/articles/1046407/?utm_campaign=1046407&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 12 Jun 2026 07:05:14 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как создавались национальные вычислительные школы в разных странах и что из этого вышло",
+    "summary": "По пути Японией пошли Китай и Южная Корея, и сейчас, когда региональная вычислительная школа ЮВА занимает наряду с США лидирующие позиции в сфере вычислительных технологий повторяе...",
+    "link": "https://habr.com/ru/companies/onlinepatent/articles/1046407/?utm_campaign=1046407&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 12 Jun 2026 07:05:14 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Вышел журнал «Электронные компоненты» №6/2026",
+    "summary": "Вышел журнал «Электронные компоненты» №6/2026   Журнал «Электронные компоненты» — первый журнал по электронным компонентам в России. Журнал издается с 1995 года и является авторит...",
+    "link": "https://elcomdesign.ru/uncategorized/vyshel-zhurnal-elektronnye-komponenty-%e2%84%966-2026/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 10 Jun 2026 17:16:53 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "В Москве состоялась II Всероссийская конференция по проектированию и производству печатных плат: более 500 участников обсудили технологический суверенитет",
+    "summary": "В Москве состоялась II Всероссийская конференция по проектированию и производству печатных плат: более 500 участников обсудили технологический суверенитет Москва, 08 июня 2026 г. –...",
+    "link": "https://elcomdesign.ru/uncategorized/v-moskve-sostoyalas-ii-vserossijskaya-konferencziya-po-proektirovaniyu-i-proizvodstvu-pechatnyh-plat-bolee-500-uchastnikov-obsudili-tehnologicheskij-suverenitet/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 08 Jun 2026 13:21:32 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Премьерный ИННОПРОМ в Индии состоится в сентябре 2026 года",
+    "summary": "Премьерный ИННОПРОМ в Индии состоится в сентябре 2026 года   Международная промышленная выставка «ИННОПРОМ. Индия» впервые пройдет в Нью-Дели с 9 по 11 сентября 2026 года на площад...",
+    "link": "https://elcomdesign.ru/uncategorized/premernyj-innoprom-v-indii-sostoitsya-v-sentyabre-2026-goda/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 08 Jun 2026 12:56:24 +0000",
     "lang": "ru"
   },
   {
@@ -29,46 +93,6 @@
     "link": "https://elcomdesign.ru/uncategorized/v-moskve-startovala-ii-vserossijskaya-konferencziya-po-proektirovaniyu-i-proizvodstvu-pechatnyh-plat-bolee-500-uchastnikov-obsuzhdayut-tehnologicheskij-suverenitet/",
     "source": "Электронные компоненты",
     "pubDate": "Fri, 05 Jun 2026 16:15:10 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "[Перевод] Как я установил в свой игровой ПК серверный GPU за £200",
-    "summary": "У меня уже была установлена RTX 4080 с 16 ГБ VRAM. Её вполне достаточно для гейминга, но не для моделей, которые я хотел запускать локально. Так что следующим шагом было либо приоб...",
-    "link": "https://habr.com/ru/companies/ruvds/articles/1043072/?utm_campaign=1043072&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 05 Jun 2026 13:01:14 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Сравнение Thick Turret и Thin Turret для координатно‑пробивных прессов с ЧПУ",
-    "summary": "Координатно‑пробивные прессы с ЧПУ работают на одной из двух инструментальных систем: Thick Turret или Thin Turret. Это два разных стандарта револьверной станции, с разной геометри...",
-    "link": "https://habr.com/ru/articles/1044100/?utm_campaign=1044100&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 05 Jun 2026 12:28:37 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Tesla v100 SXM2  X2 32GB total",
-    "summary": "В этом материале я разбираю практический кейс: развёртывание Qwen3.6-27B на двух Tesla V100-SXM2-16GB под управлением автономного агента Hermes от Nous Research. Карты подключены к...",
-    "link": "https://habr.com/ru/articles/1043956/?utm_campaign=1043956&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 05 Jun 2026 08:38:59 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Самый суровый кодовый замок СССР",
-    "summary": "Приветствую всех!\nКак я уже не раз рассказывал ранее, в советское время выпускалось сразу несколько моделей подъездных домофонов от разных заводов и разных годов. Но, как нетрудно...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1043368/?utm_campaign=1043368&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 05 Jun 2026 08:05:46 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Я спрятал в этой статье шифр. Точно так же, как его прячет ваш принтер",
-    "summary": "Похоже на корявый рисунок в paint. И хотя это он и есть, этот рисунок, на самом деле, вы уже видели раньше, но в другом виде. Есть он в каждом листе, который выходит из вашего цвет...",
-    "link": "https://habr.com/ru/articles/1043214/?utm_campaign=1043214&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 05 Jun 2026 08:02:00 GMT",
     "lang": "ru"
   },
   {
@@ -117,30 +141,6 @@
     "link": "https://elcomdesign.ru/uncategorized/48785/",
     "source": "Электронные компоненты",
     "pubDate": "Fri, 29 May 2026 14:45:52 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Российский бренд StarLine получил международную премию Brand Awards International 2026",
-    "summary": "Российский бренд StarLine получил международную премию Brand Awards International 2026 Российский бренд StarLine стал лауреатом международной премии Brand Awards International 2026...",
-    "link": "https://elcomdesign.ru/uncategorized/rossijskij-brend-starline-poluchil-mezhdunarodnuyu-premiyu-brand-awards-international-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 28 May 2026 16:41:19 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "TORNADO-iMCH/B10G.1 – Модуль универсального «базового» коммутатора 10/40GbE фирмы МикроЛАБ Системс для модульных систем ЦОС TORNADO-iMTCA",
-    "summary": "TORNADO—iMCH/B10G.1 – Модуль универсального «базового» коммутатора 10/40GbE фирмы МикроЛАБ Системс для модульных систем ЦОС TORNADO-iMTCA Российская фирма МикроЛАБ Системс приступи...",
-    "link": "https://elcomdesign.ru/uncategorized/tornado-imch-b10g-1-modul-universalnogo-bazovogo-kommutatora-10-40gbe-firmy-mikrolab-sistems-dlya-modulnyh-sistem-czos-tornado-imtca/",
-    "source": "Электронные компоненты",
-    "pubDate": "Wed, 27 May 2026 15:49:57 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "TORNADO-iMC/4.1 – Шасси стандарта iMTCA фирмы МикроЛАБ Системс для модульных систем ЦОС TORNADO-iMTCA",
-    "summary": "TORNADO—iMC/4.1 – Шасси стандарта iMTCA фирмы МикроЛАБ Системс для модульных систем ЦОС TORNADO-iMTCA Российская фирма МикроЛАБ Системс приступила к производству первого шасси TORN...",
-    "link": "https://elcomdesign.ru/uncategorized/tornado-imc-4-1-shassi-standarta-imtca-firmy-mikrolab-sistems-dlya-modulnyh-sistem-czos-tornado-imtca/",
-    "source": "Электронные компоненты",
-    "pubDate": "Wed, 27 May 2026 15:47:52 +0000",
     "lang": "ru"
   }
 ]
