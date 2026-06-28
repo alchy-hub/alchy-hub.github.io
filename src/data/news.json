@@ -1,66 +1,90 @@
 [
   {
-    "title": "История разработки Arduboy WOW",
-    "summary": "Приблизительно в начале 2025-го года я решил попробовать 3D-печать и разработку печатных плат. Одна идея мотивировала меня на это — сделать свою игровую приставку. Но больше всего...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1038590/?utm_campaign=1038590&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Sat, 20 Jun 2026 08:05:50 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "GMKtec EVO-X2 — мини-ПК с AMD Ryzen AI Max+ 395, который запускает 235-миллиардные модели локально",
-    "summary": "На CES 2026 в Лас-Вегасе GMKtec EVO-X2 стоял на стенде AMD в центре экспозиции - на фоне выступления Лизы Су как пример того, каким она видит локальный ИИ на устройствах. Позже, 19...",
-    "link": "https://habr.com/ru/articles/1049786/?utm_campaign=1049786&utm_source=habrahabr&utm_medium=rss",
+    "title": "Приставка в качестве портативного ПК",
+    "summary": "Retroid Flip 2 - игровая приставка на базе arm64, которая поддерживает работу в Android и различных Linux-системах.\nВ данной статье я хочу проверить, возможно ли применить такую пр...",
+    "link": "https://habr.com/ru/articles/1052656/?utm_campaign=1052656&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 19 Jun 2026 18:49:33 GMT",
+    "pubDate": "Sat, 27 Jun 2026 14:15:43 GMT",
     "lang": "ru"
   },
   {
-    "title": "Вместо свалки — дата-центр: как старые смартфоны превращают в серверы",
-    "summary": "Каждый год в мире выпускают больше миллиарда смартфонов. Люди меняют устройства каждые два-три года, потому что хотят новые функции, лучшую камеру или просто более быстрый отклик....",
-    "link": "https://habr.com/ru/companies/ru_mts/articles/1048286/?utm_campaign=1048286&utm_source=habrahabr&utm_medium=rss",
+    "title": "Как я подключал GoPro Hero 13 к ноутбуку — а в итоге пропатчил KDE",
+    "summary": "Не столь давно супруга попросила меня перелить записи со своей GoPro на мой ноутбук. Когда-то, когда камеры были по сути обычными USB-флешками с FAT это ни у кого не вызывало пробл...",
+    "link": "https://habr.com/ru/articles/1052604/?utm_campaign=1052604&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 19 Jun 2026 15:10:27 GMT",
+    "pubDate": "Sat, 27 Jun 2026 10:08:24 GMT",
     "lang": "ru"
   },
   {
-    "title": "Как я отказался от МК и собрал аналоговый увлажнитель воздуха",
-    "summary": "Таймеры, компараторы, логические вентили, двоичные счётчики, три версии платы и победа над плавающим напряжением. Всё про аналоговый увлажнитель — без единой строки кода. Подробнос...",
-    "link": "https://habr.com/ru/articles/1049266/?utm_campaign=1049266&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 19 Jun 2026 14:00:08 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Чтение на выходные: «Мыслящие машины Дженсена Хуанга: История Nvidia и мировой ИИ-революции» Стивена Витта",
-    "summary": "В 1993 году три человека в кожанках и с распечатками бизнес-плана оккупировали задний столик закусочной Denny's в Сан-Хосе. Вокруг полицейские заполняли отчёты, а через дорогу из с...",
-    "link": "https://habr.com/ru/companies/onlinepatent/articles/1049650/?utm_campaign=1049650&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 19 Jun 2026 13:07:12 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "[Перевод] Мейнфрейм 1960-х в браузере: как работает IBM System/360 на микрокоде",
-    "summary": "IBM System/360 выглядит как музейная машина с лампами, тумблерами и памятью на магнитных сердечниках, но внутри это сложная инженерная система с микрокодом, каналами ввода-вывода и...",
-    "link": "https://habr.com/ru/companies/otus/articles/1049058/?utm_campaign=1049058&utm_source=habrahabr&utm_medium=rss",
+    "title": "Рабочее место мечты: сетапы, железо и технологии, которые меняют эргономику",
+    "summary": "Привет, Хабр! Я Денис Захаров — создатель станции E-station.\nЗа несколько лет мы прошли путь от первых прототипов, сваренных в гараже, до шоурумов в 20+ городов РФ и стран СНГ. В п...",
+    "link": "https://habr.com/ru/companies/easyworkstation/articles/1052298/?utm_campaign=1052298&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 19 Jun 2026 12:40:50 GMT",
+    "pubDate": "Fri, 26 Jun 2026 12:03:52 GMT",
     "lang": "ru"
   },
   {
-    "title": "[Перевод] Как робот-гуманоид Honor Lightning пробежал полумарафон быстрее человека",
-    "summary": "19 апреля 2026 года робот-гуманоид Honor Lightning пробежал полумарафон за 50 минут 26 секунд. Он побил мировой рекорд среди людей на 7 минут, а лучшее время среди роботов годом ра...",
-    "link": "https://habr.com/ru/companies/cloud4y/articles/1049618/?utm_campaign=1049618&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 19 Jun 2026 12:21:58 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Смарт-часы, которые реально держат месяц: обзор на Blackview W90 Pro",
-    "summary": "Я один из тех странных людей, кто носит сразу пару часов на обеих руках. Мне очень нравится концепция ношения \"утилитарных\" часов для задач мониторинга здоровья и просто времени, в...",
-    "link": "https://habr.com/ru/articles/1049530/?utm_campaign=1049530&utm_source=habrahabr&utm_medium=rss",
+    "title": "Что выбрать для сервера, EPYC или Ryzen?",
+    "summary": "Ryzen быстрее в однопоточных задачах, EPYC уверенно лидирует в многопоточной нагрузке, работе с памятью и серверных функциях. Разбираем результаты 25 тестов и объясняем, когда пере...",
+    "link": "https://habr.com/ru/companies/hostkey/articles/1052288/?utm_campaign=1052288&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 19 Jun 2026 10:46:59 GMT",
+    "pubDate": "Fri, 26 Jun 2026 11:38:28 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "В приложении StarLine стала доступна оплата городских парковок с функцией автозавершения",
+    "summary": "В приложении StarLine стала доступна оплата городских парковок с функцией автозавершения Пользователям приложения StarLine стала доступна оплата городских парковок с функцией автоз...",
+    "link": "https://elcomdesign.ru/uncategorized/v-prilozhenii-starline-stala-dostupna-oplata-gorodskih-parkovok-s-funkcziej-avtozaversheniya/",
+    "source": "Электронные компоненты",
+    "pubDate": "Thu, 25 Jun 2026 17:48:04 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Компактные и интеллектуальные (роботизированные) DIY-тренажёры для дома? Вполне себе реальность…",
+    "summary": "Картинка: Aaron Willey (awilley), OpenWorkoutSystem\nСегодня мы поговорим об очень интересной, на мой взгляд, теме — высокотехнологичных самодельных тренажёрах для дома: ведь не сек...",
+    "link": "https://habr.com/ru/companies/ruvds/articles/1050126/?utm_campaign=1050126&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Thu, 25 Jun 2026 09:02:15 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Что такое HDI-платы и как их оптимально проектировать",
+    "summary": "Применение более сложных компонентов с очень большим числом выводов привело к внедрению технологий по созданию более мелких переходных отверстий, а также внедрению новых и модифика...",
+    "link": "https://habr.com/ru/companies/grangroup/articles/1048554/?utm_campaign=1048554&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Thu, 25 Jun 2026 09:00:14 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Регистрация ПАК в реестре Минцифры: требования к аппаратной части",
+    "summary": "Многие производители программно-аппаратных комплексов (ПАК) не знают, что могут претендовать на налоговые льготы: НДС 0%, страховые взносы 15% вместо 30%, налог на прибыль 5% вмест...",
+    "link": "https://habr.com/ru/articles/1051662/?utm_campaign=1051662&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Thu, 25 Jun 2026 07:14:17 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "80% мирового HBM. Как Корея захватила рынок памяти для ИИ",
+    "summary": "Какой главный корейский продукт? Многие назовут автомобили, электронику и бытовую технику, сериалы, косметику или даже K-Pop. Но главный корейский продукт другой. Без него не работ...",
+    "link": "https://habr.com/ru/articles/1051552/?utm_campaign=1051552&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Thu, 25 Jun 2026 06:04:08 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Управление тепловыми режимами",
+    "summary": "Управление тепловыми режимами   Андрей Пересадин, инженер Статья размещена в журнале «Электронные Компоненты» №5-2026. Избыточный нагрев электроники является одной из основных прич...",
+    "link": "https://elcomdesign.ru/uncategorized/upravlenie-teplovymi-rezhimami/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 22 Jun 2026 19:22:24 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "В фокусе внимания – ускорение развития электронного машиностроения",
+    "summary": "В фокусе внимания – ускорение развития электронного машиностроения На базе секции №9 «Электронное машиностроение» научной конференции форума «Микроэлектроника 2026» проводится круг...",
+    "link": "https://elcomdesign.ru/uncategorized/v-fokuse-vnimaniya-uskorenie-razvitiya-elektronnogo-mashinostroeniya/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 22 Jun 2026 18:03:56 +0000",
     "lang": "ru"
   },
   {
@@ -117,30 +141,6 @@
     "link": "https://elcomdesign.ru/uncategorized/48824/",
     "source": "Электронные компоненты",
     "pubDate": "Thu, 04 Jun 2026 10:17:50 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Маркировка от А до Я: практикум по работе предприятий с «Честным знаком» пройдет на Всероссийской отраслевой конференции по печатным платам",
-    "summary": "Маркировка от А до Я: практикум по работе предприятий с «Честным знаком» пройдет на Всероссийской отраслевой конференции по печатным платам Маркировка радиоэлектроники уже стала но...",
-    "link": "https://elcomdesign.ru/uncategorized/markirovka-ot-a-do-ya-praktikum-po-rabote-predpriyatij-s-chestnym-znakom-projdet-na-vserossijskoj-otraslevoj-konferenczii-po-pechatnym-platam/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 04 Jun 2026 10:11:45 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Упаковка компонентов поверхностного монтажа: от россыпи до готовой катушки",
-    "summary": "Упаковка компонентов поверхностного монтажа: от россыпи до готовой катушки   Елизавета Лавриновская, специалист отдела Технологического оборудования, ООО НПП «Универсал Прибор»,...",
-    "link": "https://elcomdesign.ru/uncategorized/upakovka-komponentov-poverhnostnogo-montazha-ot-rossypi-do-gotovoj-katushki/",
-    "source": "Электронные компоненты",
-    "pubDate": "Fri, 29 May 2026 16:11:44 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Без названия",
-    "summary": "Приглашаем разместить рекламу/статью/интервью или репортаж с производства в журнале «СВЧ электроника» №02/2026 Журнал выйдет в июле и будет распространяться на выставке “РАДЭЛ-2026...",
-    "link": "https://elcomdesign.ru/uncategorized/48785/",
-    "source": "Электронные компоненты",
-    "pubDate": "Fri, 29 May 2026 14:45:52 +0000",
     "lang": "ru"
   }
 ]
