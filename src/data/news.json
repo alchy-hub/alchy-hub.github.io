@@ -1,34 +1,82 @@
 [
   {
-    "title": "Приставка в качестве портативного ПК",
-    "summary": "Retroid Flip 2 - игровая приставка на базе arm64, которая поддерживает работу в Android и различных Linux-системах.\nВ данной статье я хочу проверить, возможно ли применить такую пр...",
-    "link": "https://habr.com/ru/articles/1052656/?utm_campaign=1052656&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 27 Jun 2026 14:15:43 GMT",
+    "title": "Почему в 2026 году Sega Saturn все-таки победила PlayStation (или внесите огнетушитель)",
+    "summary": "В настоящее время, когда бум клинической ностальгии по донди и сежке еще не отгремел, уже подрастает новое поколение ретрогеймеров, для которых 90-е прочно ассоциируются с первой п...",
+    "link": "https://habr.com/ru/articles/1055622/?utm_campaign=1055622&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Sat, 04 Jul 2026 18:30:27 GMT",
     "lang": "ru"
   },
   {
-    "title": "Как я подключал GoPro Hero 13 к ноутбуку — а в итоге пропатчил KDE",
-    "summary": "Не столь давно супруга попросила меня перелить записи со своей GoPro на мой ноутбук. Когда-то, когда камеры были по сути обычными USB-флешками с FAT это ни у кого не вызывало пробл...",
-    "link": "https://habr.com/ru/articles/1052604/?utm_campaign=1052604&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 27 Jun 2026 10:08:24 GMT",
+    "title": "Подземный гигант: зачем Швейцария строит самую мощную батарею в мире",
+    "summary": "Привет, Хабр! На связи снова МТС, и сегодня мы хотим поговорить о батарейке — но не простой, а о-о-очень большой. Вы никогда не задумывались, как здорово было бы иметь гигантский а...",
+    "link": "https://habr.com/ru/companies/ru_mts/articles/1055320/?utm_campaign=1055320&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Sat, 04 Jul 2026 13:05:03 GMT",
     "lang": "ru"
   },
   {
-    "title": "Рабочее место мечты: сетапы, железо и технологии, которые меняют эргономику",
-    "summary": "Привет, Хабр! Я Денис Захаров — создатель станции E-station.\nЗа несколько лет мы прошли путь от первых прототипов, сваренных в гараже, до шоурумов в 20+ городов РФ и стран СНГ. В п...",
-    "link": "https://habr.com/ru/companies/easyworkstation/articles/1052298/?utm_campaign=1052298&utm_source=habrahabr&utm_medium=rss",
+    "title": "5 новых одноплатников лета 2026 года: x86, Snapdragon и сменные процессоры",
+    "summary": "Еще несколько лет назад большинство одноплатных компьютеров были похожи друг на друга: ARM-процессор, несколько USB-портов и GPIO для подключения периферии. Сегодня возможностей ст...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1054928/?utm_campaign=1054928&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 26 Jun 2026 12:03:52 GMT",
+    "pubDate": "Sat, 04 Jul 2026 08:30:42 GMT",
     "lang": "ru"
   },
   {
-    "title": "Что выбрать для сервера, EPYC или Ryzen?",
-    "summary": "Ryzen быстрее в однопоточных задачах, EPYC уверенно лидирует в многопоточной нагрузке, работе с памятью и серверных функциях. Разбираем результаты 25 тестов и объясняем, когда пере...",
-    "link": "https://habr.com/ru/companies/hostkey/articles/1052288/?utm_campaign=1052288&utm_source=habrahabr&utm_medium=rss",
+    "title": "Настройте свой VPN-роутер с нуля без терминала и погружения в документацию c Re:Sputnik",
+    "summary": "Хабр сегодня полон статей с гайдами по \"легкой\" настройке VPN на роутер, на практике же пользователю предлагается окунуться в глубины обилий параметров, консольных команд, и разног...",
+    "link": "https://habr.com/ru/articles/1055294/?utm_campaign=1055294&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 26 Jun 2026 11:38:28 GMT",
+    "pubDate": "Fri, 03 Jul 2026 15:06:58 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "АВК-6: Персональный Аналоговый Компьютер",
+    "summary": "Итак, перед нами персональный аналоговый компьютер АВК-6. \nАналоговые вычислительные машины в 60-70-е годы были способны в реальном времени решать системы дифференциальных уравнени...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1052834/?utm_campaign=1052834&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 03 Jul 2026 14:40:31 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "АВК-6: Персональный Аналоговый Компьютер",
+    "summary": "Итак, перед нами персональный аналоговый компьютер АВК-6. \nАналоговые вычислительные машины в 60-70-е годы были способны в реальном времени решать системы дифференциальных уравнени...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1052834/?utm_campaign=1052834&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 03 Jul 2026 14:40:31 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Gamemax GX-850 PRO: блок питания, который не стыдно поставить в дорогую сборку",
+    "summary": "Когда ко мне в руки попал Gamemax GX-850 PRO – мощный, в белой расцветке, да еще и с поддержкой ATX 3.1 и PCIe 5.1, – я сразу вспомнил старые истории о \"китайских БП, которые взрыв...",
+    "link": "https://habr.com/ru/articles/1054470/?utm_campaign=1054470&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 03 Jul 2026 13:43:14 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Решение проблемы шлакообразования в паяльных ваннах",
+    "summary": "Припой, как знает каждый, кто расплавлял хоть сколько-нибудь значимое количество, в нагретом до температуры плавления состоянии склонен к активному окислению. И если у вас в хозяйс...",
+    "link": "https://habr.com/ru/articles/1055112/?utm_campaign=1055112&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 03 Jul 2026 07:22:36 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Индонезия страна-партнер ИННОПРОМ-2026: укрепляя стратегическое промышленное партнёрство с Россией и Евразийским регионом 50 национальных индустриальных компаний представят свою продукцию на одной из крупнейших промышленных выставок Евразии 6–9 июля 2026 года",
+    "summary": "Индонезия страна-партнер ИННОПРОМ-2026: укрепляя стратегическое промышленное партнёрство с Россией и Евразийским регионом 50 национальных индустриальных компаний представят свою пр...",
+    "link": "https://elcomdesign.ru/uncategorized/indoneziya-strana-partner-innoprom-2026-ukreplyaya-strategicheskoe-promyshlennoe-partnyorstvo-s-rossiej-i-evrazijskim-regionom-50-naczionalnyh-industrialnyh-kompanij-predstavyat-svoyu-produkcziyu-na/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 01 Jul 2026 17:23:10 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Услуги магистральной квантовой сети ОАО «РЖД» стали доступны всем заинтересованным потребителям",
+    "summary": "Услуги магистральной квантовой сети ОАО «РЖД» стали доступны всем заинтересованным потребителям На форуме «Микроэлектроника 2026» будут обсуждаться как научные и технологические, т...",
+    "link": "https://elcomdesign.ru/uncategorized/uslugi-magistralnoj-kvantovoj-seti-oao-rzhd-stali-dostupny-vsem-zainteresovannym-potrebitelyam/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 29 Jun 2026 16:13:40 +0000",
     "lang": "ru"
   },
   {
@@ -37,38 +85,6 @@
     "link": "https://elcomdesign.ru/uncategorized/v-prilozhenii-starline-stala-dostupna-oplata-gorodskih-parkovok-s-funkcziej-avtozaversheniya/",
     "source": "Электронные компоненты",
     "pubDate": "Thu, 25 Jun 2026 17:48:04 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Компактные и интеллектуальные (роботизированные) DIY-тренажёры для дома? Вполне себе реальность…",
-    "summary": "Картинка: Aaron Willey (awilley), OpenWorkoutSystem\nСегодня мы поговорим об очень интересной, на мой взгляд, теме — высокотехнологичных самодельных тренажёрах для дома: ведь не сек...",
-    "link": "https://habr.com/ru/companies/ruvds/articles/1050126/?utm_campaign=1050126&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Thu, 25 Jun 2026 09:02:15 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Что такое HDI-платы и как их оптимально проектировать",
-    "summary": "Применение более сложных компонентов с очень большим числом выводов привело к внедрению технологий по созданию более мелких переходных отверстий, а также внедрению новых и модифика...",
-    "link": "https://habr.com/ru/companies/grangroup/articles/1048554/?utm_campaign=1048554&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Thu, 25 Jun 2026 09:00:14 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Регистрация ПАК в реестре Минцифры: требования к аппаратной части",
-    "summary": "Многие производители программно-аппаратных комплексов (ПАК) не знают, что могут претендовать на налоговые льготы: НДС 0%, страховые взносы 15% вместо 30%, налог на прибыль 5% вмест...",
-    "link": "https://habr.com/ru/articles/1051662/?utm_campaign=1051662&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Thu, 25 Jun 2026 07:14:17 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "80% мирового HBM. Как Корея захватила рынок памяти для ИИ",
-    "summary": "Какой главный корейский продукт? Многие назовут автомобили, электронику и бытовую технику, сериалы, косметику или даже K-Pop. Но главный корейский продукт другой. Без него не работ...",
-    "link": "https://habr.com/ru/articles/1051552/?utm_campaign=1051552&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Thu, 25 Jun 2026 06:04:08 GMT",
     "lang": "ru"
   },
   {
@@ -125,22 +141,6 @@
     "link": "https://elcomdesign.ru/uncategorized/s-6-po-9-iyulya-2026-goda-v-ekaterinburge-projdet-16-ya-mezhdunarodnaya-promyshlennaya-vystavka-innoprom-glavnoj-temoj-meropriyatiya-stanet-industriya-360-proizvodstvo-bez-granicz-indus/",
     "source": "Электронные компоненты",
     "pubDate": "Thu, 04 Jun 2026 11:18:00 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Без названия",
-    "summary": "Приглашаем обсудить промежуточные итоги разработки отечественных маршрутов проектирования ЭКБ На базе секций №3 «Информационно-управляющие и радиотехнические системы» и №6 «Системы...",
-    "link": "https://elcomdesign.ru/uncategorized/48828/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 04 Jun 2026 10:58:21 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Без названия",
-    "summary": "Electronica Shanghai 2026 уже близко: погрузитесь в цепочку cоздания электронной промышленности Выставка electronica Shanghai 2026 пройдёт с 1 по 3 июля 2026 года в Шанхайском ново...",
-    "link": "https://elcomdesign.ru/uncategorized/48824/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 04 Jun 2026 10:17:50 +0000",
     "lang": "ru"
   }
 ]
