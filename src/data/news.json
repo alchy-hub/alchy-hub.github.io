@@ -1,34 +1,82 @@
 [
   {
-    "title": "Intel снова подняла цены на процессоры. Это только начало?",
-    "summary": "Intel снова повысила рекомендованные цены на часть процессоров. На этот раз подорожание затронуло отдельные модели CoreTM Ultra 200 Plus и серверные Xeon®, причем некоторые серверн...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1056794/?utm_campaign=1056794&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Sat, 11 Jul 2026 12:00:06 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Apple подала иск к OpenAI за кражу промышленных секретов. Год назад они были главными ИИ-партнёрами",
-    "summary": "В ответчиках — не Альтман и не Джони Айв, а два бывших инженера Apple, но цель атаки — устройства OpenAI и её IPO.\n Читать далее...",
-    "link": "https://habr.com/ru/articles/1058106/?utm_campaign=1058106&utm_source=habrahabr&utm_medium=rss",
+    "title": "Мини‑ПК на Strix Halo под параллельной нагрузкой: 236 tok/s на 32 одновременных запросах и три ошибки",
+    "summary": "Один Beelink GTR9 Pro на Ryzen AI Max+ 395 выдал 236 tok/s суммарной генерации на 32 одновременных запросах в коротких прогонах и удержал в среднем 226 tok/s за 30 минут непрерывно...",
+    "link": "https://habr.com/ru/articles/1060520/?utm_campaign=1060520&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 11 Jul 2026 10:44:34 GMT",
+    "pubDate": "Sat, 18 Jul 2026 19:52:48 GMT",
     "lang": "ru"
   },
   {
-    "title": "Подготовка данных: как мы формируем производственные панели",
-    "summary": "К моменту, когда заказ доходит до этапа формирования производственной панели, основная проверка данных уже проведена: слои проверены на соответствие технологии, выявлены и исправле...",
-    "link": "https://habr.com/ru/companies/electroconnect/articles/1058036/?utm_campaign=1058036&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 10 Jul 2026 17:16:33 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Собираем Bjorn — тамагочи для пентестеров",
-    "summary": "Bjorn — это инструмент, подобный тамагочи, только для хакеров пентестеров, который сам сканирует сети, находит, оценивает и даже может эксплуатировать уязвимости, разработанный для...",
-    "link": "https://habr.com/ru/articles/948284/?utm_campaign=948284&utm_source=habrahabr&utm_medium=rss",
+    "title": "Я слышу, как модель думает",
+    "summary": "Я часто ловлю тонкий, почти на грани слышимости писк, когда работаю с LLM на своем MacBook Pro. Иногда — когда вроде бы вообще ничего не запускал. Довольно долго подозревал, что пр...",
+    "link": "https://habr.com/ru/articles/1060510/?utm_campaign=1060510&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 10 Jul 2026 15:48:59 GMT",
+    "pubDate": "Sat, 18 Jul 2026 18:36:05 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Тайна Intel i740 — самой экзотической видеокарты из 90-х",
+    "summary": "Ранее я часто рассказывал об особенностях видеокарт из 90-х. В рамках прошлых статей, мы успели с вами рассмотреть внутреннюю архитектуру 3dfx Voodoo, узнать о кастомном графическо...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1059934/?utm_campaign=1059934&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 18 Jul 2026 14:05:20 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Кулеры больше не нужны? Создан материал с «программируемым» отведением тепла от чипов",
+    "summary": "Современные процессоры, графические ускорители и ИИ-чипы становятся все мощнее, но вместе с производительностью растет и нагрев. Причем проблема не только в том, что тепла много. Н...",
+    "link": "https://habr.com/ru/companies/ru_mts/articles/1059932/?utm_campaign=1059932&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 18 Jul 2026 13:00:39 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как двое программистов в 80-е получили первый патент на электронные таблицы и внедрили язык LANPAR",
+    "summary": "Ключевой вехой в таймлайне электронных таблиц считается изобретение инженеров Рене Пардо и Реми Ландау «процесса и устройства (программы-компилятора), выполняемых на цифровом компь...",
+    "link": "https://habr.com/ru/companies/onlinepatent/articles/1060360/?utm_campaign=1060360&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Sat, 18 Jul 2026 06:24:09 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как защитить железку от Китайцев, если вы им передаете всю производственную документацию?",
+    "summary": "Отдавая контрактному производству полный комплект Gerber-файлов и оригинальных прошивок, разработчик часто рискует столкнуться с «атакой третьей смены» — бесконтрольным выпуском не...",
+    "link": "https://habr.com/ru/articles/1060346/?utm_campaign=1060346&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 17 Jul 2026 17:07:33 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Погодный чёрный ящик: пишем лог давления и температуры на MicroSD с ESP32-C3",
+    "summary": "Привет Хабр! Большинство современных метеостанций для умного дома бесполезны без интернета или локального MQTT-брокера. Пропал Wi-Fi — данные о микроклимате за последние сутки испа...",
+    "link": "https://habr.com/ru/articles/1060342/?utm_campaign=1060342&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 17 Jul 2026 17:03:44 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Программирование плат Nucleo отладчиком J-Link",
+    "summary": "Как известно существуют учебно-тренировочные электронные платы серии Nucleo. Там всегда есть вмонтированный программатор ST-link. Эти платы дешевы и очень удобны для отладки большо...",
+    "link": "https://habr.com/ru/articles/1060054/?utm_campaign=1060054&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 17 Jul 2026 11:30:48 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "МТК-2026: новая архитектура технологического лидерства России. Инновации воентеха и гибкость рынка",
+    "summary": "МТК-2026: новая архитектура технологического лидерства России. Инновации воентеха и гибкость рынка.   С 8 по 10 сентября 2026 года состоится III Международный технологический конгр...",
+    "link": "https://elcomdesign.ru/uncategorized/mtk-2026-novaya-arhitektura-tehnologicheskogo-liderstva-rossii-innovaczii-voenteha-i-gibkost-rynka/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 13 Jul 2026 15:40:10 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Измерение углов отсечки с помощью осциллографов Rigol серии DS70000 при выраженных шумах и нелинейности. Часть 1",
+    "summary": "Измерение углов отсечки с помощью осциллографов Rigol серии DS70000 при выраженных шумах и нелинейности. Часть 1   Николай Лемешко, д.т.н., гл. науч. сотр., АО «Корпорация «Комета»...",
+    "link": "https://elcomdesign.ru/uncategorized/izmerenie-uglov-otsechki-s-pomoshhyu-osczillografov-rigol-serii-ds70000-pri-vyrazhennyh-shumah-i-nelinejnosti-chast-1/",
+    "source": "Электронные компоненты",
+    "pubDate": "Sun, 12 Jul 2026 13:23:56 +0000",
     "lang": "ru"
   },
   {
@@ -37,38 +85,6 @@
     "link": "https://elcomdesign.ru/uncategorized/vyshel-zhurnal-elektronnye-komponenty-%e2%84%967-2026/",
     "source": "Электронные компоненты",
     "pubDate": "Fri, 10 Jul 2026 10:19:40 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "[Перевод] Apple выпустила Mac с багом в ПЗУ. 35 лет его спасала некорректно закодированная инструкция 68030",
-    "summary": "Macintosh Classic II десятилетиями загружался благодаря случайному поведению процессора Motorola 68030. Ошибка в ПЗУ уводила выполнение за пределы таблицы переходов, прямо в середи...",
-    "link": "https://habr.com/ru/companies/otus/articles/1057826/?utm_campaign=1057826&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 10 Jul 2026 09:35:11 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Я сделал жене счётчик рядов. Теперь он живёт в документации Waveshare",
-    "summary": "Всё началось с того, что моя жена любит вязать.\nОднажды я заметил, что во время вязания она постоянно записывает количество рядов и петель в обычный блокнот. Я спросил: «А есть как...",
-    "link": "https://habr.com/ru/articles/1057774/?utm_campaign=1057774&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 10 Jul 2026 08:40:28 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Чтение на выходные: «Космос ближе. Как Илон Маск и инженеры SpaceX поставили полеты на поток» Эрика Бергера",
-    "summary": "В 2002 году новая компания SpaceX поставила перед собой цель, которая казалась почти нереалистичной: создать более дешёвую ракету с нуля и выйти на орбиту. В «Космос ближе» журнали...",
-    "link": "https://habr.com/ru/companies/onlinepatent/articles/1057720/?utm_campaign=1057720&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 10 Jul 2026 06:03:31 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "От игрового ПК до стриминговой консоли: три необычные новинки портативного гейминга",
-    "summary": "Компактные игровые консоли становятся все мощнее, но вместе с этим производители начинают искать новые способы выделиться. Простого увеличения производительности уже недостаточно —...",
-    "link": "https://habr.com/ru/companies/ru_mts/articles/1057390/?utm_campaign=1057390&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 09 Jul 2026 12:00:03 GMT",
     "lang": "ru"
   },
   {
@@ -125,22 +141,6 @@
     "link": "https://elcomdesign.ru/uncategorized/v-prilozhenii-starline-stala-dostupna-oplata-gorodskih-parkovok-s-funkcziej-avtozaversheniya/",
     "source": "Электронные компоненты",
     "pubDate": "Thu, 25 Jun 2026 17:48:04 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Управление тепловыми режимами",
-    "summary": "Управление тепловыми режимами   Андрей Пересадин, инженер Статья размещена в журнале «Электронные Компоненты» №5-2026. Избыточный нагрев электроники является одной из основных прич...",
-    "link": "https://elcomdesign.ru/uncategorized/upravlenie-teplovymi-rezhimami/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 22 Jun 2026 19:22:24 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "В фокусе внимания – ускорение развития электронного машиностроения",
-    "summary": "В фокусе внимания – ускорение развития электронного машиностроения На базе секции №9 «Электронное машиностроение» научной конференции форума «Микроэлектроника 2026» проводится круг...",
-    "link": "https://elcomdesign.ru/uncategorized/v-fokuse-vnimaniya-uskorenie-razvitiya-elektronnogo-mashinostroeniya/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 22 Jun 2026 18:03:56 +0000",
     "lang": "ru"
   }
 ]
