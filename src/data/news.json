@@ -1,34 +1,106 @@
 [
   {
-    "title": "Вводим рейтинг по алкоголизму",
-    "summary": "Алкометр, который сохраняет результаты на веб-сайте в историю, а также позволяет соревноваться с другими пользователями в недельном рейтинге. На проект ушло более 400 евро, один го...",
-    "link": "https://habr.com/ru/articles/1062992/?utm_campaign=1062992&utm_source=habrahabr&utm_medium=rss",
+    "title": "Параллельное Программирование, Процессоры, Кэши с Кэйвоном и Кунле",
+    "summary": "На четвертом курсе Стэнфорда* я записался на урок по параллельному программированию. Изучив алгоритмы, контейнеры данных и математику, стоящую за нейронными сетками, понял, что тол...",
+    "link": "https://habr.com/ru/articles/1065658/?utm_campaign=1065658&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 25 Jul 2026 18:31:47 GMT",
+    "pubDate": "Sat, 01 Aug 2026 18:39:16 GMT",
     "lang": "ru"
   },
   {
-    "title": "От Counter-Strike на PSP до Half-Life на Nokia: запускаем известные игры на необычных платформах",
-    "summary": "Старые консоли и телефоны давно вышли из активного оборота, но энтузиасты продолжают находить для них новое применение. Благодаря открытым движкам, обратной инженерии и собственным...",
-    "link": "https://habr.com/ru/companies/ru_mts/articles/1062300/?utm_campaign=1062300&utm_source=habrahabr&utm_medium=rss",
+    "title": "Параллельное Программирование, Процессоры, Кэши с Кэйвоном и Кунле",
+    "summary": "На четвертом курсе Стэнфорда* я записался на урок по параллельному программированию. Изучив алгоритмы, контейнеры данных и математику, стоящую за нейронными сетками, понял, что тол...",
+    "link": "https://habr.com/ru/articles/1065658/?utm_campaign=1065658&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 25 Jul 2026 13:24:13 GMT",
+    "pubDate": "Sat, 01 Aug 2026 18:39:16 GMT",
     "lang": "ru"
   },
   {
-    "title": "Старому Jetson Nano — домашнее облако: Nextcloud, Immich, CGNAT и три USB‑сбоя",
-    "summary": "В связи с переездом перебирал дома старые коробки и нашёл NVIDIA Jetson Nano Developer Kit — сын всерьёз занимался робототехникой. Зная, сколько это стоило в своё время, решил поис...",
-    "link": "https://habr.com/ru/articles/1062914/?utm_campaign=1062914&utm_source=habrahabr&utm_medium=rss",
+    "title": "Подробная история развития 2D-графики в PC",
+    "summary": "Сейчас в сети можно найти много статей и видеороликов о становлении 3D-графики в обычных пользовательских ПК. Даже я в своем блоге веду соответствующую рубрику, где мы с вами не то...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1065056/?utm_campaign=1065056&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 25 Jul 2026 10:46:06 GMT",
+    "pubDate": "Sat, 01 Aug 2026 14:05:27 GMT",
     "lang": "ru"
   },
   {
-    "title": "Nintendo Switch 2 спустя год. Стоит ли сейчас покупать самую дешевую актуальную консоль поколения",
-    "summary": "Лето для геймеров как второй Новый год не в последнюю очередь благодаря вороху игровых шоу и анонсов. В 2026 году праздник омрачил непрекращающийся кризис памяти, который неизбежно...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1059312/?utm_campaign=1059312&utm_source=habrahabr&utm_medium=rss",
+    "title": "Tg базового материала печатной платы: что это и почему важно",
+    "summary": "При выборе материала для печатной платы инженеры и конструкторы обращают внимание на множество параметров. Один из ключевых — температура стеклования, или Tg. Этот показатель опред...",
+    "link": "https://habr.com/ru/companies/electroconnect/articles/1065476/?utm_campaign=1065476&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 31 Jul 2026 16:38:25 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Битва демпингующих трёхрежимников: клавиатуры мембранные FreeWolf и Ascend",
+    "summary": "Возник новый движ — экспансия на территорию массового мембранного бюджета полноценных трёхрежимных плат, встречавшихся ранее лишь в дорогой механике.\nЛетом (2026 г) и сама механика...",
+    "link": "https://habr.com/ru/articles/1065294/?utm_campaign=1065294&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 25 Jul 2026 08:05:48 GMT",
+    "pubDate": "Fri, 31 Jul 2026 10:42:14 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Полтора месяца зависаний, ноль дампов и 44 байта нулей",
+    "summary": "Полтора месяца моя рабочая машина умирала. Не BSOD, не перезагрузка — именно умирала: экран чёрный, вентиляторы на видеокарте выходят на сто процентов и так и остаются. Никакой реа...",
+    "link": "https://habr.com/ru/articles/1065152/?utm_campaign=1065152&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 31 Jul 2026 06:05:55 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "От ЭКБ до ИТ-инфраструктуры: что покажут на «Электронике России 2026»",
+    "summary": "От ЭКБ до ИТ-инфраструктуры: что покажут на «Электронике России 2026»   24–26 ноября 2026 года в Москве, в МВЦ «Крокус Экспо», пройдет 5-я Международная выставка-форум «Электроника...",
+    "link": "https://elcomdesign.ru/uncategorized/ot-ekb-do-it-infrastruktury-chto-pokazhut-na-elektronike-rossii-2026/",
+    "source": "Электронные компоненты",
+    "pubDate": "Thu, 30 Jul 2026 17:26:21 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Борьба с излучаемыми помехами на высокоскоростных печатных платах",
+    "summary": "Борьба с излучаемыми помехами на высокоскоростных печатных платах   Юрий Сенякин, инженер   В статье рассматриваются причины возникновения нежелательных помех в высокоскоростных пе...",
+    "link": "https://elcomdesign.ru/uncategorized/borba-s-izluchaemymi-pomehami-na-vysokoskorostnyh-pechatnyh-platah/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 29 Jul 2026 08:33:12 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Почему антенны работают на физике XIX века, но требуют технологий XXI",
+    "summary": "Антенная техника — одна из тех редких областей, где «классика» не выходит из моды. Проектирование систем связи до сих пор опирается на фундаментальные принципы XIX века, ведь уравн...",
+    "link": "https://habr.com/ru/companies/yadro/articles/1057158/?utm_campaign=1057158&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Tue, 28 Jul 2026 08:24:56 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Шестая автомойка: что мы изменили в автоматизации после пяти предыдущих проектов",
+    "summary": "Автомойка самообслуживания кажется простым объектом: клиент выбирает программу, оплачивает ее и берет в руки пистолет. Но за этим стоят насосы высокого давления, частотные преобраз...",
+    "link": "https://habr.com/ru/companies/wirenboard/articles/1063708/?utm_campaign=1063708&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Tue, 28 Jul 2026 07:01:30 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Источники питания для КИИ. Что даст двухуровневая модель рынку — кейс разбор на серверных БП, АСУ ТП и телекоме",
+    "summary": "Источники питания для КИИ. Что даст двухуровневая модель рынку — кейс разбор на серверных БП, АСУ ТП и телекоме Доклад Александра Чершнева, директора по развитию ООО «КВ Системы»,...",
+    "link": "https://elcomdesign.ru/uncategorized/istochniki-pitaniya-dlya-kii-chto-dast-dvuhurovnevaya-model-rynku-kejs-razbor-na-servernyh-bp-asu-tp-i-telekome/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 27 Jul 2026 09:38:27 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Двухуровневая модель подтверждения «российскости» — основа самонастраиваемой локализации. Доклад Дениса Ловчикова, директора по развитию ООО «НПО «Энергетическая электроника», на конференции «Силовая электроника -2026»",
+    "summary": "Двухуровневая модель подтверждения «российскости» — основа самонастраиваемой локализации. Доклад Дениса Ловчикова, директора по развитию ООО «НПО «Энергетическая электроника», на к...",
+    "link": "https://elcomdesign.ru/uncategorized/dvuhurovnevaya-model-podtverzhdeniya-rossijskosti-osnova-samonastraivaemoj-lokalizaczii-doklad-denisa-lovchikova-direktora-po-razvitiyu-ooo-npo-energeticheskaya-elektronika/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 27 Jul 2026 09:30:59 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Доклад Андрея Жилина, председателя рабочей группы «Силовая Электроника», члена рабочей группы «Электрорадиотехнические материалы» Совета по развитию электронной промышленности Минпромторга России; АО «НПО «ЭНЕРГОМОДУЛЬ», на конференции «Силовая электроника — 2026»",
+    "summary": "Доклад Андрея Жилина, председателя рабочей группы «Силовая Электроника», члена рабочей группы «Электрорадиотехнические материалы» Совета по развитию электронной промышленности Минп...",
+    "link": "https://elcomdesign.ru/uncategorized/doklad-andreya-zhilina-predsedatelya-rabochej-gruppy-silovaya-elektronika-chlena-rabochej-gruppy-elektroradiotehnicheskie-materialy-soveta-po-razvitiyu-elektronnoj-promyshlen/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 27 Jul 2026 08:58:17 +0000",
     "lang": "ru"
   },
   {
@@ -37,38 +109,6 @@
     "link": "https://elcomdesign.ru/uncategorized/uchastnikam-rossijskogo-foruma-mikroelektronika-2026-predostavlyaetsya-vozmozhnost-povysit-svoyu-professionalnuyu-kvalifikacziyu/",
     "source": "Электронные компоненты",
     "pubDate": "Fri, 24 Jul 2026 12:26:07 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "[Перевод] Проектируем с нуля калькулятор на FPGA. Часть 9: погоня за последним разрядом",
-    "summary": "← Восьмая часть\nОписанный в предыдущих частях калькулятор уже работал. Реализация 2021 года запускалась на реальном оборудовании, обрабатывала нажатия клавиш, вычисляла результаты...",
-    "link": "https://habr.com/ru/articles/1060588/?utm_campaign=1060588&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 24 Jul 2026 12:14:28 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Блогу YADRO на Хабре 10 лет — разыгрываем суперприз за суперквиз",
-    "summary": "В этом году блогу YADRO на Хабре исполняется 10 лет. За это время мы опубликовали более 400 статей о разработке железа, телекоме, процессорной архитектуре, системном ПО и других ин...",
-    "link": "https://habr.com/ru/companies/yadro/articles/1061802/?utm_campaign=1061802&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 24 Jul 2026 10:57:18 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Запуск файловой системы LittleFS на SPI-NAND Flash от GigaDevice",
-    "summary": "В этой статье я подготовил обзор широко известной и доступной в продаже микросхемы Flash NAND памяти GD5F1GQ5xExxG. Согласно маркировке, это микросхема энергонезависимой NAND-памят...",
-    "link": "https://habr.com/ru/companies/yadro/articles/1061562/?utm_campaign=1061562&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 24 Jul 2026 07:12:19 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Через меня проходит 5 тысяч чертежей в год, и 99% ошибок в них одинаковые",
-    "summary": "Представьте, что вы купили беспроводную колонку. Колонка отработала полгода, а в одно утро просто перестала включаться. В сервисе разводят руками: дело в плате, чинить дороже, чем...",
-    "link": "https://habr.com/ru/companies/grangroup/articles/1061798/?utm_campaign=1061798&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Thu, 23 Jul 2026 09:01:22 GMT",
     "lang": "ru"
   },
   {
@@ -101,46 +141,6 @@
     "link": "https://elcomdesign.ru/uncategorized/vystavka-electronica-shanghai-2026-uspeshno-zavershilas-sposobstvuya-innovacziyam-i-razvitiyu-elektronnoj-promyshlennosti/",
     "source": "Электронные компоненты",
     "pubDate": "Sat, 18 Jul 2026 10:57:02 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "МТК-2026: новая архитектура технологического лидерства России. Инновации воентеха и гибкость рынка",
-    "summary": "МТК-2026: новая архитектура технологического лидерства России. Инновации воентеха и гибкость рынка.   С 8 по 10 сентября 2026 года состоится III Международный технологический конгр...",
-    "link": "https://elcomdesign.ru/uncategorized/mtk-2026-novaya-arhitektura-tehnologicheskogo-liderstva-rossii-innovaczii-voenteha-i-gibkost-rynka/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 13 Jul 2026 15:40:10 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Измерение углов отсечки с помощью осциллографов Rigol серии DS70000 при выраженных шумах и нелинейности. Часть 1",
-    "summary": "Измерение углов отсечки с помощью осциллографов Rigol серии DS70000 при выраженных шумах и нелинейности. Часть 1   Николай Лемешко, д.т.н., гл. науч. сотр., АО «Корпорация «Комета»...",
-    "link": "https://elcomdesign.ru/uncategorized/izmerenie-uglov-otsechki-s-pomoshhyu-osczillografov-rigol-serii-ds70000-pri-vyrazhennyh-shumah-i-nelinejnosti-chast-1/",
-    "source": "Электронные компоненты",
-    "pubDate": "Sun, 12 Jul 2026 13:23:56 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Вышел журнал «Электронные компоненты» №7/2026",
-    "summary": "Вышел журнал «Электронные компоненты» №7/2026 Журнал «Электронные компоненты» – первый журнал по электронным компонентам в России. Журнал издается с 1995 г. и является авторитетным...",
-    "link": "https://elcomdesign.ru/uncategorized/vyshel-zhurnal-elektronnye-komponenty-%e2%84%967-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Fri, 10 Jul 2026 10:19:40 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Вышел журнал «СВЧ электроника»№2/2026",
-    "summary": "Вышел журнал «СВЧ электроника»№2/2026 Журнал «СВЧ электроника» посвящен компонентам, модулям и материалам СВЧ, проектированию и разработке радиотехнических систем, измерительным пр...",
-    "link": "https://elcomdesign.ru/uncategorized/vyshel-zhurnal-svch-elektronika%e2%84%962-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 09 Jul 2026 10:49:23 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "На форуме «Микроэлектроника 2026» пройдет обсуждение перспектив использования полярных материалов в микро- и наноэлектронике",
-    "summary": "На форуме «Микроэлектроника 2026» пройдет обсуждение перспектив использования полярных материалов в микро- и наноэлектронике На базе секции №13 «Материалы микро- и наноэлектроники,...",
-    "link": "https://elcomdesign.ru/uncategorized/na-forume-mikroelektronika-2026-projdet-obsuzhdenie-perspektiv-ispolzovaniya-polyarnyh-materialov-v-mikro-i-nanoelektronike/",
-    "source": "Электронные компоненты",
-    "pubDate": "Wed, 08 Jul 2026 07:07:20 +0000",
     "lang": "ru"
   }
 ]
