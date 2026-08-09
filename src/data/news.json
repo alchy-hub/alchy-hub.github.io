@@ -1,50 +1,66 @@
 [
   {
-    "title": "Параллельное Программирование, Процессоры, Кэши с Кэйвоном и Кунле",
-    "summary": "На четвертом курсе Стэнфорда* я записался на урок по параллельному программированию. Изучив алгоритмы, контейнеры данных и математику, стоящую за нейронными сетками, понял, что тол...",
-    "link": "https://habr.com/ru/articles/1065658/?utm_campaign=1065658&utm_source=habrahabr&utm_medium=rss",
+    "title": "Штыревая антенна в КВ диапазоне: расчет, согласование, шумы",
+    "summary": "Штыревая антенна является самой простой антенной, которую только можно представить. Но как только надо надо углубиться в вопрос, то оказывается нет под руками подходящего справочни...",
+    "link": "https://habr.com/ru/articles/1051118/?utm_campaign=1051118&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 01 Aug 2026 18:39:16 GMT",
+    "pubDate": "Sat, 08 Aug 2026 14:44:42 GMT",
     "lang": "ru"
   },
   {
-    "title": "Параллельное Программирование, Процессоры, Кэши с Кэйвоном и Кунле",
-    "summary": "На четвертом курсе Стэнфорда* я записался на урок по параллельному программированию. Изучив алгоритмы, контейнеры данных и математику, стоящую за нейронными сетками, понял, что тол...",
-    "link": "https://habr.com/ru/articles/1065658/?utm_campaign=1065658&utm_source=habrahabr&utm_medium=rss",
+    "title": "Тайна 3dfx Voodoo: изучаем архитектуру GPU из 90-х «по винтикам»",
+    "summary": "Недавно мне подарили настоящую легенду — STB 3dfx Voodoo 3 с двумя TMU, 16'ю мегабайтами видеопамяти и 2D-ускорителем. Как настоящий гик и любитель покопаться в ретро-железе, я сра...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1067928/?utm_campaign=1067928&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 01 Aug 2026 18:39:16 GMT",
+    "pubDate": "Sat, 08 Aug 2026 14:05:10 GMT",
     "lang": "ru"
   },
   {
-    "title": "Подробная история развития 2D-графики в PC",
-    "summary": "Сейчас в сети можно найти много статей и видеороликов о становлении 3D-графики в обычных пользовательских ПК. Даже я в своем блоге веду соответствующую рубрику, где мы с вами не то...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1065056/?utm_campaign=1065056&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 01 Aug 2026 14:05:27 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Tg базового материала печатной платы: что это и почему важно",
-    "summary": "При выборе материала для печатной платы инженеры и конструкторы обращают внимание на множество параметров. Один из ключевых — температура стеклования, или Tg. Этот показатель опред...",
-    "link": "https://habr.com/ru/companies/electroconnect/articles/1065476/?utm_campaign=1065476&utm_source=habrahabr&utm_medium=rss",
+    "title": "Погружение в создание приставки для Microsoft MakeCode Arcade",
+    "summary": "В прошлой статье я рассказывал, как делал Arduboy WOW с применением модулей, но помимо Arduboy мне еще почти также сильно интересовала платформа Microsoft MakeCode Arcade и мне зах...",
+    "link": "https://habr.com/ru/articles/1056210/?utm_campaign=1056210&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 31 Jul 2026 16:38:25 GMT",
+    "pubDate": "Sat, 08 Aug 2026 08:00:10 GMT",
     "lang": "ru"
   },
   {
-    "title": "Битва демпингующих трёхрежимников: клавиатуры мембранные FreeWolf и Ascend",
-    "summary": "Возник новый движ — экспансия на территорию массового мембранного бюджета полноценных трёхрежимных плат, встречавшихся ранее лишь в дорогой механике.\nЛетом (2026 г) и сама механика...",
-    "link": "https://habr.com/ru/articles/1065294/?utm_campaign=1065294&utm_source=habrahabr&utm_medium=rss",
+    "title": "NVIDIA RTX PRO 5000 Blackwell с 72 Гб видеопамяти. Есть ли смысл переплачивать за «половинку» флагмана?",
+    "summary": "RTX PRO 5000 Blackwell на 72 Гб: золотая середина для локальных ИИ-моделей или переоцененный апгрейд? Разбираемся в нашем обзоре.  \n Читать далее...",
+    "link": "https://habr.com/ru/companies/hostkey/articles/1067786/?utm_campaign=1067786&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 31 Jul 2026 10:42:14 GMT",
+    "pubDate": "Fri, 07 Aug 2026 08:04:12 GMT",
     "lang": "ru"
   },
   {
-    "title": "Полтора месяца зависаний, ноль дампов и 44 байта нулей",
-    "summary": "Полтора месяца моя рабочая машина умирала. Не BSOD, не перезагрузка — именно умирала: экран чёрный, вентиляторы на видеокарте выходят на сто процентов и так и остаются. Никакой реа...",
-    "link": "https://habr.com/ru/articles/1065152/?utm_campaign=1065152&utm_source=habrahabr&utm_medium=rss",
+    "title": "Разбор AMD EPYC Venice: 256 ядер, 2-нм TSMC, два сокета и СЖО как неизбежность",
+    "summary": "Всем привет, с вами Сергей Ковалёв, менеджер выделенных серверов в Selectel. Как инфраструктурный провайдер, мы ежедневно предоставляем клиентам серверы на процессорах AMD и Intel...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1067060/?utm_campaign=1067060&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 31 Jul 2026 06:05:55 GMT",
+    "pubDate": "Fri, 07 Aug 2026 08:01:35 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Разбираем и чиним мини-ПК HP Pro Mini 400 G9. Что за девайс?",
+    "summary": "Люблю я мини-ПК. Это крайне интересные устройства, позволяющие добиться впечатляющей производительности при небольшом объеме. Причем корпоративные модели HP, Dell и Lenovo устроены...",
+    "link": "https://habr.com/ru/companies/ru_mts/articles/1066942/?utm_campaign=1066942&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Thu, 06 Aug 2026 13:04:21 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Месяц, 500M токенов и симулятор завода: как мы с ИИ-агентом построили имитационную модель производства чипов",
+    "summary": "Когда я прочёл о том, что Андрей Карпати больше не пишет код руками, а перешёл на агентное программирование, я, честно говоря призадумался. Скажи об этом кто-то другой, пропустил б...",
+    "link": "https://habr.com/ru/articles/1065856/?utm_campaign=1065856&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Wed, 05 Aug 2026 10:09:43 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Отечественный микроконтроллер MIK32 “Амур”: устанавливаем рабочее окружение в пару кликов",
+    "summary": "Российские микроконтроллеры существуют не только в новостях и реестрах. Возьмём МИК32 «Амур», настроим рабочее окружение в несколько кликов и запустим на нём первую программу. \n Чи...",
+    "link": "https://habr.com/ru/articles/1066870/?utm_campaign=1066870&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Wed, 05 Aug 2026 08:37:15 GMT",
     "lang": "ru"
   },
   {
@@ -61,22 +77,6 @@
     "link": "https://elcomdesign.ru/uncategorized/borba-s-izluchaemymi-pomehami-na-vysokoskorostnyh-pechatnyh-platah/",
     "source": "Электронные компоненты",
     "pubDate": "Wed, 29 Jul 2026 08:33:12 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Почему антенны работают на физике XIX века, но требуют технологий XXI",
-    "summary": "Антенная техника — одна из тех редких областей, где «классика» не выходит из моды. Проектирование систем связи до сих пор опирается на фундаментальные принципы XIX века, ведь уравн...",
-    "link": "https://habr.com/ru/companies/yadro/articles/1057158/?utm_campaign=1057158&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Tue, 28 Jul 2026 08:24:56 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Шестая автомойка: что мы изменили в автоматизации после пяти предыдущих проектов",
-    "summary": "Автомойка самообслуживания кажется простым объектом: клиент выбирает программу, оплачивает ее и берет в руки пистолет. Но за этим стоят насосы высокого давления, частотные преобраз...",
-    "link": "https://habr.com/ru/companies/wirenboard/articles/1063708/?utm_campaign=1063708&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Tue, 28 Jul 2026 07:01:30 GMT",
     "lang": "ru"
   },
   {
