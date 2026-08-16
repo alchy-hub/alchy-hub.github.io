@@ -1,67 +1,115 @@
 [
   {
-    "title": "Штыревая антенна в КВ диапазоне: расчет, согласование, шумы",
-    "summary": "Штыревая антенна является самой простой антенной, которую только можно представить. Но как только надо надо углубиться в вопрос, то оказывается нет под руками подходящего справочни...",
-    "link": "https://habr.com/ru/articles/1051118/?utm_campaign=1051118&utm_source=habrahabr&utm_medium=rss",
+    "title": "Собираем портативный синий лазер на 70 ватт за вечер",
+    "summary": "Матрица лазерных диодов от киношного проектора стоит на Таобао как б/у видеокарта десятилетней давности — 260 юаней за демонтаж. Внутри — 14 синих кристаллов Nichia, около семидеся...",
+    "link": "https://habr.com/ru/articles/1070838/?utm_campaign=1070838&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 08 Aug 2026 14:44:42 GMT",
+    "pubDate": "Sat, 15 Aug 2026 22:51:46 GMT",
     "lang": "ru"
   },
   {
-    "title": "Тайна 3dfx Voodoo: изучаем архитектуру GPU из 90-х «по винтикам»",
-    "summary": "Недавно мне подарили настоящую легенду — STB 3dfx Voodoo 3 с двумя TMU, 16'ю мегабайтами видеопамяти и 2D-ускорителем. Как настоящий гик и любитель покопаться в ретро-железе, я сра...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1067928/?utm_campaign=1067928&utm_source=habrahabr&utm_medium=rss",
+    "title": "Тайна первых iPhone: как Siemens и Samsung сделали железо для первого смартфона Apple",
+    "summary": "Последние 5 лет, Apple использует в своих устройствах чипы исключительно собственной разработки. iPhone, Mac, Apple Watch, AirPods — все эти устройства так или иначе базируются на...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1070488/?utm_campaign=1070488&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 08 Aug 2026 14:05:10 GMT",
+    "pubDate": "Sat, 15 Aug 2026 14:05:54 GMT",
     "lang": "ru"
   },
   {
-    "title": "Погружение в создание приставки для Microsoft MakeCode Arcade",
-    "summary": "В прошлой статье я рассказывал, как делал Arduboy WOW с применением модулей, но помимо Arduboy мне еще почти также сильно интересовала платформа Microsoft MakeCode Arcade и мне зах...",
-    "link": "https://habr.com/ru/articles/1056210/?utm_campaign=1056210&utm_source=habrahabr&utm_medium=rss",
+    "title": "Что важнее для игр: частота памяти, тайминги или процессор",
+    "summary": "Когда начинаешь выбирать оперативную память, сразу бросаются в глаза две главные цифры. Производители даже в маркировку обычно выносят тип-частоту и тайминги. Обычно это цифры врод...",
+    "link": "https://habr.com/ru/companies/x-com/articles/1070492/?utm_campaign=1070492&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 14 Aug 2026 10:41:56 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Сеть ИОЛА, MS-DOS и Pacman: эксперимент с сетевыми адаптерами 80-х",
+    "summary": "Здравствуйте, уважаемые читатели! Безусловно, все слышали про игру Pacman. А слышали ли Вы про Pacgirl? Это подруга Pacman — она с бантиком...\nОсновная «фишка» эксперимента этой ст...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1020328/?utm_campaign=1020328&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 14 Aug 2026 09:05:57 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Exploring New Developments in Wireless Communication Using FR3",
+    "summary": "As wireless demands grow, new spectrum is critical. Download Exploring New Developments in Wireless Communication Using FR3 to learn how FR3 (7.125-24.25 GHz) could support future...",
+    "link": "https://www.microwavejournal.com/articles/46073-exploring-new-developments-in-wireless-communication-using-fr3",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 14 Aug 2026 01:00:00 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "New 915MHz Chip Antenna for Space-Constrained IoT Designs",
+    "summary": "Abracon is expanding its High Efficiency Sub-GHz Chip Antenna portfolio with the new AANI-CH-0212, a 915 MHz antenna designed to deliver reliable long-range connectivity while mini...",
+    "link": "https://www.microwavejournal.com/articles/46080-new-915mhz-chip-antenna-for-space-constrained-iot-designs",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 13 Aug 2026 16:10:23 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Домашнее облако: мой опыт переезда из экосистемы Apple",
+    "summary": "Меня зовут Павел, и я пользователь Apple с 10-летним стажем. И два месяца назад я решил переехать с iCloud на домашний сервер с Open Source ПО. \nПриходил я к этому постепенно. Долг...",
+    "link": "https://habr.com/ru/articles/1070164/?utm_campaign=1070164&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Thu, 13 Aug 2026 13:10:47 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "KRYTAR Announces Two (2) New Directional Coupler Operating from 7 to 24 GHz",
+    "summary": "KRYTAR, Inc., a leader in the design and production of ultra-broadband microwave components and test equipment announces two (2) new Directional Couplers operating in the wideband...",
+    "link": "https://www.microwavejournal.com/articles/46076-krytar-announces-two-2-new-directional-coupler-operating-from-7-to-24-ghz",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 13 Aug 2026 08:08:23 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "[Перевод] AirSense: самый умный самодельный очиститель воздуха",
+    "summary": "Вдыхаемый в помещении воздух часто содержит пыль, вредные вещества, аллергены и микроскопические частицы, которые незаметны, но постепенно наносят ущерб нашему здоровью. Очистители...",
+    "link": "https://habr.com/ru/articles/1066066/?utm_campaign=1066066&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 08 Aug 2026 08:00:10 GMT",
+    "pubDate": "Thu, 13 Aug 2026 09:42:10 GMT",
     "lang": "ru"
   },
   {
-    "title": "NVIDIA RTX PRO 5000 Blackwell с 72 Гб видеопамяти. Есть ли смысл переплачивать за «половинку» флагмана?",
-    "summary": "RTX PRO 5000 Blackwell на 72 Гб: золотая середина для локальных ИИ-моделей или переоцененный апгрейд? Разбираемся в нашем обзоре.  \n Читать далее...",
-    "link": "https://habr.com/ru/companies/hostkey/articles/1067786/?utm_campaign=1067786&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 07 Aug 2026 08:04:12 GMT",
+    "title": "Защищено: Открывая новые горизонты. Ручная зондовая станция OmegaAir-150mmW от АО «НИИПП»",
+    "summary": "Отрывка нет, потому что запись защищена.\nСообщение Защищено: Открывая новые горизонты. Ручная зондовая станция OmegaAir-150mmW от АО «НИИПП» появились сначала на Журнал Электронные...",
+    "link": "https://elcomdesign.ru/uncategorized/otkryvaya-novye-gorizonty-ruchnaya-zondovaya-stancziya-omegaair-150mmw-ot-ao-niipp/",
+    "source": "Электронные компоненты",
+    "pubDate": "Thu, 13 Aug 2026 09:16:52 +0000",
     "lang": "ru"
   },
   {
-    "title": "Разбор AMD EPYC Venice: 256 ядер, 2-нм TSMC, два сокета и СЖО как неизбежность",
-    "summary": "Всем привет, с вами Сергей Ковалёв, менеджер выделенных серверов в Selectel. Как инфраструктурный провайдер, мы ежедневно предоставляем клиентам серверы на процессорах AMD и Intel...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1067060/?utm_campaign=1067060&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 07 Aug 2026 08:01:35 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Разбираем и чиним мини-ПК HP Pro Mini 400 G9. Что за девайс?",
-    "summary": "Люблю я мини-ПК. Это крайне интересные устройства, позволяющие добиться впечатляющей производительности при небольшом объеме. Причем корпоративные модели HP, Dell и Lenovo устроены...",
-    "link": "https://habr.com/ru/companies/ru_mts/articles/1066942/?utm_campaign=1066942&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 06 Aug 2026 13:04:21 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Месяц, 500M токенов и симулятор завода: как мы с ИИ-агентом построили имитационную модель производства чипов",
-    "summary": "Когда я прочёл о том, что Андрей Карпати больше не пишет код руками, а перешёл на агентное программирование, я, честно говоря призадумался. Скажи об этом кто-то другой, пропустил б...",
-    "link": "https://habr.com/ru/articles/1065856/?utm_campaign=1065856&utm_source=habrahabr&utm_medium=rss",
+    "title": "Как ИИ ускорил отказ индустрии от медных кабелей и переход на фотонный интерконнект",
+    "summary": "Привет! Я — Аля, старший продакт-менеджер выделенных серверов в Selectel. За последние полтора года в мире сетей для ИИ произошла серия событий, которые по отдельности выглядят как...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1068872/?utm_campaign=1068872&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Wed, 05 Aug 2026 10:09:43 GMT",
+    "pubDate": "Thu, 13 Aug 2026 08:00:17 GMT",
     "lang": "ru"
   },
   {
-    "title": "Отечественный микроконтроллер MIK32 “Амур”: устанавливаем рабочее окружение в пару кликов",
-    "summary": "Российские микроконтроллеры существуют не только в новостях и реестрах. Возьмём МИК32 «Амур», настроим рабочее окружение в несколько кликов и запустим на нём первую программу. \n Чи...",
-    "link": "https://habr.com/ru/articles/1066870/?utm_campaign=1066870&utm_source=habrahabr&utm_medium=rss",
+    "title": "SPI-контроллер на FPGA: переносим на Zynq 7000. Часть 1",
+    "summary": "Продолжаем разработку SPI IP Core на Verilog. Следующий логичный этап - перенести разработанный SPI IP Core на Verilog на Xilinx Zynq-7020, который установлен на плате TZT RK-ZYNQ7...",
+    "link": "https://habr.com/ru/companies/beget/articles/1069704/?utm_campaign=1069704&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Wed, 05 Aug 2026 08:37:15 GMT",
+    "pubDate": "Thu, 13 Aug 2026 07:05:12 GMT",
     "lang": "ru"
+  },
+  {
+    "title": "Making Waves",
+    "summary": "...",
+    "link": "https://www.microwavejournal.com/articles/46020-copy-of-making-waves",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 13 Aug 2026 00:00:53 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Fabs & Labs: Inkbit",
+    "summary": "...",
+    "link": "https://www.microwavejournal.com/articles/46019-copy-of-fabs-and-labs-maury-microwave",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 13 Aug 2026 00:00:48 -0400",
+    "lang": "en"
   },
   {
     "title": "От ЭКБ до ИТ-инфраструктуры: что покажут на «Электронике России 2026»",
@@ -133,14 +181,6 @@
     "link": "https://elcomdesign.ru/uncategorized/kruglyj-stol-promyshlennyj-iot-vstupaet-v-epohu-avtonomnosti-v-onlajn-formate-4-avgusta/",
     "source": "Электронные компоненты",
     "pubDate": "Mon, 20 Jul 2026 05:57:53 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Выставка electronica Shanghai 2026 успешно завершилась, способствуя инновациям и развитию электронной промышленности",
-    "summary": "Выставка electronica Shanghai 2026 успешно завершилась, способствуя инновациям и развитию электронной промышленности   Мероприятие привлекло 2065 экспонентов и 79 026 профессиональ...",
-    "link": "https://elcomdesign.ru/uncategorized/vystavka-electronica-shanghai-2026-uspeshno-zavershilas-sposobstvuya-innovacziyam-i-razvitiyu-elektronnoj-promyshlennosti/",
-    "source": "Электронные компоненты",
-    "pubDate": "Sat, 18 Jul 2026 10:57:02 +0000",
     "lang": "ru"
   }
 ]
