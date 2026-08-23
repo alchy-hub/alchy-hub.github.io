@@ -1,74 +1,130 @@
 [
   {
-    "title": "Собираем портативный синий лазер на 70 ватт за вечер",
-    "summary": "Матрица лазерных диодов от киношного проектора стоит на Таобао как б/у видеокарта десятилетней давности — 260 юаней за демонтаж. Внутри — 14 синих кристаллов Nichia, около семидеся...",
-    "link": "https://habr.com/ru/articles/1070838/?utm_campaign=1070838&utm_source=habrahabr&utm_medium=rss",
+    "title": "Настоящий мобильный компьютер из нулевых — HTC Universal",
+    "summary": "Компания HTC запомнилась нам в первую очередь по коммуникатором и смартфонам из нулевых. В портфолио тайваньской фирмы затесались сотни легендарных устройств, начиная от QTek'ов с...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1073132/?utm_campaign=1073132&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 15 Aug 2026 22:51:46 GMT",
+    "pubDate": "Sat, 22 Aug 2026 14:05:44 GMT",
     "lang": "ru"
   },
   {
-    "title": "Тайна первых iPhone: как Siemens и Samsung сделали железо для первого смартфона Apple",
-    "summary": "Последние 5 лет, Apple использует в своих устройствах чипы исключительно собственной разработки. iPhone, Mac, Apple Watch, AirPods — все эти устройства так или иначе базируются на...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1070488/?utm_campaign=1070488&utm_source=habrahabr&utm_medium=rss",
+    "title": "PCIe 6.0 SSD выходят на рынок: зачем нужны накопители со скоростью под 30 ГБ/с и кто их будет выпускать",
+    "summary": "Спецификацию PCIe 6.0 утвердили ещё в начале 2022 года, но первые серийные SSD с новым интерфейсом появились только в 2026-м. Пока речь идёт исключительно о серверных моделях, скор...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1071072/?utm_campaign=1071072&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 15 Aug 2026 14:05:54 GMT",
+    "pubDate": "Sat, 22 Aug 2026 08:01:19 GMT",
     "lang": "ru"
   },
   {
-    "title": "Что важнее для игр: частота памяти, тайминги или процессор",
-    "summary": "Когда начинаешь выбирать оперативную память, сразу бросаются в глаза две главные цифры. Производители даже в маркировку обычно выносят тип-частоту и тайминги. Обычно это цифры врод...",
-    "link": "https://habr.com/ru/companies/x-com/articles/1070492/?utm_campaign=1070492&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 14 Aug 2026 10:41:56 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Сеть ИОЛА, MS-DOS и Pacman: эксперимент с сетевыми адаптерами 80-х",
-    "summary": "Здравствуйте, уважаемые читатели! Безусловно, все слышали про игру Pacman. А слышали ли Вы про Pacgirl? Это подруга Pacman — она с бантиком...\nОсновная «фишка» эксперимента этой ст...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1020328/?utm_campaign=1020328&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 14 Aug 2026 09:05:57 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Exploring New Developments in Wireless Communication Using FR3",
-    "summary": "As wireless demands grow, new spectrum is critical. Download Exploring New Developments in Wireless Communication Using FR3 to learn how FR3 (7.125-24.25 GHz) could support future...",
-    "link": "https://www.microwavejournal.com/articles/46073-exploring-new-developments-in-wireless-communication-using-fr3",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 14 Aug 2026 01:00:00 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "New 915MHz Chip Antenna for Space-Constrained IoT Designs",
-    "summary": "Abracon is expanding its High Efficiency Sub-GHz Chip Antenna portfolio with the new AANI-CH-0212, a 915 MHz antenna designed to deliver reliable long-range connectivity while mini...",
-    "link": "https://www.microwavejournal.com/articles/46080-new-915mhz-chip-antenna-for-space-constrained-iot-designs",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 13 Aug 2026 16:10:23 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Домашнее облако: мой опыт переезда из экосистемы Apple",
-    "summary": "Меня зовут Павел, и я пользователь Apple с 10-летним стажем. И два месяца назад я решил переехать с iCloud на домашний сервер с Open Source ПО. \nПриходил я к этому постепенно. Долг...",
-    "link": "https://habr.com/ru/articles/1070164/?utm_campaign=1070164&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 13 Aug 2026 13:10:47 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "KRYTAR Announces Two (2) New Directional Coupler Operating from 7 to 24 GHz",
-    "summary": "KRYTAR, Inc., a leader in the design and production of ultra-broadband microwave components and test equipment announces two (2) new Directional Couplers operating in the wideband...",
-    "link": "https://www.microwavejournal.com/articles/46076-krytar-announces-two-2-new-directional-coupler-operating-from-7-to-24-ghz",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 13 Aug 2026 08:08:23 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "[Перевод] AirSense: самый умный самодельный очиститель воздуха",
-    "summary": "Вдыхаемый в помещении воздух часто содержит пыль, вредные вещества, аллергены и микроскопические частицы, которые незаметны, но постепенно наносят ущерб нашему здоровью. Очистители...",
-    "link": "https://habr.com/ru/articles/1066066/?utm_campaign=1066066&utm_source=habrahabr&utm_medium=rss",
+    "title": "Платы жесткости для гибких печатных плат: назначение, материалы, особенности",
+    "summary": "Гибкие печатные платы ценятся за способность изгибаться и принимать нужную форму внутри корпуса устройства. Но эта же гибкость становится недостатком в тех местах, где плата должна...",
+    "link": "https://habr.com/ru/companies/electroconnect/articles/1073160/?utm_campaign=1073160&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Thu, 13 Aug 2026 09:42:10 GMT",
+    "pubDate": "Fri, 21 Aug 2026 18:38:11 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Frequency Matters: Inside the August mmWave Special Focus Issue",
+    "summary": "...",
+    "link": "https://www.microwavejournal.com/articles/46104-frequency-matters-inside-the-august-mmwave-special-focus-issue",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 21 Aug 2026 10:00:00 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "EZ Form Cable Expands Market Reach Through Times Microwave Systems Sales Network",
+    "summary": "EZ Form Cable, a leading manufacturer of high performance coaxial cable, cable assemblies, RF connectors and coaxial delay lines, announced that its product portfolio will now be s...",
+    "link": "https://www.microwavejournal.com/articles/46103-ez-form-cable-expands-market-reach-through-times-microwave-systems-sales-network",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 21 Aug 2026 09:38:20 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "MailCow в проде — запуск, настройка. Она вам не «Корова»",
+    "summary": "В прошлой статье мы рассказали, почему решили съехать с корпоративной почты Mail.Ru на свою инфраструктуру. Тогда мы обошлись без деталей — а зря, судя по комментариям. В этот раз...",
+    "link": "https://habr.com/ru/articles/1072920/?utm_campaign=1072920&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 21 Aug 2026 10:37:37 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Low Phase Noise 33 GHz Signal Generator",
+    "summary": "Mini-Circuits’ SSG-33GHP-RC is a compact wideband signal generator covering 100 MHz to 33 GHz with up to +23 dBm output power....",
+    "link": "https://www.microwavejournal.com/articles/46094-low-phase-noise-33-ghz-signal-generator",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 20 Aug 2026 10:05:32 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Засовываем VLA на гуманоида: как выбрать платформу, модель и планировщик",
+    "summary": "Год назад на проекте гуманоида с Jetson Orin на борту меня регулярно спрашивали одно и то же. “Можно ли гонять нашу VLA локально, без сети?” VLA это модель. Она берёт кадр и текст...",
+    "link": "https://habr.com/ru/articles/1059204/?utm_campaign=1059204&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Thu, 20 Aug 2026 13:59:49 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Two Part, Silver Filled Silicone Adhesive Meets NASA Low Outgassing Specifications",
+    "summary": "Master Bond MasterSil 323S-LO is a thermally and electrically conductive silicone designed for low stress bonding applications....",
+    "link": "https://www.microwavejournal.com/articles/46093-two-part-silver-filled-silicone-adhesive-meets-nasa-low-outgassing-specifications",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 20 Aug 2026 09:31:44 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Triad RF Systems Launches Triad Astral™ Product Line, the Company’s First Named Space Portfolio",
+    "summary": "Triad RF Systems, a subsidiary of Comrod Group and the most-flown RF amplifier supplier in commercial NewSpace, announced the Triad Astral™ product line, a curated family of flight...",
+    "link": "https://www.microwavejournal.com/articles/46092-triad-rf-systems-launches-triad-astral-product-line-the-companys-first-named-space-portfolio",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 20 Aug 2026 08:30:35 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Материнские платы будут дорожать. Стоит ли покупать сейчас",
+    "summary": "Только мы смирились с тем, что цены на оперативку, накопители и карты памяти ушли в космос, как ASUS, Gigabyte и MSI начали готовить свою новую волну повышения цен на материнские п...",
+    "link": "https://habr.com/ru/companies/x-com/articles/1072500/?utm_campaign=1072500&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Thu, 20 Aug 2026 10:48:24 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как соблюсти баланс меди в печатных платах",
+    "summary": "Тема баланса меди на практике достаточно проста при проектировании, но очень важна при производстве: от этого зависит риск возникновения деформация (изгиб и кручение) печатной плат...",
+    "link": "https://habr.com/ru/companies/grangroup/articles/1065370/?utm_campaign=1065370&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Thu, 20 Aug 2026 09:00:44 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как удобно и безопасно тестировать платы в лаборатории",
+    "summary": "Когда инфраструктура готова, возникает следующий вопрос: чем должна быть оснащена лаборатория, чтобы в ней действительно было удобно работать? Рассказываю, без какого оборудования...",
+    "link": "https://habr.com/ru/companies/yadro/articles/1065974/?utm_campaign=1065974&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Wed, 19 Aug 2026 08:47:52 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Открыта регистрация на премьерную международную промышленную выставку «ИННОПРОМ. Индия»",
+    "summary": "Открыта регистрация на премьерную международную промышленную выставку «ИННОПРОМ. Индия» Открыта регистрация на 1-ю Международную промышленную выставку «ИННОПРОМ. Индия», которая пр...",
+    "link": "https://elcomdesign.ru/uncategorized/otkryta-registracziya-na-premernuyu-mezhdunarodnuyu-promyshlennuyu-vystavku-innoprom-indiya/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 17 Aug 2026 13:03:25 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Без названия",
+    "summary": "Открыта регистрация посетителей на 5-ю Международную выставку-форум «Электроника России», которая пройдет с 24 по 26 ноября 2026 года в МВЦ «Крокус Экспо» (Москва) Выставка-форум п...",
+    "link": "https://elcomdesign.ru/uncategorized/49062/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 17 Aug 2026 12:48:08 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Системы технического зрения – практические задачи",
+    "summary": "Системы технического зрения – практические задачи На секции № 12.2 «Технологии оптоэлектроники и фотоники. Интегральная фотоника, волоконные и лазерные технологии» научной конферен...",
+    "link": "https://elcomdesign.ru/uncategorized/sistemy-tehnicheskogo-zreniya-prakticheskie-zadachi/",
+    "source": "Электронные компоненты",
+    "pubDate": "Sun, 16 Aug 2026 11:03:46 +0000",
     "lang": "ru"
   },
   {
@@ -78,38 +134,6 @@
     "source": "Электронные компоненты",
     "pubDate": "Thu, 13 Aug 2026 09:16:52 +0000",
     "lang": "ru"
-  },
-  {
-    "title": "Как ИИ ускорил отказ индустрии от медных кабелей и переход на фотонный интерконнект",
-    "summary": "Привет! Я — Аля, старший продакт-менеджер выделенных серверов в Selectel. За последние полтора года в мире сетей для ИИ произошла серия событий, которые по отдельности выглядят как...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1068872/?utm_campaign=1068872&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Thu, 13 Aug 2026 08:00:17 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "SPI-контроллер на FPGA: переносим на Zynq 7000. Часть 1",
-    "summary": "Продолжаем разработку SPI IP Core на Verilog. Следующий логичный этап - перенести разработанный SPI IP Core на Verilog на Xilinx Zynq-7020, который установлен на плате TZT RK-ZYNQ7...",
-    "link": "https://habr.com/ru/companies/beget/articles/1069704/?utm_campaign=1069704&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Thu, 13 Aug 2026 07:05:12 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Making Waves",
-    "summary": "...",
-    "link": "https://www.microwavejournal.com/articles/46020-copy-of-making-waves",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 13 Aug 2026 00:00:53 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Fabs & Labs: Inkbit",
-    "summary": "...",
-    "link": "https://www.microwavejournal.com/articles/46019-copy-of-fabs-and-labs-maury-microwave",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 13 Aug 2026 00:00:48 -0400",
-    "lang": "en"
   },
   {
     "title": "От ЭКБ до ИТ-инфраструктуры: что покажут на «Электронике России 2026»",
@@ -157,30 +181,6 @@
     "link": "https://elcomdesign.ru/uncategorized/uchastnikam-rossijskogo-foruma-mikroelektronika-2026-predostavlyaetsya-vozmozhnost-povysit-svoyu-professionalnuyu-kvalifikacziyu/",
     "source": "Электронные компоненты",
     "pubDate": "Fri, 24 Jul 2026 12:26:07 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Отечественные IGBT модули от АО «Протон-Электротекс». Развитие производства, глубокая локализация и практика внедрения",
-    "summary": "Отечественные IGBT модули от АО «Протон-Электротекс». Развитие производства, глубокая локализация и практика внедрения Доклад Кирилла Волобуева, начальника отдела разработки IGBT А...",
-    "link": "https://elcomdesign.ru/uncategorized/otechestvennye-igbt-moduli-ot-ao-proton-elektroteks-razvitie-proizvodstva-glubokaya-lokalizacziya-i-praktika-vnedreniya/",
-    "source": "Электронные компоненты",
-    "pubDate": "Wed, 22 Jul 2026 17:28:33 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "В центре внимания – двумерные материалы для микроэлектроники",
-    "summary": "В центре внимания – двумерные материалы для микроэлектроники Федеральное государственное автономное образовательное учреждение высшего образования «Московский физико-технический ин...",
-    "link": "https://elcomdesign.ru/uncategorized/v-czentre-vnimaniya-dvumernye-materialy-dlya-mikroelektroniki/",
-    "source": "Электронные компоненты",
-    "pubDate": "Tue, 21 Jul 2026 11:33:23 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Круглый стол «Промышленный IoT вступает в эпоху автономности» в онлайн формате 4 августа",
-    "summary": "Круглый стол «Промышленный IoT вступает в эпоху автономности» в онлайн формате 4 августа Медиагруппа «Электроника» и портал IT-World приглашают технологических лидеров, интеграторо...",
-    "link": "https://elcomdesign.ru/uncategorized/kruglyj-stol-promyshlennyj-iot-vstupaet-v-epohu-avtonomnosti-v-onlajn-formate-4-avgusta/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 20 Jul 2026 05:57:53 +0000",
     "lang": "ru"
   }
 ]
