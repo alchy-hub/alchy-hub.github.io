@@ -1,106 +1,122 @@
 [
   {
-    "title": "Настоящий мобильный компьютер из нулевых — HTC Universal",
-    "summary": "Компания HTC запомнилась нам в первую очередь по коммуникатором и смартфонам из нулевых. В портфолио тайваньской фирмы затесались сотни легендарных устройств, начиная от QTek'ов с...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1073132/?utm_campaign=1073132&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Sat, 22 Aug 2026 14:05:44 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "PCIe 6.0 SSD выходят на рынок: зачем нужны накопители со скоростью под 30 ГБ/с и кто их будет выпускать",
-    "summary": "Спецификацию PCIe 6.0 утвердили ещё в начале 2022 года, но первые серийные SSD с новым интерфейсом появились только в 2026-м. Пока речь идёт исключительно о серверных моделях, скор...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1071072/?utm_campaign=1071072&utm_source=habrahabr&utm_medium=rss",
+    "title": "Как я увеличил производительность своего сервера для LLM-вычислений почти в два раза и причем здесь six-seven",
+    "summary": "Мы разобрались, какие типы вычислений реально важны для LLM, почему мой вычислительный кластер на CMP90HX работал хуже чем ожидалось - узнали что вычислительная мощность искусствен...",
+    "link": "https://habr.com/ru/articles/1076224/?utm_campaign=1076224&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 22 Aug 2026 08:01:19 GMT",
+    "pubDate": "Sat, 29 Aug 2026 20:13:32 GMT",
     "lang": "ru"
   },
   {
-    "title": "Платы жесткости для гибких печатных плат: назначение, материалы, особенности",
-    "summary": "Гибкие печатные платы ценятся за способность изгибаться и принимать нужную форму внутри корпуса устройства. Но эта же гибкость становится недостатком в тех местах, где плата должна...",
-    "link": "https://habr.com/ru/companies/electroconnect/articles/1073160/?utm_campaign=1073160&utm_source=habrahabr&utm_medium=rss",
+    "title": "«Первое» устройство BlackBerry: уникальный КПК с x86-процессором от Intel. Изучаем диковинку",
+    "summary": "Мои давние читатели знают, что я большой фанат устройств от Blackberry. В 2023 году я ходил с Passport как с основным смартфоном (и даже написал об этом статью), в 2024 использовал...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1075952/?utm_campaign=1075952&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 21 Aug 2026 18:38:11 GMT",
+    "pubDate": "Sat, 29 Aug 2026 14:05:52 GMT",
     "lang": "ru"
   },
   {
-    "title": "Frequency Matters: Inside the August mmWave Special Focus Issue",
-    "summary": "...",
-    "link": "https://www.microwavejournal.com/articles/46104-frequency-matters-inside-the-august-mmwave-special-focus-issue",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 21 Aug 2026 10:00:00 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "EZ Form Cable Expands Market Reach Through Times Microwave Systems Sales Network",
-    "summary": "EZ Form Cable, a leading manufacturer of high performance coaxial cable, cable assemblies, RF connectors and coaxial delay lines, announced that its product portfolio will now be s...",
-    "link": "https://www.microwavejournal.com/articles/46103-ez-form-cable-expands-market-reach-through-times-microwave-systems-sales-network",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 21 Aug 2026 09:38:20 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "MailCow в проде — запуск, настройка. Она вам не «Корова»",
-    "summary": "В прошлой статье мы рассказали, почему решили съехать с корпоративной почты Mail.Ru на свою инфраструктуру. Тогда мы обошлись без деталей — а зря, судя по комментариям. В этот раз...",
-    "link": "https://habr.com/ru/articles/1072920/?utm_campaign=1072920&utm_source=habrahabr&utm_medium=rss",
+    "title": "«Первое» устройство BlackBerry: уникальный КПК с x86-процессором от Intel. Изучаем диковинку",
+    "summary": "Мои давние читатели знают, что я большой фанат устройств от Blackberry. В 2023 году я ходил с Passport как с основным смартфоном (и даже написал об этом статью), в 2024 использовал...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1075952/?utm_campaign=1075952&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 21 Aug 2026 10:37:37 GMT",
+    "pubDate": "Sat, 29 Aug 2026 14:05:52 GMT",
     "lang": "ru"
   },
   {
-    "title": "Low Phase Noise 33 GHz Signal Generator",
-    "summary": "Mini-Circuits’ SSG-33GHP-RC is a compact wideband signal generator covering 100 MHz to 33 GHz with up to +23 dBm output power....",
-    "link": "https://www.microwavejournal.com/articles/46094-low-phase-noise-33-ghz-signal-generator",
+    "title": "Qwen3.8. MTP и тензорный параллелизм в llama.cpp: 75 ток/сек на двух RTX 3090",
+    "summary": "Плотная 27-миллиардная модель на двух RTX 3090 в llama.cpp из коробки даёт 32 токена в секунду. Интуитивно понятно, что это не предел: две карты по 24 ГБ и 936 ГБ/с каждая не должн...",
+    "link": "https://habr.com/ru/articles/1076080/?utm_campaign=1076080&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 29 Aug 2026 09:15:01 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Advanced Packaging and SI: Simulating Electromagnetic, Thermal, and Mechanical Effects",
+    "summary": "This eBook explores how multiphysics simulation is transforming advanced semiconductor packaging and RF system design by enabling engineers to evaluate electromagnetic, thermal, an...",
+    "link": "https://www.microwavejournal.com/articles/46126-advanced-packaging-and-si-simulating-electromagnetic-thermal-and-mechanical-effects",
     "source": "Microwave Journal",
-    "pubDate": "Thu, 20 Aug 2026 10:05:32 -0400",
+    "pubDate": "Fri, 28 Aug 2026 10:36:00 -0400",
     "lang": "en"
   },
   {
-    "title": "Засовываем VLA на гуманоида: как выбрать платформу, модель и планировщик",
-    "summary": "Год назад на проекте гуманоида с Jetson Orin на борту меня регулярно спрашивали одно и то же. “Можно ли гонять нашу VLA локально, без сети?” VLA это модель. Она берёт кадр и текст...",
-    "link": "https://habr.com/ru/articles/1059204/?utm_campaign=1059204&utm_source=habrahabr&utm_medium=rss",
+    "title": "[Перевод] skitter-creek-bath-salts — обход аппаратной изоляции памяти в современных CPU",
+    "summary": "Или как получить полный доступ к изнанке CPU через скремблирование DRAM — PSP, C6, микрокоду, среде SMM и всему остальному, что не попало на страницы спецификации.\nВсё-таки не всег...",
+    "link": "https://habr.com/ru/companies/ruvds/articles/1075110/?utm_campaign=1075110&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 28 Aug 2026 13:01:51 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Компьютер по подписке: как Nvidia превращает вычисления в сервис",
+    "summary": "Ежегодная выставка Computex в Тайбэе уже более 40 лет собирает производителей и энтузиастов компьютерной индустрии. За годы мероприятие стало компасом всей отрасли, четко указывающ...",
+    "link": "https://habr.com/ru/companies/inferit/articles/1075766/?utm_campaign=1075766&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Thu, 20 Aug 2026 13:59:49 GMT",
+    "pubDate": "Fri, 28 Aug 2026 10:35:35 GMT",
     "lang": "ru"
   },
   {
-    "title": "Two Part, Silver Filled Silicone Adhesive Meets NASA Low Outgassing Specifications",
-    "summary": "Master Bond MasterSil 323S-LO is a thermally and electrically conductive silicone designed for low stress bonding applications....",
-    "link": "https://www.microwavejournal.com/articles/46093-two-part-silver-filled-silicone-adhesive-meets-nasa-low-outgassing-specifications",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 20 Aug 2026 09:31:44 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Triad RF Systems Launches Triad Astral™ Product Line, the Company’s First Named Space Portfolio",
-    "summary": "Triad RF Systems, a subsidiary of Comrod Group and the most-flown RF amplifier supplier in commercial NewSpace, announced the Triad Astral™ product line, a curated family of flight...",
-    "link": "https://www.microwavejournal.com/articles/46092-triad-rf-systems-launches-triad-astral-product-line-the-companys-first-named-space-portfolio",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 20 Aug 2026 08:30:35 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Материнские платы будут дорожать. Стоит ли покупать сейчас",
-    "summary": "Только мы смирились с тем, что цены на оперативку, накопители и карты памяти ушли в космос, как ASUS, Gigabyte и MSI начали готовить свою новую волну повышения цен на материнские п...",
-    "link": "https://habr.com/ru/companies/x-com/articles/1072500/?utm_campaign=1072500&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 20 Aug 2026 10:48:24 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Как соблюсти баланс меди в печатных платах",
-    "summary": "Тема баланса меди на практике достаточно проста при проектировании, но очень важна при производстве: от этого зависит риск возникновения деформация (изгиб и кручение) печатной плат...",
-    "link": "https://habr.com/ru/companies/grangroup/articles/1065370/?utm_campaign=1065370&utm_source=habrahabr&utm_medium=rss",
+    "title": "Охранные сигнализации советской эпохи",
+    "summary": "Приветствую всех!\nСегодня мы снова будем говорить о некоторых артефактах, которые можно найти на стенах старых домов. Многие из вас видели такие блоки и наверняка догадывались, что...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1074502/?utm_campaign=1074502&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Thu, 20 Aug 2026 09:00:44 GMT",
+    "pubDate": "Fri, 28 Aug 2026 08:05:27 GMT",
     "lang": "ru"
   },
   {
-    "title": "Как удобно и безопасно тестировать платы в лаборатории",
-    "summary": "Когда инфраструктура готова, возникает следующий вопрос: чем должна быть оснащена лаборатория, чтобы в ней действительно было удобно работать? Рассказываю, без какого оборудования...",
-    "link": "https://habr.com/ru/companies/yadro/articles/1065974/?utm_campaign=1065974&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Wed, 19 Aug 2026 08:47:52 GMT",
+    "title": "Как построить беспроводную связь RS-485 через LoRa",
+    "summary": "На объекте уже проложена шина RS-485, устройства работают по Modbus RTU, но из-за сложности или высокой стоимости прокладки кабеля требуется заменить этот участок линии беспроводны...",
+    "link": "https://habr.com/ru/articles/1075644/?utm_campaign=1075644&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 28 Aug 2026 07:53:18 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Movandi Redefines Synthesizer PLL Efficiency, Delivering Peak Performance at Lower Power for Next-Gen Wireless and AI Infrastructure",
+    "summary": "Movandi, the semiconductor and systems connectivity company powering intelligent wireless infrastructure, announced the MV3564 and MV3514 frequency synthesizers, two new pin- and f...",
+    "link": "https://www.microwavejournal.com/articles/46125-movandi-redefines-synthesizer-pll-efficiency-delivering-peak-performance-at-lower-power-for-next-gen-wireless-and-ai-infrastructure",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 27 Aug 2026 13:31:52 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Leadless, VHF/UHF, 8 Way Multiplexer ",
+    "summary": "3H Communications introduces their 8 Way Multiplexer with Bi-Directional Coupler Ports....",
+    "link": "https://www.microwavejournal.com/articles/46124-leadless-vhf-uhf-8-way-multiplexer",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 27 Aug 2026 11:40:45 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Solve RF Design Challenges with High Performance Switched & Tunable MMIC Filters",
+    "summary": "ATEK MIDAS MMIC filter solutions eliminate the traditional tradeoffs between performance, size, tuning speed and availability....",
+    "link": "https://www.microwavejournal.com/articles/46122-solve-rf-design-challenges-with-high-performance-switched-and-tunable-mmic-filters",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 27 Aug 2026 08:54:57 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Keysight Accelerates AttoTude IC Design Cycles by More Than 50%",
+    "summary": "Keysight Technologies, Inc. announced that AttoTude Inc., a pioneer of next-generation ASICs over Dielectric interconnect technology for AI and hyperscale data center applications,...",
+    "link": "https://www.microwavejournal.com/articles/46121-keysight-accelerates-attotude-ic-design-cycles-by-more-than-50",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 27 Aug 2026 07:34:14 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Журнал «Электронные компоненты» на Форуме Микроэлектроника и выставке RADEL",
+    "summary": "Журнал «Электронные компоненты» на Форуме Микроэлектроника и выставке RADEL   Приглашаем  разместить технические материалы и информацию по компетенциям и продуктам  в журнале «Элек...",
+    "link": "https://elcomdesign.ru/uncategorized/zhurnal-elektronnye-komponenty-na-forume-mikroelektronika-i-vystavke-radel/",
+    "source": "Электронные компоненты",
+    "pubDate": "Tue, 25 Aug 2026 15:54:41 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Приглашаем Вас разместить рекламу/статью/интервью или репортаж с производства в журнале «СВЧ электроника» №03/2026.",
+    "summary": "Приглашаем Вас разместить рекламу/статью/интервью или репортаж с производства в журнале «СВЧ электроника» №03/2026.   Журнал выйдет в сентябре и будет распространяться на выставке...",
+    "link": "https://elcomdesign.ru/uncategorized/priglashaem-vas-razmestit-reklamu-statyu-intervyu-ili-reportazh-s-proizvodstva-v-zhurnale-svch-elektronika-%e2%84%9603-2026/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 24 Aug 2026 10:26:54 +0000",
     "lang": "ru"
   },
   {
@@ -125,6 +141,14 @@
     "link": "https://elcomdesign.ru/uncategorized/sistemy-tehnicheskogo-zreniya-prakticheskie-zadachi/",
     "source": "Электронные компоненты",
     "pubDate": "Sun, 16 Aug 2026 11:03:46 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Открыта регистрация на «ИННОПРОМ. Беларусь»",
+    "summary": "Открыта регистрация на «ИННОПРОМ. Беларусь» 2-ая Международная промышленная выставка «ИННОПРОМ. Беларусь» пройдет с 30 сентября по 2 октября в Минске. Регистрация на мероприятие от...",
+    "link": "https://elcomdesign.ru/uncategorized/49083/",
+    "source": "Электронные компоненты",
+    "pubDate": "Thu, 13 Aug 2026 14:35:40 +0000",
     "lang": "ru"
   },
   {
@@ -157,30 +181,6 @@
     "link": "https://elcomdesign.ru/uncategorized/istochniki-pitaniya-dlya-kii-chto-dast-dvuhurovnevaya-model-rynku-kejs-razbor-na-servernyh-bp-asu-tp-i-telekome/",
     "source": "Электронные компоненты",
     "pubDate": "Mon, 27 Jul 2026 09:38:27 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Двухуровневая модель подтверждения «российскости» — основа самонастраиваемой локализации. Доклад Дениса Ловчикова, директора по развитию ООО «НПО «Энергетическая электроника», на конференции «Силовая электроника -2026»",
-    "summary": "Двухуровневая модель подтверждения «российскости» — основа самонастраиваемой локализации. Доклад Дениса Ловчикова, директора по развитию ООО «НПО «Энергетическая электроника», на к...",
-    "link": "https://elcomdesign.ru/uncategorized/dvuhurovnevaya-model-podtverzhdeniya-rossijskosti-osnova-samonastraivaemoj-lokalizaczii-doklad-denisa-lovchikova-direktora-po-razvitiyu-ooo-npo-energeticheskaya-elektronika/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 27 Jul 2026 09:30:59 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Доклад Андрея Жилина, председателя рабочей группы «Силовая Электроника», члена рабочей группы «Электрорадиотехнические материалы» Совета по развитию электронной промышленности Минпромторга России; АО «НПО «ЭНЕРГОМОДУЛЬ», на конференции «Силовая электроника — 2026»",
-    "summary": "Доклад Андрея Жилина, председателя рабочей группы «Силовая Электроника», члена рабочей группы «Электрорадиотехнические материалы» Совета по развитию электронной промышленности Минп...",
-    "link": "https://elcomdesign.ru/uncategorized/doklad-andreya-zhilina-predsedatelya-rabochej-gruppy-silovaya-elektronika-chlena-rabochej-gruppy-elektroradiotehnicheskie-materialy-soveta-po-razvitiyu-elektronnoj-promyshlen/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 27 Jul 2026 08:58:17 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Участникам Российского форума «Микроэлектроника 2026» предоставляется возможность повысить свою профессиональную квалификацию",
-    "summary": "Участникам Российского форума «Микроэлектроника 2026» предоставляется возможность повысить свою профессиональную квалификацию   Все зарегистрированные участники Форума по желанию с...",
-    "link": "https://elcomdesign.ru/uncategorized/uchastnikam-rossijskogo-foruma-mikroelektronika-2026-predostavlyaetsya-vozmozhnost-povysit-svoyu-professionalnuyu-kvalifikacziyu/",
-    "source": "Электронные компоненты",
-    "pubDate": "Fri, 24 Jul 2026 12:26:07 +0000",
     "lang": "ru"
   }
 ]
