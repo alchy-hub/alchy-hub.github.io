@@ -1,107 +1,131 @@
 [
   {
-    "title": "Как я увеличил производительность своего сервера для LLM-вычислений почти в два раза и причем здесь six-seven",
-    "summary": "Мы разобрались, какие типы вычислений реально важны для LLM, почему мой вычислительный кластер на CMP90HX работал хуже чем ожидалось - узнали что вычислительная мощность искусствен...",
-    "link": "https://habr.com/ru/articles/1076224/?utm_campaign=1076224&utm_source=habrahabr&utm_medium=rss",
+    "title": "Самый уникальный x86 процессор из 90-х — Cyrix MediaGX. Как инженерам Cyrix удалось уместить целый компьютер в два чипа?",
+    "summary": "Все мы с вами привыкли к тому, что балом на рынке x86-процессоров правят всем известные Intel и AMD. Некоторые читатели могут вспомнить также процессоры VIA (Centaur), которые масс...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1077804/?utm_campaign=1077804&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 29 Aug 2026 20:13:32 GMT",
+    "pubDate": "Sat, 05 Sep 2026 14:05:34 GMT",
     "lang": "ru"
   },
   {
-    "title": "«Первое» устройство BlackBerry: уникальный КПК с x86-процессором от Intel. Изучаем диковинку",
-    "summary": "Мои давние читатели знают, что я большой фанат устройств от Blackberry. В 2023 году я ходил с Passport как с основным смартфоном (и даже написал об этом статью), в 2024 использовал...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1075952/?utm_campaign=1075952&utm_source=habrahabr&utm_medium=rss",
+    "title": "StarLine интегрировал управление автомобилем с «Умным домом» Яндекса",
+    "summary": "StarLine интегрировал управление автомобилем с «Умным домом» Яндекса StarLine расширяет возможности взаимодействия с автомобилем: пользователи могут подключить охранный комплекс к...",
+    "link": "https://elcomdesign.ru/uncategorized/starline-integriroval-upravlenie-avtomobilem-s-umnym-domom-yandeksa/",
+    "source": "Электронные компоненты",
+    "pubDate": "Sat, 05 Sep 2026 08:46:23 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Стоит ли нам ждать прорыва в технологиях",
+    "summary": "Посмотрите на вещи, которые мы привыкли воспринимать как неотъемлемую часть повседневной жизни: компьютер, интернет, самолет, антибиотики, атомная энергетика, космические аппараты...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1078408/?utm_campaign=1078408&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 29 Aug 2026 14:05:52 GMT",
+    "pubDate": "Sat, 05 Sep 2026 08:01:09 GMT",
     "lang": "ru"
   },
   {
-    "title": "«Первое» устройство BlackBerry: уникальный КПК с x86-процессором от Intel. Изучаем диковинку",
-    "summary": "Мои давние читатели знают, что я большой фанат устройств от Blackberry. В 2023 году я ходил с Passport как с основным смартфоном (и даже написал об этом статью), в 2024 использовал...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1075952/?utm_campaign=1075952&utm_source=habrahabr&utm_medium=rss",
+    "title": "Тензорные ядра больше не спасают: почему ИИ-ускорители упрутся в память",
+    "summary": "Производители ИИ-ускорителей продолжают увеличивать количество тензорных ядер и осваивать всё более короткие форматы данных, включая FP8 и FP4. Производительность вроде как растёт,...",
+    "link": "https://habr.com/ru/companies/ru_mts/articles/1078518/?utm_campaign=1078518&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 29 Aug 2026 14:05:52 GMT",
+    "pubDate": "Sat, 05 Sep 2026 07:01:04 GMT",
     "lang": "ru"
   },
   {
-    "title": "Qwen3.8. MTP и тензорный параллелизм в llama.cpp: 75 ток/сек на двух RTX 3090",
-    "summary": "Плотная 27-миллиардная модель на двух RTX 3090 в llama.cpp из коробки даёт 32 токена в секунду. Интуитивно понятно, что это не предел: две карты по 24 ГБ и 936 ГБ/с каждая не должн...",
-    "link": "https://habr.com/ru/articles/1076080/?utm_campaign=1076080&utm_source=habrahabr&utm_medium=rss",
+    "title": "Frequency Matters: What’s Driving Automotive & Connected Vehicles",
+    "summary": "...",
+    "link": "https://www.microwavejournal.com/articles/46138-frequency-matters-whats-driving-automotive-and-connected-vehicles",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 04 Sep 2026 10:00:00 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "iPhone, два светильника и OBS: как устроена моя домашняя YouTube-студия",
+    "summary": "У меня есть YouTube-канал с примерно полумиллионом подписчиков (адрес не указываю: не чтобы набрать аудиторию пишу). Видео выкладываю почти каждый день, работы много. И у меня слож...",
+    "link": "https://habr.com/ru/companies/ru_mts/articles/1078490/?utm_campaign=1078490&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 29 Aug 2026 09:15:01 GMT",
+    "pubDate": "Fri, 04 Sep 2026 12:59:56 GMT",
     "lang": "ru"
   },
   {
-    "title": "Advanced Packaging and SI: Simulating Electromagnetic, Thermal, and Mechanical Effects",
-    "summary": "This eBook explores how multiphysics simulation is transforming advanced semiconductor packaging and RF system design by enabling engineers to evaluate electromagnetic, thermal, an...",
-    "link": "https://www.microwavejournal.com/articles/46126-advanced-packaging-and-si-simulating-electromagnetic-thermal-and-mechanical-effects",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 28 Aug 2026 10:36:00 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "[Перевод] skitter-creek-bath-salts — обход аппаратной изоляции памяти в современных CPU",
-    "summary": "Или как получить полный доступ к изнанке CPU через скремблирование DRAM — PSP, C6, микрокоду, среде SMM и всему остальному, что не попало на страницы спецификации.\nВсё-таки не всег...",
-    "link": "https://habr.com/ru/companies/ruvds/articles/1075110/?utm_campaign=1075110&utm_source=habrahabr&utm_medium=rss",
+    "title": "Кэши, режимы нагрузки и ловушка среднего, или Почему storage-бенчмарки врут",
+    "summary": "Представьте, разработчики добавили прозрачное шифрование в файловую систему, собрали ядро и прогнали Fio — пропускная способность не изменилась. Однако после раскатки на продакшен...",
+    "link": "https://habr.com/ru/companies/garda/articles/1077526/?utm_campaign=1077526&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 28 Aug 2026 13:01:51 GMT",
+    "pubDate": "Fri, 04 Sep 2026 09:43:46 GMT",
     "lang": "ru"
   },
   {
-    "title": "Компьютер по подписке: как Nvidia превращает вычисления в сервис",
-    "summary": "Ежегодная выставка Computex в Тайбэе уже более 40 лет собирает производителей и энтузиастов компьютерной индустрии. За годы мероприятие стало компасом всей отрасли, четко указывающ...",
-    "link": "https://habr.com/ru/companies/inferit/articles/1075766/?utm_campaign=1075766&utm_source=habrahabr&utm_medium=rss",
+    "title": "Обеспечим микро- и наноэлектронику отечественными материалами",
+    "summary": "Обеспечим микро- и наноэлектронику отечественными материалами На секции №13 научной конференции Форума обсудят поиск новых перспективных материалов с уникальными физическими свойст...",
+    "link": "https://elcomdesign.ru/uncategorized/obespechim-mikro-i-nanoelektroniku-otechestvennymi-materialami/",
+    "source": "Электронные компоненты",
+    "pubDate": "Fri, 04 Sep 2026 09:36:03 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "«ИННОПРОМ. Индия» представит передовые российские технологии и новые направления промышленного сотрудничества в Нью-Дели",
+    "summary": "«ИННОПРОМ. Индия» представит передовые российские технологии и новые направления промышленного сотрудничества в Нью-Дели Осталась ровно неделя до открытия премьерной Международной...",
+    "link": "https://elcomdesign.ru/uncategorized/innoprom-indiya-predstavit-peredovye-rossijskie-tehnologii-i-novye-napravleniya-promyshlennogo-sotrudnichestva-v-nyu-deli/",
+    "source": "Электронные компоненты",
+    "pubDate": "Fri, 04 Sep 2026 09:17:27 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Лазерная зажигалка на 20 ватт из восьми деталей",
+    "summary": "Пару недель назад я рассказывал, как за вечер собрать синий лазер на 70 ватт: матрица от проектора, буст‑конвертер, восемь банок 18650, процессорный кулер, два десятка деталей и ве...",
+    "link": "https://habr.com/ru/articles/1078348/?utm_campaign=1078348&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 28 Aug 2026 10:35:35 GMT",
+    "pubDate": "Fri, 04 Sep 2026 07:31:18 GMT",
     "lang": "ru"
   },
   {
-    "title": "Охранные сигнализации советской эпохи",
-    "summary": "Приветствую всех!\nСегодня мы снова будем говорить о некоторых артефактах, которые можно найти на стенах старых домов. Многие из вас видели такие блоки и наверняка догадывались, что...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1074502/?utm_campaign=1074502&utm_source=habrahabr&utm_medium=rss",
+    "title": "Драгоценная энергия: алмаз как пьезоэлектрик",
+    "summary": "Задавать вопросы и искать на них ответы — это квинтэссенция науки. Однако в попытках понять что и как работает порой можно прийти к неверным выводам. Как правило, это связано с нед...",
+    "link": "https://habr.com/ru/companies/ua-hosting/articles/1078014/?utm_campaign=1078014&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 28 Aug 2026 08:05:27 GMT",
+    "pubDate": "Fri, 04 Sep 2026 07:15:12 GMT",
     "lang": "ru"
   },
   {
-    "title": "Как построить беспроводную связь RS-485 через LoRa",
-    "summary": "На объекте уже проложена шина RS-485, устройства работают по Modbus RTU, но из-за сложности или высокой стоимости прокладки кабеля требуется заменить этот участок линии беспроводны...",
-    "link": "https://habr.com/ru/articles/1075644/?utm_campaign=1075644&utm_source=habrahabr&utm_medium=rss",
+    "title": "Modelithics Releases Qorvo GaN Library v26.5.11 with New 200 W GaN Model",
+    "summary": "Modelithics® is pleased to announce the release of the Modelithics Qorvo® GaN Library v26.5.11. For more than 12 years, the Modelithics Qorvo GaN Library has provided RF and microw...",
+    "link": "https://www.microwavejournal.com/articles/46137-modelithics-releases-qorvo-gan-library-v26511-with-new-200-w-gan-model",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 03 Sep 2026 14:04:18 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "ADRF Introduces PowerSmartTM Control for ADXV Series DAS with Up to 60% Reduction in Power Consumption",
+    "summary": "Advanced RF Technologies, Inc. (ADRF), the largest provider of pure-play distributed antenna system (DAS) and repeaters for over a quarter century, announced PowerSmartTM Control,...",
+    "link": "https://www.microwavejournal.com/articles/46136-adrf-introduces-powersmarttm-control-for-adxv-series-das-with-up-to-60-reduction-in-power-consumption",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 03 Sep 2026 13:35:36 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "TMYTEK Launches 6G FR3 Platform to Bridge Simulation and Real-World OTA Validation ",
+    "summary": "TMY Technology Inc. (TMYTEK), a provider of mmWave and advanced wireless solutions, announced the launch of its 6G FR3 Platform, a modular research platform designed to help wirele...",
+    "link": "https://www.microwavejournal.com/articles/46135-tmytek-launches-6g-fr3-platform-to-bridge-simulation-and-real-world-ota-validation",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 03 Sep 2026 10:43:56 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Richardson RFPD Announces Availability of Spectrum Control High-Power SAW Filters for \nMission-Critical RF Applications",
+    "summary": "Richardson RFPD, Inc., an Arrow Electronics company, announces the availability of Spectrum Control's High-Power SAW Filter portfolio, designed to address the demanding requirement...",
+    "link": "https://www.microwavejournal.com/articles/46134-richardson-rfpd-announces-availability-of-spectrum-control-high-power-saw-filters-for-mission-critical-rf-applications",
+    "source": "Microwave Journal",
+    "pubDate": "Wed, 02 Sep 2026 13:19:35 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "FR-4: материал, который у всех на слуху, но мало кто в него всматривался",
+    "summary": "Когда речь заходит о печатных платах, FR-4 упоминают чуть ли не в каждом втором разговоре. Это стандарт, основа, база, с которой начинается почти любая электроника. Но за привычным...",
+    "link": "https://habr.com/ru/companies/electroconnect/articles/1077002/?utm_campaign=1077002&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 28 Aug 2026 07:53:18 GMT",
+    "pubDate": "Tue, 01 Sep 2026 04:25:50 GMT",
     "lang": "ru"
-  },
-  {
-    "title": "Movandi Redefines Synthesizer PLL Efficiency, Delivering Peak Performance at Lower Power for Next-Gen Wireless and AI Infrastructure",
-    "summary": "Movandi, the semiconductor and systems connectivity company powering intelligent wireless infrastructure, announced the MV3564 and MV3514 frequency synthesizers, two new pin- and f...",
-    "link": "https://www.microwavejournal.com/articles/46125-movandi-redefines-synthesizer-pll-efficiency-delivering-peak-performance-at-lower-power-for-next-gen-wireless-and-ai-infrastructure",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 27 Aug 2026 13:31:52 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Leadless, VHF/UHF, 8 Way Multiplexer ",
-    "summary": "3H Communications introduces their 8 Way Multiplexer with Bi-Directional Coupler Ports....",
-    "link": "https://www.microwavejournal.com/articles/46124-leadless-vhf-uhf-8-way-multiplexer",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 27 Aug 2026 11:40:45 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Solve RF Design Challenges with High Performance Switched & Tunable MMIC Filters",
-    "summary": "ATEK MIDAS MMIC filter solutions eliminate the traditional tradeoffs between performance, size, tuning speed and availability....",
-    "link": "https://www.microwavejournal.com/articles/46122-solve-rf-design-challenges-with-high-performance-switched-and-tunable-mmic-filters",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 27 Aug 2026 08:54:57 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Keysight Accelerates AttoTude IC Design Cycles by More Than 50%",
-    "summary": "Keysight Technologies, Inc. announced that AttoTude Inc., a pioneer of next-generation ASICs over Dielectric interconnect technology for AI and hyperscale data center applications,...",
-    "link": "https://www.microwavejournal.com/articles/46121-keysight-accelerates-attotude-ic-design-cycles-by-more-than-50",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 27 Aug 2026 07:34:14 -0400",
-    "lang": "en"
   },
   {
     "title": "Журнал «Электронные компоненты» на Форуме Микроэлектроника и выставке RADEL",
@@ -157,30 +181,6 @@
     "link": "https://elcomdesign.ru/uncategorized/otkryvaya-novye-gorizonty-ruchnaya-zondovaya-stancziya-omegaair-150mmw-ot-ao-niipp/",
     "source": "Электронные компоненты",
     "pubDate": "Thu, 13 Aug 2026 09:16:52 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "От ЭКБ до ИТ-инфраструктуры: что покажут на «Электронике России 2026»",
-    "summary": "От ЭКБ до ИТ-инфраструктуры: что покажут на «Электронике России 2026»   24–26 ноября 2026 года в Москве, в МВЦ «Крокус Экспо», пройдет 5-я Международная выставка-форум «Электроника...",
-    "link": "https://elcomdesign.ru/uncategorized/ot-ekb-do-it-infrastruktury-chto-pokazhut-na-elektronike-rossii-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 30 Jul 2026 17:26:21 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Борьба с излучаемыми помехами на высокоскоростных печатных платах",
-    "summary": "Борьба с излучаемыми помехами на высокоскоростных печатных платах   Юрий Сенякин, инженер   В статье рассматриваются причины возникновения нежелательных помех в высокоскоростных пе...",
-    "link": "https://elcomdesign.ru/uncategorized/borba-s-izluchaemymi-pomehami-na-vysokoskorostnyh-pechatnyh-platah/",
-    "source": "Электронные компоненты",
-    "pubDate": "Wed, 29 Jul 2026 08:33:12 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Источники питания для КИИ. Что даст двухуровневая модель рынку — кейс разбор на серверных БП, АСУ ТП и телекоме",
-    "summary": "Источники питания для КИИ. Что даст двухуровневая модель рынку — кейс разбор на серверных БП, АСУ ТП и телекоме Доклад Александра Чершнева, директора по развитию ООО «КВ Системы»,...",
-    "link": "https://elcomdesign.ru/uncategorized/istochniki-pitaniya-dlya-kii-chto-dast-dvuhurovnevaya-model-rynku-kejs-razbor-na-servernyh-bp-asu-tp-i-telekome/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 27 Jul 2026 09:38:27 +0000",
     "lang": "ru"
   }
 ]
