@@ -1,10 +1,178 @@
 [
   {
-    "title": "Самый уникальный x86 процессор из 90-х — Cyrix MediaGX. Как инженерам Cyrix удалось уместить целый компьютер в два чипа?",
-    "summary": "Все мы с вами привыкли к тому, что балом на рынке x86-процессоров правят всем известные Intel и AMD. Некоторые читатели могут вспомнить также процессоры VIA (Centaur), которые масс...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1077804/?utm_campaign=1077804&utm_source=habrahabr&utm_medium=rss",
+    "title": "Cubot A50 — годный смартфон за 10.000 рублей",
+    "summary": "В последние годы, я хожу исключительно с флагманскими смартфонами с какой‑то необычной фишкой. В 2023 году я использовал BB Passport, в 2024 — BB Priv, в 2025 — Unihertz Titan, а в...",
+    "link": "https://habr.com/ru/articles/1079998/?utm_campaign=1079998&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 05 Sep 2026 14:05:34 GMT",
+    "pubDate": "Sat, 12 Sep 2026 16:14:51 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "«Прежде чем принимать решение об изделии, нужно знать состояние стенда»",
+    "summary": "«Прежде чем принимать решение об изделии, нужно знать состояние стенда» Татьяна Красик о межкалибровочном контроле достоверности измерений на производственных RF/ATE-стендах Интерв...",
+    "link": "https://elcomdesign.ru/uncategorized/prezhde-chem-prinimat-reshenie-ob-izdelii-nuzhno-znat-sostoyanie-stenda/",
+    "source": "Электронные компоненты",
+    "pubDate": "Sat, 12 Sep 2026 13:59:40 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "[Перевод] Микрокод внутри сопроцессора Intel 8087: обмен регистрами",
+    "summary": "В 1980 году Intel 8087 стал первым массовым математическим сопроцессором компании и заложил основу для современных вычислений с плавающей точкой. Сегодня его уже не встретить в ком...",
+    "link": "https://habr.com/ru/companies/otus/articles/1081142/?utm_campaign=1081142&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 12 Sep 2026 10:15:33 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как укротить пробел: пошаговая установка клавиши со стабилизатором",
+    "summary": "Секундное дело, которое часто затягивается на часы: как с первого раза правильно завести стальной стабилизатор в пазы на металлической подложке ноутбука и аккуратно вернуть пробел...",
+    "link": "https://habr.com/ru/articles/1081538/?utm_campaign=1081538&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 12 Sep 2026 10:15:33 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Вышел журнал «СВЧ электроника» №3/2026",
+    "summary": "Вышел журнал «СВЧ электроника» №3/2026 Журнал СВЧ электроника, посвящен компонентам и материалам СВЧ, проектированию и разработке радиотехнических систем, приборам и проблемам элек...",
+    "link": "https://elcomdesign.ru/uncategorized/vyshel-zhurnal-svch-elektronika-%e2%84%963-2026/",
+    "source": "Электронные компоненты",
+    "pubDate": "Sat, 12 Sep 2026 06:49:07 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Вышел журнал «Электронные компоненты» №9/2026",
+    "summary": "Вышел журнал «Электронные компоненты» №9/2026 Первый журнал по электронным компонентам в России. Журнал издается с 1995 года и является авторитетным источником профессиональной и...",
+    "link": "https://elcomdesign.ru/uncategorized/vyshel-zhurnal-elektronnye-komponenty-%e2%84%969-2026/",
+    "source": "Электронные компоненты",
+    "pubDate": "Sat, 12 Sep 2026 06:32:11 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "[Перевод] Реверс‑инжиниринг электросамоката и новая прошивка для него на Rust",
+    "summary": "Я выполнил реверс‑инжиниринг оборудования и прошивки своего электросамоката Egret GT. В статье будет рассказано о том, как мне удалось забраться внутрь, проанализировать обмен данн...",
+    "link": "https://habr.com/ru/articles/1080824/?utm_campaign=1080824&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 11 Sep 2026 13:19:10 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "ConductRF Expands True VNA Test Cable Offering with TUFF-FLEX VNA™ Ruggedized Test Cables Through 40 GHz",
+    "summary": "ConductRF has expanded the availability of its TUFF-FLEX VNA™ Test Cable family, a ruggedized line of precision RF test cable assemblies engineered for Vector Network Analyzer (VNA...",
+    "link": "https://www.microwavejournal.com/articles/46159-conductrf-expands-true-vna-test-cable-offering-with-tuffflex-vna-ruggedized-test-cables-through-40-ghz",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 11 Sep 2026 07:58:11 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "ARM в сервере: будущее инфраструктуры или очередной провал",
+    "summary": "В первом квартале 2026 года 17,7% проданных серверных процессоров были на ARM. AWS уже выпускает пятое поколение Graviton, Google предлагает Axion не только в виртуалках, но и на b...",
+    "link": "https://habr.com/ru/companies/ruvds/articles/1080060/?utm_campaign=1080060&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 11 Sep 2026 09:01:50 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "NapiSci — учебная плата, на которой собран дипломный проект станции мониторинга микроклимата для глубокого сна",
+    "summary": "Станция мониторинга микроклимата спальни из этой статьи — часть дипломной работы. Собрана она на плате NapiSci, учебном конструкторе для процессорного модуля NAPI-C (Rockchip RK330...",
+    "link": "https://habr.com/ru/companies/meta-catalog/articles/1080856/?utm_campaign=1080856&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 11 Sep 2026 07:22:02 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Sub-Terahertz, High Gain Cassegrain Antenna",
+    "summary": "...",
+    "link": "https://www.microwavejournal.com/articles/46102-sub-terahertz-high-gain-cassegrain-antenna",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 11 Sep 2026 00:00:46 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "New Products",
+    "summary": "...",
+    "link": "https://www.microwavejournal.com/articles/46123-new-products",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 11 Sep 2026 00:00:41 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "ERZIA Ships 150+ Ka-Band GaN Power Amplifiers for New Space",
+    "summary": "...",
+    "link": "https://www.microwavejournal.com/articles/46099-erzia-ships-150-ka-band-gan-power-amplifiers-for-new-space",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 11 Sep 2026 00:00:37 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Making Waves",
+    "summary": "...",
+    "link": "https://www.microwavejournal.com/articles/46105-making-waves",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 11 Sep 2026 00:00:24 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Индийский локомотив экономического роста: Tata Motors",
+    "summary": "Индия — крайне интересная страна с точки зрения своего экономического развития. Бывшая британская колония в чем-то может быть примером для многих государств. Причем, как положитель...",
+    "link": "https://habr.com/ru/companies/onlinepatent/articles/1080648/?utm_campaign=1080648&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Thu, 10 Sep 2026 07:18:14 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Чужой сенсор на чужом SoC: что не работает, когда «общий API» общий не до конца",
+    "summary": "Подключаем модуль камеры Raspberry Pi (Sony IMX708) к камерному SoC Rockchip RV1106. Делаем это в рамках разработки носимой камеры в ITSupportMe. Готового драйвера для IMX708 нет н...",
+    "link": "https://habr.com/ru/articles/1080626/?utm_campaign=1080626&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Thu, 10 Sep 2026 06:20:55 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Кто будет работать завтра в электронной промышленности?",
+    "summary": "Кто будет работать завтра в электронной промышленности? В деловой программе Российского форума «Микроэлектроника 2026» НИУ МИЭТ организует круглый стол «Кадровое обеспечение электр...",
+    "link": "https://elcomdesign.ru/uncategorized/kto-budet-rabotat-zavtra-v-elektronnoj-promyshlennosti/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 09 Sep 2026 14:20:45 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "АРПЭ представляет отчет исследования российского рынка контрактного производства: итоги 2025, тенденции 2026 года.",
+    "summary": "АРПЭ представляет отчет исследования российского рынка контрактного производства: итоги 2025, тенденции 2026 года. В 2025 году общий объем российского рынка услуг контрактного прои...",
+    "link": "https://elcomdesign.ru/uncategorized/arpe-predstavlyaet-otchet-issledovaniya-rossijskogo-rynka-kontraktnogo-proizvodstva-itogi-2025-tendenczii-2026-goda/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 09 Sep 2026 13:19:53 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Российский рынок электронных компонентов продолжает сокращаться",
+    "summary": "Российский рынок электронных компонентов продолжает сокращаться По результатам исследования АРПЭ российский рынок электронных компонентов сократился в 2025 году на 22% в рублевом и...",
+    "link": "https://elcomdesign.ru/uncategorized/rossijskij-rynok-elektronnyh-komponentov-prodolzhaet-sokrashhatsya/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 09 Sep 2026 13:15:42 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Фонд перспективных исследований проведёт два круглых стола на форуме «Микроэлектроника 2026»",
+    "summary": "Фонд перспективных исследований проведёт два круглых стола на форуме «Микроэлектроника 2026» Фонд перспективных исследований (ФПИ) организует два круглых стола в рамках деловой про...",
+    "link": "https://elcomdesign.ru/uncategorized/49123/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 09 Sep 2026 10:46:24 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "В Нью-Дели открылась первая Международная промышленная выставка «ИННОПРОМ. Индия»",
+    "summary": "В Нью-Дели открылась первая Международная промышленная выставка «ИННОПРОМ. Индия» 9 сентября в выставочном комплексе Bharat Mandapam в Нью-Дели начала работу первая Международная п...",
+    "link": "https://elcomdesign.ru/uncategorized/v-nyu-deli-otkrylas-pervaya-mezhdunarodnaya-promyshlennaya-vystavka-innoprom-indiya/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 09 Sep 2026 10:42:22 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Модульные радиационно-стойкие гибридно-пленочные DC/DC-преобразователи мощностью до 600 Вт",
+    "summary": "Модульные радиационно-стойкие гибридно-пленочные DC/DC-преобразователи мощностью до 600 Вт   Виктор Жданкин, инженер, viktor@prochip.ru Статья опубликована в журнале «Электронные К...",
+    "link": "https://elcomdesign.ru/uncategorized/modulnye-radiaczionno-stojkie-gibridno-plenochnye-dc-dc-preobrazovateli-moshhnostyu-do-600-vt/",
+    "source": "Электронные компоненты",
+    "pubDate": "Sun, 06 Sep 2026 16:50:56 +0000",
     "lang": "ru"
   },
   {
@@ -13,174 +181,6 @@
     "link": "https://elcomdesign.ru/uncategorized/starline-integriroval-upravlenie-avtomobilem-s-umnym-domom-yandeksa/",
     "source": "Электронные компоненты",
     "pubDate": "Sat, 05 Sep 2026 08:46:23 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Стоит ли нам ждать прорыва в технологиях",
-    "summary": "Посмотрите на вещи, которые мы привыкли воспринимать как неотъемлемую часть повседневной жизни: компьютер, интернет, самолет, антибиотики, атомная энергетика, космические аппараты...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1078408/?utm_campaign=1078408&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Sat, 05 Sep 2026 08:01:09 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Тензорные ядра больше не спасают: почему ИИ-ускорители упрутся в память",
-    "summary": "Производители ИИ-ускорителей продолжают увеличивать количество тензорных ядер и осваивать всё более короткие форматы данных, включая FP8 и FP4. Производительность вроде как растёт,...",
-    "link": "https://habr.com/ru/companies/ru_mts/articles/1078518/?utm_campaign=1078518&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 05 Sep 2026 07:01:04 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Frequency Matters: What’s Driving Automotive & Connected Vehicles",
-    "summary": "...",
-    "link": "https://www.microwavejournal.com/articles/46138-frequency-matters-whats-driving-automotive-and-connected-vehicles",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 04 Sep 2026 10:00:00 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "iPhone, два светильника и OBS: как устроена моя домашняя YouTube-студия",
-    "summary": "У меня есть YouTube-канал с примерно полумиллионом подписчиков (адрес не указываю: не чтобы набрать аудиторию пишу). Видео выкладываю почти каждый день, работы много. И у меня слож...",
-    "link": "https://habr.com/ru/companies/ru_mts/articles/1078490/?utm_campaign=1078490&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 04 Sep 2026 12:59:56 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Кэши, режимы нагрузки и ловушка среднего, или Почему storage-бенчмарки врут",
-    "summary": "Представьте, разработчики добавили прозрачное шифрование в файловую систему, собрали ядро и прогнали Fio — пропускная способность не изменилась. Однако после раскатки на продакшен...",
-    "link": "https://habr.com/ru/companies/garda/articles/1077526/?utm_campaign=1077526&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 04 Sep 2026 09:43:46 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Обеспечим микро- и наноэлектронику отечественными материалами",
-    "summary": "Обеспечим микро- и наноэлектронику отечественными материалами На секции №13 научной конференции Форума обсудят поиск новых перспективных материалов с уникальными физическими свойст...",
-    "link": "https://elcomdesign.ru/uncategorized/obespechim-mikro-i-nanoelektroniku-otechestvennymi-materialami/",
-    "source": "Электронные компоненты",
-    "pubDate": "Fri, 04 Sep 2026 09:36:03 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "«ИННОПРОМ. Индия» представит передовые российские технологии и новые направления промышленного сотрудничества в Нью-Дели",
-    "summary": "«ИННОПРОМ. Индия» представит передовые российские технологии и новые направления промышленного сотрудничества в Нью-Дели Осталась ровно неделя до открытия премьерной Международной...",
-    "link": "https://elcomdesign.ru/uncategorized/innoprom-indiya-predstavit-peredovye-rossijskie-tehnologii-i-novye-napravleniya-promyshlennogo-sotrudnichestva-v-nyu-deli/",
-    "source": "Электронные компоненты",
-    "pubDate": "Fri, 04 Sep 2026 09:17:27 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Лазерная зажигалка на 20 ватт из восьми деталей",
-    "summary": "Пару недель назад я рассказывал, как за вечер собрать синий лазер на 70 ватт: матрица от проектора, буст‑конвертер, восемь банок 18650, процессорный кулер, два десятка деталей и ве...",
-    "link": "https://habr.com/ru/articles/1078348/?utm_campaign=1078348&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 04 Sep 2026 07:31:18 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Драгоценная энергия: алмаз как пьезоэлектрик",
-    "summary": "Задавать вопросы и искать на них ответы — это квинтэссенция науки. Однако в попытках понять что и как работает порой можно прийти к неверным выводам. Как правило, это связано с нед...",
-    "link": "https://habr.com/ru/companies/ua-hosting/articles/1078014/?utm_campaign=1078014&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 04 Sep 2026 07:15:12 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Modelithics Releases Qorvo GaN Library v26.5.11 with New 200 W GaN Model",
-    "summary": "Modelithics® is pleased to announce the release of the Modelithics Qorvo® GaN Library v26.5.11. For more than 12 years, the Modelithics Qorvo GaN Library has provided RF and microw...",
-    "link": "https://www.microwavejournal.com/articles/46137-modelithics-releases-qorvo-gan-library-v26511-with-new-200-w-gan-model",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 03 Sep 2026 14:04:18 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "ADRF Introduces PowerSmartTM Control for ADXV Series DAS with Up to 60% Reduction in Power Consumption",
-    "summary": "Advanced RF Technologies, Inc. (ADRF), the largest provider of pure-play distributed antenna system (DAS) and repeaters for over a quarter century, announced PowerSmartTM Control,...",
-    "link": "https://www.microwavejournal.com/articles/46136-adrf-introduces-powersmarttm-control-for-adxv-series-das-with-up-to-60-reduction-in-power-consumption",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 03 Sep 2026 13:35:36 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "TMYTEK Launches 6G FR3 Platform to Bridge Simulation and Real-World OTA Validation ",
-    "summary": "TMY Technology Inc. (TMYTEK), a provider of mmWave and advanced wireless solutions, announced the launch of its 6G FR3 Platform, a modular research platform designed to help wirele...",
-    "link": "https://www.microwavejournal.com/articles/46135-tmytek-launches-6g-fr3-platform-to-bridge-simulation-and-real-world-ota-validation",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 03 Sep 2026 10:43:56 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Richardson RFPD Announces Availability of Spectrum Control High-Power SAW Filters for \nMission-Critical RF Applications",
-    "summary": "Richardson RFPD, Inc., an Arrow Electronics company, announces the availability of Spectrum Control's High-Power SAW Filter portfolio, designed to address the demanding requirement...",
-    "link": "https://www.microwavejournal.com/articles/46134-richardson-rfpd-announces-availability-of-spectrum-control-high-power-saw-filters-for-mission-critical-rf-applications",
-    "source": "Microwave Journal",
-    "pubDate": "Wed, 02 Sep 2026 13:19:35 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "FR-4: материал, который у всех на слуху, но мало кто в него всматривался",
-    "summary": "Когда речь заходит о печатных платах, FR-4 упоминают чуть ли не в каждом втором разговоре. Это стандарт, основа, база, с которой начинается почти любая электроника. Но за привычным...",
-    "link": "https://habr.com/ru/companies/electroconnect/articles/1077002/?utm_campaign=1077002&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Tue, 01 Sep 2026 04:25:50 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Журнал «Электронные компоненты» на Форуме Микроэлектроника и выставке RADEL",
-    "summary": "Журнал «Электронные компоненты» на Форуме Микроэлектроника и выставке RADEL   Приглашаем  разместить технические материалы и информацию по компетенциям и продуктам  в журнале «Элек...",
-    "link": "https://elcomdesign.ru/uncategorized/zhurnal-elektronnye-komponenty-na-forume-mikroelektronika-i-vystavke-radel/",
-    "source": "Электронные компоненты",
-    "pubDate": "Tue, 25 Aug 2026 15:54:41 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Приглашаем Вас разместить рекламу/статью/интервью или репортаж с производства в журнале «СВЧ электроника» №03/2026.",
-    "summary": "Приглашаем Вас разместить рекламу/статью/интервью или репортаж с производства в журнале «СВЧ электроника» №03/2026.   Журнал выйдет в сентябре и будет распространяться на выставке...",
-    "link": "https://elcomdesign.ru/uncategorized/priglashaem-vas-razmestit-reklamu-statyu-intervyu-ili-reportazh-s-proizvodstva-v-zhurnale-svch-elektronika-%e2%84%9603-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 24 Aug 2026 10:26:54 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Открыта регистрация на премьерную международную промышленную выставку «ИННОПРОМ. Индия»",
-    "summary": "Открыта регистрация на премьерную международную промышленную выставку «ИННОПРОМ. Индия» Открыта регистрация на 1-ю Международную промышленную выставку «ИННОПРОМ. Индия», которая пр...",
-    "link": "https://elcomdesign.ru/uncategorized/otkryta-registracziya-na-premernuyu-mezhdunarodnuyu-promyshlennuyu-vystavku-innoprom-indiya/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 17 Aug 2026 13:03:25 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Без названия",
-    "summary": "Открыта регистрация посетителей на 5-ю Международную выставку-форум «Электроника России», которая пройдет с 24 по 26 ноября 2026 года в МВЦ «Крокус Экспо» (Москва) Выставка-форум п...",
-    "link": "https://elcomdesign.ru/uncategorized/49062/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 17 Aug 2026 12:48:08 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Системы технического зрения – практические задачи",
-    "summary": "Системы технического зрения – практические задачи На секции № 12.2 «Технологии оптоэлектроники и фотоники. Интегральная фотоника, волоконные и лазерные технологии» научной конферен...",
-    "link": "https://elcomdesign.ru/uncategorized/sistemy-tehnicheskogo-zreniya-prakticheskie-zadachi/",
-    "source": "Электронные компоненты",
-    "pubDate": "Sun, 16 Aug 2026 11:03:46 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Открыта регистрация на «ИННОПРОМ. Беларусь»",
-    "summary": "Открыта регистрация на «ИННОПРОМ. Беларусь» 2-ая Международная промышленная выставка «ИННОПРОМ. Беларусь» пройдет с 30 сентября по 2 октября в Минске. Регистрация на мероприятие от...",
-    "link": "https://elcomdesign.ru/uncategorized/49083/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 13 Aug 2026 14:35:40 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Защищено: Открывая новые горизонты. Ручная зондовая станция OmegaAir-150mmW от АО «НИИПП»",
-    "summary": "Отрывка нет, потому что запись защищена.\nСообщение Защищено: Открывая новые горизонты. Ручная зондовая станция OmegaAir-150mmW от АО «НИИПП» появились сначала на Журнал Электронные...",
-    "link": "https://elcomdesign.ru/uncategorized/otkryvaya-novye-gorizonty-ruchnaya-zondovaya-stancziya-omegaair-150mmw-ot-ao-niipp/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 13 Aug 2026 09:16:52 +0000",
     "lang": "ru"
   }
 ]
