@@ -1,186 +1,210 @@
 [
   {
-    "title": "Офис у станка: почему ИИ на производстве стоит начинать не с роботов",
-    "summary": "Когда говорят об ИИ на производстве, обычно представляют роботов, камеры контроля качества и цифровые двойники. Однако у небольших и средних предприятий значительная часть времени...",
-    "link": "https://kit-e.ru/ofis-u-stanka/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Sat, 03 Oct 2026 14:18:36 +0000",
+    "title": "Композитные силовые дроссели",
+    "summary": "Композитные силовые дроссели   Евгений Каретников Статья размещена в журнале «Электронные Компоненты» № 7-2026г.   В статье рассматриваются особенности силовых дросселей с композит...",
+    "link": "https://elcomdesign.ru/uncategorized/kompozitnye-silovye-drosseli/",
+    "source": "Электронные компоненты",
+    "pubDate": "Sat, 10 Oct 2026 14:31:13 +0000",
     "lang": "ru"
   },
   {
-    "title": "Инженерная тайна AMD из нулевых: что общего между Xbox 360, HTC HD2, Sony Ericsson Xperia Play и LG Optimus L2",
-    "summary": "Порой, когда погружаешься в исходный код драйверов и даташиты на железо, удивляешься тому, какие интересные инженерные решения использовались в устройствах прошлых лет. И пожалуй с...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1089784/?utm_campaign=1089784&utm_source=habrahabr&utm_medium=rss",
+    "title": "Самый экзотический x86-процессор: изучаем и тестируем Vortex86 [История, схемотехника, тесты, бенчмарки]",
+    "summary": "Осторожно: это большая и развернутая статья о редком процессоре. Если вам интересен полный разбор характеристик, схемотехники референсной платы, бенчмарки — статья обязательна к пр...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1092190/?utm_campaign=1092190&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 03 Oct 2026 14:05:42 GMT",
+    "pubDate": "Sat, 10 Oct 2026 14:05:06 GMT",
     "lang": "ru"
   },
   {
-    "title": "Инженерная тайна AMD из нулевых: что общего между Xbox 360, HTC HD2, Sony Ericsson Xperia Play и LG Optimus L2",
-    "summary": "Порой, когда погружаешься в исходный код драйверов и даташиты на железо, удивляешься тому, какие интересные инженерные решения использовались в устройствах прошлых лет. И пожалуй с...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1089784/?utm_campaign=1089784&utm_source=habrahabr&utm_medium=rss",
+    "title": "Самый экзотический x86-процессор: изучаем и тестируем Vortex86 [История, схемотехника, тесты, бенчмарки]",
+    "summary": "Осторожно: это большая и развернутая статья о редком процессоре. Если вам интересен полный разбор характеристик, схемотехники референсной платы, бенчмарки — статья обязательна к пр...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1092190/?utm_campaign=1092190&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 03 Oct 2026 14:05:42 GMT",
+    "pubDate": "Sat, 10 Oct 2026 14:05:06 GMT",
     "lang": "ru"
   },
   {
-    "title": "Большинство корпоративных ИТ-систем впервые размещается за пределами собственных дата-центров",
-    "summary": "Электричества в офисной серверной больше не хватает, а купленный под ИИ сервер устаревает раньше, чем окупается. Всем привет! На связи Андрей, руководитель отдела продуктов клиентс...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1088482/?utm_campaign=1088482&utm_source=habrahabr&utm_medium=rss",
+    "title": "Серверное железо 2027: какие новинки мы ждем",
+    "summary": "2027 год обещает стать значимым для серверной индустрии. Появятся новые GPU, процессоры, открытые интерконнекты, новая архитектура памяти и другие инновации. Однако все это — всего...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1092382/?utm_campaign=1092382&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 03 Oct 2026 08:01:47 GMT",
+    "pubDate": "Sat, 10 Oct 2026 08:01:23 GMT",
     "lang": "ru"
   },
   {
-    "title": "Drop-in & Surface Mount Bi-Directional Coupler",
-    "summary": "MIcable just released the new drop-in & surface mount bi-directional couplers. The coupling covers 5-45dB, frequency covers 0.2-6.2GHz....",
-    "link": "https://www.microwavejournal.com/articles/46253-drop-in-and-surface-mount-bi-directional-coupler",
+    "title": "Осциллографы PicoScope 5000E Series с 16-битным разрешением от Pico Technology",
+    "summary": "Pico Technology представила серию осциллографов PicoScope 5000E с 16-битным разрешением. Устройства подходят для измерения чувствительных сигналов и отладки смешанных систем. Модел...",
+    "link": "https://kit-e.ru/pico-technology-picoscope-5000e/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Sat, 10 Oct 2026 03:53:13 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Компактный усилитель мощности CMX90A002 для радиоустройств ISM-диапазона от CML Micro",
+    "summary": "CML Microsystems выпустила усилитель мощности CMX90A002 для беспроводных продуктов в индустриальном, научном и медицинском диапазоне (ISM-диапазон). Устройство отличается компактно...",
+    "link": "https://kit-e.ru/cmx90a002/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Sat, 10 Oct 2026 03:53:10 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Контроллеры касания MTCH3380P и MTCH3240P с параллельным сенсингом от Microchip",
+    "summary": "Microchip выпустила два новых контроллера касания с параллельным сенсингом — MTCH3380P и MTCH3240P. Изделия обеспечивают высокую чувствительность и помехоустойчивость, подходят для...",
+    "link": "https://kit-e.ru/microchip-mtch3380p-mtch3240p-touch-controllers/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Sat, 10 Oct 2026 03:53:05 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Микроминиатюрные круглые разъемы WaSP от Amphenol Aerospace Operations для суровых условий эксплуатации",
+    "summary": "Amphenol Aerospace Operations выпустила серию микроминиатюрных разъемов WaSP для применения в суровых условиях. Разъёмы отличаются компактностью, легкостью и доступной стоимостью,...",
+    "link": "https://kit-e.ru/amphenol-wasp-connectors/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Sat, 10 Oct 2026 03:53:02 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "pSemi Announces Two UltraCMOS+™ Front-End Modules for 2.4 GHz IoT Connectivity",
+    "summary": "pSemi® Corporation announced the PE566212 and PE566213, two fully monolithic 2.4 GHz silicon-on-insulator (SOI) front-end modules (FEMs) for Bluetooth®, Zigbee® and Thread IoT appl...",
+    "link": "https://www.microwavejournal.com/articles/46275-psemi-announces-two-ultracmos-front-end-modules-for-24-ghz-iot-connectivity",
     "source": "Microwave Journal",
-    "pubDate": "Fri, 02 Oct 2026 14:53:32 -0400",
+    "pubDate": "Fri, 09 Oct 2026 15:45:23 -0400",
     "lang": "en"
   },
   {
-    "title": "Qorvo® Advances C-Band Radar Front Ends with BAW-Based Frequency Agility and GaN Power",
-    "summary": "Qorvo® (Nasdaq: QRVO) announced a C-band radar solution that adds receiver frequency agility and reduces DC power and heat in the transmit chain....",
-    "link": "https://www.microwavejournal.com/articles/46252-qorvo-advances-c-band-radar-front-ends-with-baw-based-frequency-agility-and-gan-power",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 02 Oct 2026 11:51:55 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Transform Your RF Designs with Agentic AI",
-    "summary": "Artificial intelligence is reshaping RF and microwave design, moving beyond individual task automation toward intelligent systems that can coordinate workflows, optimize simulation...",
-    "link": "https://www.microwavejournal.com/articles/46250-transform-your-rf-designs-with-agentic-ai",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 02 Oct 2026 11:42:00 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "LLM работает не на одной видеокарте: анатомия AI-инфраструктуры 2026",
-    "summary": "Почему 70B-модель может поместиться в память и всё равно тормозить под нагрузкой? Разбираем AI-инфраструктуру 2026 года по слоям: HBM и KV-кеш, prefill и decode, NVLink и InfiniBan...",
-    "link": "https://habr.com/ru/articles/1089766/?utm_campaign=1089766&utm_source=habrahabr&utm_medium=rss",
+    "title": "Нафиг NVIDIA! Я запустил Qwen на FPGA за $50 — а свой TPU назвал бы «КЕДР». Часть 1",
+    "summary": "Я хотел разработать собственный AI-процессор, нашёл openTPU, купил FPGA за $50 с 4ГБ памяти, подключил её к обычному мини-ПК и запустил на ней языковую модель.\n Читать далее...",
+    "link": "https://habr.com/ru/articles/1092504/?utm_campaign=1092504&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 02 Oct 2026 15:10:08 GMT",
+    "pubDate": "Fri, 09 Oct 2026 15:30:20 GMT",
     "lang": "ru"
   },
   {
-    "title": "Сколько инструментов показывать языковой модели: гипотеза, которую перечеркнул замер",
-    "summary": "У нашего ИИ-оркестратора более девяноста инструментов: работа с таблицами, документами, почтой, задачами, веб-страницами, презентациями и т.д.\nПри обработке запросов модель на кажд...",
-    "link": "https://habr.com/ru/articles/1089742/?utm_campaign=1089742&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 02 Oct 2026 14:45:56 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "CML Micro Introduces CMX90A002, a Compact, Flexible Amplifier for Next-Generation ISM-Band Designs",
-    "summary": "CML Micro, a world leader in the design, development and supply of mixed-signal, RF and microwave semiconductors for global communications markets, announced the launch of CMX90A00...",
-    "link": "https://www.microwavejournal.com/articles/46251-cml-micro-introduces-cmx90a002-a-compact-flexible-amplifier-for-next-generation-ism-band-designs",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 02 Oct 2026 10:39:19 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Qorvo® Sets Benchmark with New X-Band RF Front-end Solution Tailored for Radar Systems ",
-    "summary": "Qorvo® (Nasdaq: QRVO) announced an X-band front-end solution that combines high transmit output with low noise, high linearity receive performance for active electronically scanned...",
-    "link": "https://www.microwavejournal.com/articles/46249-qorvo-sets-benchmark-with-new-x-band-rf-front-end-solution-tailored-for-radar-systems",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 02 Oct 2026 10:11:01 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Первые отечественные электронные лифты. УЛЖМ МЯУ",
-    "summary": "Приветствую всех!\nВ начале года я уже как‑то рассказывал про такую станцию управления лифтом как УЛЖ-10. Тогда я рассказал исключительно про работу самих плат‑ячеек, а очень многое...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1082964/?utm_campaign=1082964&utm_source=habrahabr&utm_medium=rss",
+    "title": "Особенности разработки встраиваемого программного обеспечения. Часть 2",
+    "summary": "В предыдущей части статьи я рассказал об особенностях реализации многозадачности для ВПО. Однако, какой бы ни был выбран подход к многозадачности, архитектура самих задач напрямую...",
+    "link": "https://habr.com/ru/articles/1092518/?utm_campaign=1092518&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 02 Oct 2026 08:05:07 GMT",
+    "pubDate": "Fri, 09 Oct 2026 14:01:36 GMT",
     "lang": "ru"
   },
   {
-    "title": "Платформа SiC MOSFET на 1200 В от L&T Semiconductor Technologies для быстрых зарядных устройств электромобилей",
-    "summary": "L&T Semiconductor Technologies представила платформу SiC MOSFET на 1200 В для быстрых зарядных устройств электромобилей и других применений. Новинка позволит уменьшить размеры магн...",
-    "link": "https://kit-e.ru/l-t-semiconductor-sic-mosfet-1200v/",
+    "title": "Полтора месяца ускорял MoE на GTX 1660 SUPER: выиграл штатный флаг llama.cpp",
+    "summary": "Я тепломеханик, начальник отдела в проектной организации, не программист. С августа ковыряю форк llama.cpp: хочу, чтобы большие MoE‑модели нормально шли на обычном домашнем ящике,...",
+    "link": "https://habr.com/ru/articles/1092436/?utm_campaign=1092436&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 09 Oct 2026 11:30:08 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Шесть граней под ключ: как геометрия алюминиевого прутка определяет будущую деталь",
+    "summary": "Шестигранный пруток кажется заготовкой без секретов: металлический стержень, шесть одинаковых граней, стандартная длина. Но именно форма сечения решает, сколько операций понадобитс...",
+    "link": "https://kit-e.ru/shestigrannyj-prutok/",
     "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 02 Oct 2026 06:59:28 +0000",
+    "pubDate": "Fri, 09 Oct 2026 09:52:03 +0000",
     "lang": "ru"
   },
   {
-    "title": "Скоростная разработка электроники 2",
-    "summary": "На этот раз делаем сенсор присутствия для опасных промышленных зон. В нагрузку берёмся за реализацию требований функциональной безопасности PL и SIL. Кто сказал, что AI не может де...",
-    "link": "https://habr.com/ru/articles/1089378/?utm_campaign=1089378&utm_source=habrahabr&utm_medium=rss",
+    "title": "От RISC‑V до pull request в open source: что сделали участники летней школы СПбГУ за месяц",
+    "summary": "В начале августа завершилась Летняя проектная школа программирования СПбГУ. 30 студентов, в том числе обучающиеся на образовательных программах ТОП ИТ СПбГУ, якорным партнером кото...",
+    "link": "https://habr.com/ru/companies/riscvalliance/articles/1092228/?utm_campaign=1092228&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 02 Oct 2026 06:28:46 GMT",
+    "pubDate": "Fri, 09 Oct 2026 08:38:50 GMT",
     "lang": "ru"
   },
   {
-    "title": "Особенности разработки встраиваемого программного обеспечения. Часть 1",
-    "summary": "В этой статье пойдет речь о немаловажных особенностях разработки встраиваемого программного обеспечения (далее ВПО) для микроконтроллеров (далее МК) с низким уровнем абстракции апп...",
-    "link": "https://habr.com/ru/articles/1089224/?utm_campaign=1089224&utm_source=habrahabr&utm_medium=rss",
+    "title": "Логический анализатор Sipeed SLogic32U3 с поддержкой USB 3.2 и скоростью до 10 Гбит/с",
+    "summary": "Компания Sipeed представила логический анализатор SLogic32U3 с пропускной способностью до 10 Гбит/с. Устройство поддерживает до 32 каналов, имеет полосу пропускания 350 МГц и совме...",
+    "link": "https://kit-e.ru/slogic32u3/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 09 Oct 2026 03:43:19 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "AC/DC-источники питания RECOM RACM3000-M мощностью до 3000 Вт для медицинских и промышленных систем",
+    "summary": "RECOM представила серию высокомощных AC/DC-источников питания RACM3000-M с выходной мощностью до 3000 Вт. Устройства подходят для медицинских, промышленных и энергетических систем...",
+    "link": "https://kit-e.ru/racm3000-m/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 09 Oct 2026 03:25:39 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Микроконтроллеры TXZ+ Family Entry-Class M4H от Toshiba: начало массового производства",
+    "summary": "Toshiba начала массовое производство микроконтроллеров TXZ+ Family Entry-Class M4H с ядром Arm Cortex-M4. Устройства ориентированы на бытовую технику и промышленное оборудование, п...",
+    "link": "https://kit-e.ru/toshiba-txz-m4h-microcontrollers/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 09 Oct 2026 03:25:36 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Taoglas to Showcase Latest RF, GNSS and Antenna Innovations at electronica 2026",
+    "summary": "Taoglas® will exhibit at electronica 2026 in Munich, Germany, from 10 to 13 November. Visitors to Hall C2, Booth 516 will have the opportunity to explore the company's latest innov...",
+    "link": "https://www.microwavejournal.com/articles/46274-taoglas-to-showcase-latest-rf-gnss-and-antenna-innovations-at-electronica-2026",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 08 Oct 2026 14:36:56 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Morse Micro Expands Wi-Fi HaLow Design Partner Program to India with Zilogic Systems",
+    "summary": "Morse Micro, the global technology leader in Wi-Fi HaLow, announced that Zilogic Systems has joined its Design Partner Program. The announcement marks the program's first partner b...",
+    "link": "https://www.microwavejournal.com/articles/46273-morse-micro-expands-wi-fi-halow-design-partner-program-to-india-with-zilogic-systems",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 08 Oct 2026 14:10:45 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Keysight Introduces Velocity 4900 Series to Accelerate Test Lab Modernization for AI and 6G",
+    "summary": "Keysight Technologies, Inc. (NYSE: KEYS) announced the Keysight Velocity 4900 Series, a new line of cost-effective Layer 1 automation switches designed to transform and automate ph...",
+    "link": "https://www.microwavejournal.com/articles/46272-keysight-introduces-velocity-4900-series-to-accelerate-test-lab-modernization-for-ai-and-6g",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 08 Oct 2026 13:45:04 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "GlobalFoundries Reaches Agreement to Establish US-based Supply of Silicon Interposers for Advanced AI Packaging",
+    "summary": "GlobalFoundries (Nasdaq: GFS) (GF) announced a manufacturing agreement with TSMC to establish a U.S.-based supply of silicon interposers for TSMC's CoWoS® advanced packaging ecosys...",
+    "link": "https://www.microwavejournal.com/articles/46271-globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 08 Oct 2026 11:16:42 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Инженер меняет прописку: почему специалисты по электронике присматриваются к Курчатову",
+    "summary": "Считается, что квалифицированному инженеру-электронщику место в мегаполисе: там проектные бюро, интеграторы и высокие зарплаты. Но в энергетике рынок труда устроен иначе. Самые сло...",
+    "link": "https://kit-e.ru/kurchatov/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 08 Oct 2026 09:18:54 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "На пути борьбы с шумом домашнего ЧПУ: тесты обработки печатной платы под слоем жидкого мыла и не только",
+    "summary": "В прошлой статье я выдвинул интересную идею, которую никогда до этого не встречал в интернете — гашение вибраций и гашение звука на домашних компактных фрезерных станках, например,...",
+    "link": "https://habr.com/ru/companies/ruvds/articles/1090254/?utm_campaign=1090254&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Thu, 01 Oct 2026 14:25:55 GMT",
+    "pubDate": "Thu, 08 Oct 2026 09:01:32 GMT",
     "lang": "ru"
   },
   {
-    "title": "Генераторы RF-сигналов SSG3000X Plus Series от SIGLENT: новое поколение entry-level приборов",
-    "summary": "SIGLENT представила серию генераторов радиочастотных сигналов (RF, Radio Frequency) SSG3000X Plus — преемника популярной SSG3000X. Приборы предлагают расширенные возможности генера...",
-    "link": "https://kit-e.ru/siglent-ssg3000x-plus-rf-generator/",
+    "title": "Аспектное соотношение 15:1: как глубина переходного отверстия ограничивает трассировку многослойной платы",
+    "summary": "При проектировании многослойной платы конструктор обычно следит за шириной проводников, зазорами и импедансом, а диаметр переходных отверстий выбирает по остаточному принципу. Одна...",
+    "link": "https://kit-e.ru/aspektnoe-sootnoshenie/",
     "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 01 Oct 2026 03:58:22 +0000",
+    "pubDate": "Thu, 08 Oct 2026 08:31:02 +0000",
     "lang": "ru"
   },
   {
-    "title": "Конфигурируемая смешанно-сигнальная ИС Renesas GreenPAK SLG46801 в сверхкомпактном корпусе",
-    "summary": "Renesas выпустила сверхкомпактную конфигурируемую смешанно-сигнальную ИС GreenPAK SLG46801 размером 1,155 × 1,155 мм, подходящую для умных колец и часов. Устройство объединяет анал...",
-    "link": "https://kit-e.ru/renesas-greenpak-slg46801/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 01 Oct 2026 03:58:19 +0000",
+    "title": "Приглашаем принять участие в конференции  “Испытание и тестирование изделий электронной техники”, которая состоится 22 октября 2026 года в Москве",
+    "summary": "Приглашаем принять участие в конференции  “Испытание и тестирование изделий электронной техники”, которая состоится 22 октября 2026 года в Москве   22 октября 2026 года, Москва, ко...",
+    "link": "https://elcomdesign.ru/uncategorized/priglashaem-prinyat-uchastie-v-konferenczii-ispytanie-i-testirovanie-izdelij-elektronnoj-tehniki-kotoraya-sostoitsya-22-oktyabrya-2026-goda-v-moskve/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 05 Oct 2026 14:33:14 +0000",
     "lang": "ru"
   },
   {
-    "title": "64-битный процессор RISC-V Sapphire RV64 от Efinix с поддержкой Linux и DDR",
-    "summary": "Efinix представила 64-битный процессор RISC-V Sapphire RV64 с поддержкой Linux и DDR. Система на кристалле (SoC) предназначена для приложений на базе ПЛИС (FPGA), требующих высокой...",
-    "link": "https://kit-e.ru/sapphire-rv64/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 01 Oct 2026 03:58:18 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Материнская плата ГКС-МП-777 от «Гигант — Комплексные системы» получила поддержку 256 Гбайт DDR5",
-    "summary": "Компания «Гигант — Комплексные системы» обновила встроенное ПО для материнской платы ГКС-МП-777, добавив поддержку 256 Гбайт оперативной памяти DDR5. Это максимально доступный объе...",
-    "link": "https://kit-e.ru/gks-mp-777/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 30 Sep 2026 06:25:49 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Соединители Samtec стандарта oHFM.c",
-    "summary": "Samtec представила новый портфель соединителей для стандарта SGeT oHFM.c. Продукты основаны на линейках AcceleRate® HD и AcceleRate® HP.\nThe post Соединители Samtec стандарта oHFM....",
-    "link": "https://kit-e.ru/ohfm-c/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 30 Sep 2026 03:54:44 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Аналоги серии HMC от Analog Device",
-    "summary": "Сложности с поставками высокочастотных компонентов Analog Devices, особенно популярной серии HMC, заставляют многих разработчиков и производителей радиоэлектроники искать надёжную...",
-    "link": "https://kit-e.ru/hmc/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 30 Sep 2026 03:42:23 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Двухканальный аналоговый генератор сигналов PSG XG7-класса от Keysight для расширенных испытаний устройств",
-    "summary": "Keysight представила новый двухканальный аналоговый генератор сигналов PSG XG7-класса. Устройство сочетает два независимых канала в шасси высотой 2 юнита и отличается низким уровне...",
-    "link": "https://kit-e.ru/psg/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 30 Sep 2026 03:34:11 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Многослойные керамические конденсаторы (MLCC) серии LLD с низким эквивалентным последовательным индуктивным сопротивлением (ESL) от Murata: начало массового производства",
-    "summary": "Murata запустила массовое производство трёхконтактных MLCC с низким ESL. Конденсаторы серии LLD сокращают занимаемую на PCB площадь на 64% и улучшают стабильность питания IC.\nThe p...",
-    "link": "https://kit-e.ru/lld/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 30 Sep 2026 03:21:39 +0000",
+    "title": "Ростех представил новое поколение матриц расширенного диапазона для «всевидящих» SWIR-камер",
+    "summary": "Ростех представил новое поколение матриц расширенного диапазона для «всевидящих» SWIR-камер На форуме «Микроэлектроника 2026» холдинг «Швабе» Госкорпорации Ростех представил новое...",
+    "link": "https://elcomdesign.ru/uncategorized/rosteh-predstavil-novoe-pokolenie-matricz-rasshirennogo-diapazona-dlya-vsevidyashhih-swir-kamer/",
+    "source": "Электронные компоненты",
+    "pubDate": "Mon, 05 Oct 2026 11:43:52 +0000",
     "lang": "ru"
   },
   {
@@ -237,30 +261,6 @@
     "link": "https://elcomdesign.ru/uncategorized/49231/",
     "source": "Электронные компоненты",
     "pubDate": "Fri, 18 Sep 2026 08:53:00 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Приглашаем разместить рекламу/статью/интервью или репортаж с производства в журнале «СВЧ электроника» №04/2026.",
-    "summary": "Приглашаем Вас разместить рекламу/статью/интервью или репортаж с производства в журнале «СВЧ электроника» №04/2026. Журнал выйдет в сентябре и будет распространяться на выставке «Э...",
-    "link": "https://elcomdesign.ru/uncategorized/priglashaem-razmestit-reklamu-statyu-intervyu-ili-reportazh-s-proizvodstva-v-zhurnale-svch-elektronika-%e2%84%9604-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 17 Sep 2026 15:40:05 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "На «ИННОПРОМ. Беларусь» представят промышленные технологии стран ЕЭАС",
-    "summary": "На «ИННОПРОМ. Беларусь» представят промышленные технологии стран ЕЭАС С 30 сентября по 2 октября в Минске пройдет II Международная промышленная выставка «ИННОПРОМ. Беларусь». Общая...",
-    "link": "https://elcomdesign.ru/uncategorized/na-innoprom-belarus-predstavyat-promyshlennye-tehnologii-stran-eeas/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 17 Sep 2026 14:04:20 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "МТК-2026: синергия гражданских технологий и ОПК, новые партнёрства и акцент на практическом применении разработок",
-    "summary": "МТК-2026: синергия гражданских технологий и ОПК, новые партнёрства и акцент на практическом применении разработок   Москва, 15 сентября 2026 года. — В КВЦ «Патриот» с 8 по 10 сентя...",
-    "link": "https://elcomdesign.ru/uncategorized/mtk-2026-sinergiya-grazhdanskih-tehnologij-i-opk-novye-partnyorstva-i-akczent-na-prakticheskom-primenenii-razrabotok/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 17 Sep 2026 13:51:31 +0000",
     "lang": "ru"
   }
 ]
