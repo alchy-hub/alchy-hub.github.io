@@ -1,98 +1,202 @@
 [
   {
-    "title": "Секреты первых 3D-игр: как работала графика в тайтлах 90-х",
-    "summary": "Осторожно: Эта статья во всех подробностях описывает принципы работы 3D-игр из 90-х годов максимально простым языком. Если вы любите настоящие статьи времен того самого лампового Х...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1095348/?utm_campaign=1095348&utm_source=habrahabr&utm_medium=rss",
+    "title": "Интервью с совладельцем клуба «Луноход» Виктором Чередниченко",
+    "summary": "Привет, Хабр! Давно не было интервью от меня. И вот решил исправиться. Хотел даже запустить серию обзоров киберклубов, но от этой идеи быстро отказался.\nОднако один клуб всё-таки п...",
+    "link": "https://habr.com/ru/articles/1098916/?utm_campaign=1098916&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 24 Oct 2026 15:40:35 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Патч‑антенна на 2,4 ГГц: расчёт, моделирование и согласование в ADS",
+    "summary": "Как я рассчитывал и моделировал патч антенну для производства её на FR4 на диапазон 2.4ГГц. От расчёта геометрии на FR4 до анализа S11, входного сопротивления и способов согласован...",
+    "link": "https://habr.com/ru/articles/1093916/?utm_campaign=1093916&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 17 Oct 2026 14:05:59 GMT",
+    "pubDate": "Sat, 24 Oct 2026 15:00:28 GMT",
     "lang": "ru"
   },
   {
-    "title": "По ту сторону кода: дружелюбное введение в UART, I2C и SPI для тех, кто боится железа",
-    "summary": "Возьмите в руки смартфон и ненадолго вскройте его мысленно. Там сидит колония из крошечных чипов, и большинство из них не знает о существовании соседей. Контроллер батареи никогда...",
-    "link": "https://habr.com/ru/articles/1095176/?utm_campaign=1095176&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 17 Oct 2026 13:05:02 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Нафиг NVIDIA! Часть 2. Запустил 8 нейросетей на FPGA за $50 — и упёрся в DDR3",
-    "summary": "Можно ли запустить настоящие языковые модели на списанной FPGA за $50 - без NVIDIA? В первой части я запустил Qwen, а теперь разобрал openTPU до RTL, собрал прошивку в Vivado и про...",
-    "link": "https://habr.com/ru/articles/1095564/?utm_campaign=1095564&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 17 Oct 2026 09:06:10 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Железный сентябрь: от накопителей Unigen на 122 ТБ до архитектуры Arm Ranger и дорожной карты Huawei Ascend",
-    "summary": "Всем привет, с вами Сергей Ковалёв, менеджер выделенных серверов в Selectel. Сентябрь снова радует нас анонсами железа. Huawei и Alibaba с разницей в пять дней показали планы по ИИ...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1095216/?utm_campaign=1095216&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 17 Oct 2026 08:01:21 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "2 Wideband GaN PAs",
-    "summary": "The new GNA-63-5W+ operates from 10 MHz to 6 GHz, providing more than 6 W output power with typical saturated output power of +38.5 dBm....",
-    "link": "https://www.microwavejournal.com/articles/46307-2-wideband-gan-pas",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 16 Oct 2026 13:46:04 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "6-Way Power Divider/Combiner",
-    "summary": "URF’s true 6-way power divider covers 0.5 to 18 GHz with 1.50:1 max. VSWR, and 4.5 dB max. excess insertion loss...",
-    "link": "https://www.microwavejournal.com/articles/46306-6-way-power-divider-combiner",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 16 Oct 2026 13:34:43 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "DC-7.4 GHz Resistive 8-Way Power Divider",
-    "summary": "MIcable’s newly developed broadband 8-way resistive power divider covers DC to 7.4 GHz. Both input and output ports have a VSWR of ≤ 1.9:1....",
-    "link": "https://www.microwavejournal.com/articles/46305-dc-74-ghz-resistive-8-way-power-divider",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 16 Oct 2026 13:22:59 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "D-3186, 3-Way Power Divider",
-    "summary": "The D-3186 is a 3-way Wilkinson divider that operates from 6 to 18 GHz and can handle up to 10 watts CW as a splitter....",
-    "link": "https://www.microwavejournal.com/articles/46304-d-3186-3-way-power-divider",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 16 Oct 2026 13:04:59 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "D-3182, 3-Way Power Divider",
-    "summary": "Model D-3182 from Werbel Microwave is a wideband 3-way in-line power splitter covering the continuous bandwidth of 2 to 18 GHz in a compact enclosure measuring 2.25 x 1.00 x 0.38 i...",
-    "link": "https://www.microwavejournal.com/articles/46303-d-3182-3-way-power-divider",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 16 Oct 2026 12:55:13 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "[Перевод] Микросхема, которой нет ни в одном справочнике: вскрываем фильтр 1985 года и находим в нём 72 одинаковых конденсатора",
-    "summary": "В коробке со старыми микросхемами нашлась деталь с маркировкой «F1-10-5», которой нет ни в одном справочнике. Керамический корпус вскрыли зубилом, а под микроскопом на кристалле об...",
-    "link": "https://habr.com/ru/articles/1095446/?utm_campaign=1095446&utm_source=habrahabr&utm_medium=rss",
+    "title": "Мощный одноплатник за копейки: Как я купил полноценный мини‑ПК за 800 рублей, восстановил его и превратил в сервер",
+    "summary": "Спойлер: Вы тоже можете купить такой одноплатник за 800 рублей, благо на барахолках их навалом. Ну а как их починить и превратить во что-то полезное, я расскажу в рамках сегодняшне...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1098760/?utm_campaign=1098760&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 16 Oct 2026 16:06:43 GMT",
+    "pubDate": "Sat, 24 Oct 2026 14:05:16 GMT",
     "lang": "ru"
   },
   {
-    "title": "Борьба с вибрацией и ценами: как я спроектировал и напечатал «идеальный» NAS‑корпус на 3D‑принтере",
-    "summary": "С ростом объемов данных каждый пользователь рано или поздно приходит к мысли о необходимости домашнего сервера. Посмотрев на цены готовых Synology, я решил собирать систему сам на...",
-    "link": "https://habr.com/ru/articles/1095338/?utm_campaign=1095338&utm_source=habrahabr&utm_medium=rss",
+    "title": "Мощный одноплатник за копейки: Как я купил полноценный мини‑ПК за 800 рублей, восстановил его и превратил в сервер",
+    "summary": "Спойлер: Вы тоже можете купить такой одноплатник за 800 рублей, благо на барахолках их навалом. Ну а как их починить и превратить во что-то полезное, я расскажу в рамках сегодняшне...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1098760/?utm_campaign=1098760&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 16 Oct 2026 12:33:17 GMT",
+    "pubDate": "Sat, 24 Oct 2026 14:05:16 GMT",
     "lang": "ru"
   },
   {
-    "title": "Аппаратная защита в RISC-V: что уже есть для микроконтроллеров и чего это стоит",
-    "summary": "Привет! Меня зовут Константин, я занимаюсь безопасностью архитектуры RISC-V в Syntacore. В этой статье я хочу рассказать, какие механизмы аппаратной защиты информации уже есть в ар...",
-    "link": "https://habr.com/ru/companies/yadro/articles/1094970/?utm_campaign=1094970&utm_source=habrahabr&utm_medium=rss",
+    "title": "Разблокировали тензорные ядра RTX 3060: +83 % и почему на квантованной модели это почти ноль",
+    "summary": "Репозиторий gpu-unlock снимает коммерческое ограничение NVIDIA на скорость FP16/BF16-тензорных ядер в картах 3000 серии. Мы прогнали его на своей RTX 3060 (GA106-302, LHR) в live U...",
+    "link": "https://habr.com/ru/articles/1098836/?utm_campaign=1098836&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 24 Oct 2026 11:45:21 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "MIKROE выпустила плату USB-C Sink 5 Click для питания по USB Power Delivery",
+    "summary": "Плата расширения USB-C Sink 5 Click от MIKROE позволяет встраиваемым системам получать и управлять питанием от источников с поддержкой USB-C Power Delivery. В основе — контроллер S...",
+    "link": "https://kit-e.ru/mikroe-usb-c-sink-5-click/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Sat, 24 Oct 2026 03:59:48 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "PE566212 and PE566213:  UltraCMOS+™ Front-End Modules ",
+    "summary": "PE566212 and PE566213 are fully monolithic 2.4 GHz SOI front-end modules for Bluetooth, Zigbee and Thread applications. Both integrate a PA, LNA and RF switch....",
+    "link": "https://www.microwavejournal.com/articles/46345-qpa9907-high-efficiency-linearizable-power-amplifier",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 23 Oct 2026 16:20:41 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "SAM®200:  Smart, Advanced, Robust Solid-State Power Amplifier ",
+    "summary": "The SAM200 and SAM200 Advanced models extend capability from 20 GHz to 53 GHz with up to 4 watts of saturation power....",
+    "link": "https://www.microwavejournal.com/articles/46344-sam200-smart-advanced-robust-solid-state-power-amplifier",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 23 Oct 2026 16:05:49 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Low Noise Amplifier, PE2-32-218-3R5-8-15-SFF",
+    "summary": "Model PE2-32-218-3R5-8-15-SFF is a 2 to 18 GHz broadband low noise amplifier with a gain of 32 dB and a gain flatness of ±2.0 dB with a noise figure of 3.5 dB and an OP1dB of 8 dBm...",
+    "link": "https://www.microwavejournal.com/articles/46343-low-noise-amplifier-pe2-32-218-3r5-8-15-sff",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 23 Oct 2026 15:47:02 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "8 Channel Power Amplifier, PA-LPN-40-50M500M-5-35DBM-SFF-X8",
+    "summary": "Planar Monolithics (PMI) Model PA-LPN-40-50M500M-5-35DBM-SFF-X8 is an 8 channel, ultra-low phase noise, power amplifier chassis with the ability to terminate unused ports into 50 o...",
+    "link": "https://www.microwavejournal.com/articles/46342-8-channel-power-amplifier-pa-lpn-40-50m500m-5-35dbm-sff-x8",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 23 Oct 2026 15:43:26 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "4 Channel Switch Filter Bank, 4SFB-2G18G-CD-SFF",
+    "summary": "Planar Monolithics (PMI) Model 4SFB-2G18G-CD-SFF is a four-channel switch filter bank that operates over the 2 to 18 GHz frequency range that includes an integral TTL driver and of...",
+    "link": "https://www.microwavejournal.com/articles/46341-4-channel-switch-filter-bank-4sfb-2g18g-cd-sff",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 23 Oct 2026 15:36:25 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Анализатор спектра SDR на базе HackRF One",
+    "summary": "Предлагаю вашему вниманию информацию о применении популярного SDR HackRF One — использование для радиомониторинга эфира, контроля занятости радиочастот/диапазонов частот, определен...",
+    "link": "https://habr.com/ru/articles/1098560/?utm_campaign=1098560&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 16 Oct 2026 10:50:06 GMT",
+    "pubDate": "Fri, 23 Oct 2026 13:47:47 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Зачем заменять BIOS и UEFI свободной прошивкой GNU Boot",
+    "summary": "Люди редко задумываются, что творится в первые секунды после нажатия кнопки питания ПК или ноутбука. А происходит вот что: прошивка материнской платы запускает память, процессор, к...",
+    "link": "https://habr.com/ru/companies/ru_mts/articles/1098248/?utm_campaign=1098248&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 23 Oct 2026 12:00:05 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Что такое SLA и что прописать в соглашении с поставщиком ИТ-услуг",
+    "summary": "SLA (Service Level Agreement, соглашение об уровне сервиса) — документ, в котором поставщик услуг и клиент договариваются, какие услуги оказываются и по каким измеримым показателям...",
+    "link": "https://kit-e.ru/sla/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 23 Oct 2026 11:29:41 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Как снять квартиру в Москве на длительный срок и проверить условия аренды",
+    "summary": "Как снять квартиру на длительный срок в Москве и не столкнуться с неприятными сюрпризами? В этом материале разберём, как рассчитать реальный бюджет с учётом всех платежей, выбрать...",
+    "link": "https://kit-e.ru/snyat-kvartiru-v-moskve/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 23 Oct 2026 11:08:15 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Опубликована деловая программа выставки-форума «Электроника России 2026»",
+    "summary": "Опубликована деловая программа выставки-форума «Электроника России 2026» 24-26 ноября 2026 в Москве пройдет 5-я Международная выставка-форум «Электроника России 2026». В рамках дел...",
+    "link": "https://elcomdesign.ru/uncategorized/opublikovana-delovaya-programma-vystavki-foruma-elektronika-rossii-2026/",
+    "source": "Электронные компоненты",
+    "pubDate": "Fri, 23 Oct 2026 10:23:37 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Оживляем дисплей от приборной панели автобуса",
+    "summary": "Приветствую всех!\nНасколько сложно запустить приборную панель от автобуса, грузовика или ещё какой-то спецтехники и вывести на неё какие-нибудь данные? Возможно ли вообще это сдела...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1094812/?utm_campaign=1094812&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 23 Oct 2026 08:05:27 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Пожарная автоматика промышленного объекта как единый алгоритм: от обнаружения до управляемой эвакуации",
+    "summary": "На промышленном объекте пожарная безопасность давно перестала быть «набором отдельных систем». Для устойчивой работы предприятия важна не только скорость обнаружения возгорания, но...",
+    "link": "https://kit-e.ru/pozharnaya-avtomatika/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 22 Oct 2026 18:54:21 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Регистрационный маршрут медицинского изделия в России: как подготовить проект без лишних итераций",
+    "summary": "Регистрация медицинского изделия в России — это не «финальный забег на подачу», а управляемый проект, который начинается с инженерного и клинико-технического анализа. На практике с...",
+    "link": "https://kit-e.ru/registratsiya/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 22 Oct 2026 17:19:38 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Конденсаторы безопасности серии B3201*A5/B5/C5 от TDK для работы при напряжении до 500 В (AC) и температуре до +125 °C",
+    "summary": "TDK представила серию конденсаторов безопасности B3201*A5/B5/C5 для подавления электромагнитных помех в автомобильных и промышленных приложениях. Изделия рассчитаны на напряжение д...",
+    "link": "https://kit-e.ru/b3201-a5-b5-c5/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 22 Oct 2026 03:44:27 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Неохлаждаемый инфракрасный модуль Raytron SE5 1280 для ОЕМ-систем тепловидения",
+    "summary": "Raytron SE5 1280 — неохлаждаемый инфракрасный модуль с высоким разрешением для ОЕМ-систем тепловидения. Он сочетает чувствительный детектор и специализированный чип обработки изобр...",
+    "link": "https://kit-e.ru/se5-1280/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 22 Oct 2026 03:44:24 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Плавающие соединители для межплатных соединений серии FX36 от Hirose для жестких условий эксплуатации",
+    "summary": "Hirose расширила семейство плавающих соединителей для межплатных соединений FunctionMAX, представив версию высокой плотности FX36. Соединители предназначены для компактных устройст...",
+    "link": "https://kit-e.ru/fx36/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 22 Oct 2026 03:44:21 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Экранированные силовые индукторы серии SRP201210V от Bourns для портативной электроники с ограниченным пространством",
+    "summary": "Bourns выпустила серию экранированных силовых индукторов SRP201210V для компактных электронных устройств. Индукторы сочетают магнитоэкранирование и сердечник из металлосплавного по...",
+    "link": "https://kit-e.ru/bourns-srp201210v-inductors/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 22 Oct 2026 03:16:37 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "DEKRON в промышленном строительстве: как совместить технические требования и бюджет проекта",
+    "summary": "DEKRON в промышленном строительстве: как совместить технические требования и бюджет проекта Строительство и оснащение промышленных, коммерческих и жилых объектов требует значительн...",
+    "link": "https://elcomdesign.ru/uncategorized/dekron-v-promyshlennom-stroitelstve-kak-sovmestit-tehnicheskie-trebovaniya-i-byudzhet-proekta/",
+    "source": "Электронные компоненты",
+    "pubDate": "Wed, 21 Oct 2026 14:17:39 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Микроконтроллеры PSOC Control C3 Main Line PSC3M/P6 от Infineon с расширенными функциями безопасности для систем управления несколькими двигателями и преобразования энергии",
+    "summary": "Infineon расширила семейство микроконтроллеров PSOC Control C3, представив модели PSC3M/P6. Новые устройства сочетают высокую производительность управления двигателями и энергосист...",
+    "link": "https://kit-e.ru/infineon-psc3m-p6-mcu/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Wed, 21 Oct 2026 03:24:44 +0000",
     "lang": "ru"
   },
   {
@@ -104,99 +208,11 @@
     "lang": "ru"
   },
   {
-    "title": "Новый метод производства печатных плат на дому: почти бесшумно, быстро (1500 мм/мин), без пыли, как не делал ещё никто*",
-    "summary": "Те, кто читал прошлые статьи, знают, что я потратил довольно большое количество времени на борьбу с шумом домашнего ЧПУ-станка 3018 (что это за станок, подробно описывал вот здесь)...",
-    "link": "https://habr.com/ru/companies/ruvds/articles/1092948/?utm_campaign=1092948&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Thu, 15 Oct 2026 09:01:44 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Коммутатор Antaira LMX-1204G-SFP-T-BABA соответствует требованиям Phase 2 закона BABA, доступна предпродажа модели с PoE++",
-    "summary": "Antaira Technologies объявила о соответствии своего коммутатора LMX-1204G-SFP-T-BABA требованиям Phase 2 закона BABA. Также компания анонсировала модель с поддержкой PoE++ мощность...",
-    "link": "https://kit-e.ru/antaira-switch-baba-poe/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 15 Oct 2026 03:37:36 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Драйвер затвора Si829x от Skyworks для тяговых инверторов электромобилей теперь доступен для оценки",
-    "summary": "Skyworks Solutions представила драйвер затвора Si829x для тяговых инверторов электромобилей. Изделие прошло квалификацию AEC-Q100 и теперь доступно для оценки клиентами. Технология...",
-    "link": "https://kit-e.ru/skyworks-si829x-gate-driver/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 15 Oct 2026 03:37:33 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Marvell представила ретаймер Alaska E 3.2T и DSP Alaska A 1.6T второго поколения для инфраструктуры ИИ",
-    "summary": "Marvell представила два новых продукта для инфраструктуры ИИ: ретаймер Alaska E 3.2T и DSP Alaska A 1.6T второго поколения. Устройства обеспечивают высокую пропускную способность и...",
-    "link": "https://kit-e.ru/marvell-alaska-e-32t-retimer/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 15 Oct 2026 03:37:30 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Датчик положения двигателя Micronas HAR 3025 с двойной матрицей Холла от TDK",
-    "summary": "TDK представила датчик положения двигателя Micronas HAR 3025 с двойной матрицей Холла. Изделие обеспечивает повышенную устойчивость к внешним магнитным полям и соответствует уровню...",
-    "link": "https://kit-e.ru/tdk-micronas-har-3025-sensor/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 15 Oct 2026 03:37:28 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Коннекторы Belden Lumberg Automation M12 с push-pull механизмом для промышленного подключения",
-    "summary": "Belden представила коннекторы Lumberg Automation M12 с механизмом push-pull, которые упрощают промышленное подключение и сокращают время установки до 80%. Коннекторы соответствуют...",
-    "link": "https://kit-e.ru/belden-lumberg-automation-m12-connectors/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 14 Oct 2026 03:59:59 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Антенна Aurata SR4L112 от Antenova: компактная встраиваемая антенна для 4G/LTE",
-    "summary": "Antenova выпустила антенну Aurata SR4L112 — компактное решение для встраиваемых 4G/LTE-устройств. Антенна поддерживает ключевые диапазоны и упрощает интеграцию в устройства с огран...",
-    "link": "https://kit-e.ru/antenova-aurata-sr4l112-antenna/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 14 Oct 2026 03:59:53 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "ЦТС отгрузил 50 тыс. периферийных плат для техники «Катюша»",
-    "summary": "Контрактный производитель ЦТС завершил отгрузку 50 тыс. российских периферийных плат для принтеров и МФУ «Катюша». В дальнейшем планируется расширение модельной линейки и переход н...",
-    "link": "https://kit-e.ru/cts-platy-katusha/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 14 Oct 2026 03:59:49 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Фотоэлектрический датчик Q2F Flat Pack от Banner Engineering: компактный дизайн для ограниченного пространства",
-    "summary": "Banner Engineering выпустила фотоэлектрический датчик Q2F Flat Pack с ультратонким корпусом. Датчик предназначен для установки в ограниченном пространстве и имеет несколько вариант...",
-    "link": "https://kit-e.ru/banner-engineering-q2f-sensor/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 14 Oct 2026 03:59:46 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Контроллер горячего подключения XDP8HD40S-1 от Infineon для ИИ-серверов с напряжением 800 В",
-    "summary": "Infineon представила контроллер горячего подключения XDP8HD40S-1 для ИИ-серверов. Устройство обеспечивает защиту и мониторинг силового тракта при работе с напряжением ±400 и 800 В...",
-    "link": "https://kit-e.ru/infineon-xdp8hd40s-1-controller/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 14 Oct 2026 03:59:43 +0000",
-    "lang": "ru"
-  },
-  {
     "title": "Фотонные технологии для технологического суверенитета",
     "summary": "Фотонные технологии для технологического суверенитета 30 сентября на форуме «Микроэлектроника 2026» ГК «T8» организовала круглый стол «От фотонного компонента к системам: телеком,...",
     "link": "https://elcomdesign.ru/uncategorized/fotonnye-tehnologii-dlya-tehnologicheskogo-suvereniteta-2/",
     "source": "Электронные компоненты",
     "pubDate": "Tue, 13 Oct 2026 16:33:14 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Интегрированные RF-модули переднего плана для IoT-устройств на 2,4 ГГц от pSemi: PE566212 и PE566213",
-    "summary": "Компания pSemi представила два новых модуля переднего плана для IoT-устройств на 2,4 ГГц — PE566212 и PE566213. Изделия интегрируют усилитель мощности, малошумящий усилитель и RF-п...",
-    "link": "https://kit-e.ru/psemi-fem-pe566212-pe566213/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Tue, 13 Oct 2026 03:53:34 +0000",
     "lang": "ru"
   },
   {
@@ -245,22 +261,6 @@
     "link": "https://elcomdesign.ru/uncategorized/fis-dlya-telekoma-i-sensorov/",
     "source": "Электронные компоненты",
     "pubDate": "Sat, 26 Sep 2026 12:12:03 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Сформирована программа трека «Доверенные ЭКБ и ПАК для регулируемых рынков КИИ» на форуме «Микроэлектроника2026»",
-    "summary": "Сформирована программа трека «Доверенные ЭКБ и ПАК для регулируемых рынков КИИ» на форуме «Микроэлектроника2026» Программа включает шесть заседаний, посвящённых защите цепочек пост...",
-    "link": "https://elcomdesign.ru/uncategorized/sformirovana-programma-treka-doverennye-ekb-i-pak-dlya-reguliruemyh-rynkov-kii-na-forume-mikroelektronika2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Fri, 25 Sep 2026 14:39:45 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Передовые журналы по электронике на выставке РАДЭЛ",
-    "summary": "Передовые журналы по электронике на выставке РАДЭЛ Издательский Дом Электроника приглашает на выставку Радэл в Санкт-Петербурге с 23 по 25 сентября, где можно будет получить послед...",
-    "link": "https://elcomdesign.ru/uncategorized/peredovye-zhurnaly-po-elektronike-na-vystavke-radel/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 21 Sep 2026 14:53:16 +0000",
     "lang": "ru"
   }
 ]
