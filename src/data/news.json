@@ -1,42 +1,162 @@
 [
   {
-    "title": "Интервью с совладельцем клуба «Луноход» Виктором Чередниченко",
-    "summary": "Привет, Хабр! Давно не было интервью от меня. И вот решил исправиться. Хотел даже запустить серию обзоров киберклубов, но от этой идеи быстро отказался.\nОднако один клуб всё-таки п...",
-    "link": "https://habr.com/ru/articles/1098916/?utm_campaign=1098916&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 24 Oct 2026 15:40:35 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Патч‑антенна на 2,4 ГГц: расчёт, моделирование и согласование в ADS",
-    "summary": "Как я рассчитывал и моделировал патч антенну для производства её на FR4 на диапазон 2.4ГГц. От расчёта геометрии на FR4 до анализа S11, входного сопротивления и способов согласован...",
-    "link": "https://habr.com/ru/articles/1093916/?utm_campaign=1093916&utm_source=habrahabr&utm_medium=rss",
+    "title": "Параметрическая подстройка патч-антенны в ADS",
+    "summary": "Для кого эта статья? Для тех, кто уже знаком с ПО и умеет в нём кое-что проектировать, но ещё не знает как можно быстро подстраивать различные параметры автоматически. \nС функцией...",
+    "link": "https://habr.com/ru/articles/1092614/?utm_campaign=1092614&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 24 Oct 2026 15:00:28 GMT",
+    "pubDate": "Sat, 31 Oct 2026 00:30:15 GMT",
     "lang": "ru"
   },
   {
-    "title": "Мощный одноплатник за копейки: Как я купил полноценный мини‑ПК за 800 рублей, восстановил его и превратил в сервер",
-    "summary": "Спойлер: Вы тоже можете купить такой одноплатник за 800 рублей, благо на барахолках их навалом. Ну а как их починить и превратить во что-то полезное, я расскажу в рамках сегодняшне...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1098760/?utm_campaign=1098760&utm_source=habrahabr&utm_medium=rss",
+    "title": "Antenna Research Associates and Empower RF Systems Announce Merger to Build an Integrated RF Platform for Contested-Spectrum Missions",
+    "summary": "Antenna Research Associates (“ARA”), an OceanSound Partners portfolio company, announced a merger with Empower RF Systems (\"Empower RF\")....",
+    "link": "https://www.microwavejournal.com/articles/46388-antenna-research-associates-and-empower-rf-systems-announce-merger-to-build-an-integrated-rf-platform-for-contested-spectrum-missions",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 30 Oct 2026 16:21:54 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Наследие Siemens: как концерн пережил две Мировые войны",
+    "summary": "В предыдущей части мы подробно рассказали о становлении компании Siemens и ее экспансии на глобальные рынки в начале прошлого века. В этой части речь пойдет о судьбе корпорации в п...",
+    "link": "https://habr.com/ru/companies/onlinepatent/articles/1101792/?utm_campaign=1101792&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 24 Oct 2026 14:05:16 GMT",
+    "pubDate": "Fri, 30 Oct 2026 13:37:10 GMT",
     "lang": "ru"
   },
   {
-    "title": "Мощный одноплатник за копейки: Как я купил полноценный мини‑ПК за 800 рублей, восстановил его и превратил в сервер",
-    "summary": "Спойлер: Вы тоже можете купить такой одноплатник за 800 рублей, благо на барахолках их навалом. Ну а как их починить и превратить во что-то полезное, я расскажу в рамках сегодняшне...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1098760/?utm_campaign=1098760&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 24 Oct 2026 14:05:16 GMT",
+    "title": "Frequency Matters | November Edition: 5G, 6G & IoT",
+    "summary": "...",
+    "link": "https://www.microwavejournal.com/articles/46384-frequency-matters-november-edition-5g-6g-and-iot",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 30 Oct 2026 09:18:50 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Team FORTITUDE Secures Key Role Supporting British Army CEMA Capability",
+    "summary": "Team FORTITUDE has been selected to provide through-life support, training and capability sustainment to a concept demonstrator for a critical British Army capability....",
+    "link": "https://www.microwavejournal.com/articles/46387-team-fortitude-secures-key-role-supporting-british-army-cema-capability",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 30 Oct 2026 09:09:57 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Rohde & Schwarz Introduces MXO AI Connect for AI-Assisted Oscilloscope Workflows",
+    "summary": "With the new MXO AI Connect, Rohde & Schwarz brings AI-assisted instrument intelligence to its MXO oscilloscopes....",
+    "link": "https://www.microwavejournal.com/articles/46386-rohde-and-schwarz-introduces-mxo-ai-connect-for-ai-assisted-oscilloscope-workflows",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 30 Oct 2026 08:19:18 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Richardson RFPD Expands RF Portfolio with Flip Electronics Manufacturing Services (FMS) ",
+    "summary": "Richardson RFPD, Inc., an Arrow Electronics company, announced a global franchise agreement with Flip Electronics Manufacturing Services (FMS), expanding its portfolio of RF and po...",
+    "link": "https://www.microwavejournal.com/articles/46385-richardson-rfpd-expands-rf-portfolio-with-flip-electronics-manufacturing-services-fms",
+    "source": "Microwave Journal",
+    "pubDate": "Fri, 30 Oct 2026 08:08:24 -0400",
+    "lang": "en"
+  },
+  {
+    "title": "Как я превратил клавиатуру от ноутбука MSI в самостоятельную USB‑клавиатуру",
+    "summary": "Есть люди, которые спокойно меняют клавиатуры и через пару дней привыкают к новым. А есть моя жена. У неё есть ноутбук MSI GS75, и его клавиатура ей очень нравится. Настолько, что...",
+    "link": "https://habr.com/ru/articles/1101616/?utm_campaign=1101616&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 30 Oct 2026 09:23:25 GMT",
     "lang": "ru"
   },
   {
-    "title": "Разблокировали тензорные ядра RTX 3060: +83 % и почему на квантованной модели это почти ноль",
-    "summary": "Репозиторий gpu-unlock снимает коммерческое ограничение NVIDIA на скорость FP16/BF16-тензорных ядер в картах 3000 серии. Мы прогнали его на своей RTX 3060 (GA106-302, LHR) в live U...",
-    "link": "https://habr.com/ru/articles/1098836/?utm_campaign=1098836&utm_source=habrahabr&utm_medium=rss",
+    "title": "Как я превратил клавиатуру от ноутбука MSI в самостоятельную USB‑клавиатуру",
+    "summary": "Есть люди, которые спокойно меняют клавиатуры и через пару дней привыкают к новым. А есть моя жена. У неё есть ноутбук MSI GS75, и его клавиатура ей очень нравится. Настолько, что...",
+    "link": "https://habr.com/ru/articles/1101616/?utm_campaign=1101616&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 24 Oct 2026 11:45:21 GMT",
+    "pubDate": "Fri, 30 Oct 2026 09:23:25 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Предок всех домофонов. Как работает подъездный кодовый замок?",
+    "summary": "Приветствую всех!\nЯ уже десятки раз рассказывал о различных ключах, домофонах, считывателях и прочих электронных устройствах, призванных ограничивать доступ в подъезды и прочие том...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1091280/?utm_campaign=1091280&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 30 Oct 2026 09:05:22 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Микросветодиоды WICOP 3 без редкоземельных материалов от Seoul Viosys",
+    "summary": "Seoul Viosys запустила массовое производство микросветодиодов WICOP 3, которые не используют редкоземельные материалы и могут быть меньше 100 мкм.\nThe post Микросветодиоды WICOP 3...",
+    "link": "https://kit-e.ru/seoul-viosys-wicop-3-microled/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 30 Oct 2026 06:46:59 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "SiC-МОП-транзисторы SemiQ четвертого поколения с напряжением 1200 и 750 В",
+    "summary": "SemiQ представила МОП-транзисторы четвертого поколения на карбиде кремния с улучшенными характеристиками. Устройства предназначены для высокомощных приложений, включая зарядку элек...",
+    "link": "https://kit-e.ru/semiq-gen4/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 30 Oct 2026 03:43:12 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Коаксиальные разъемы с переключателем серии SWL от Murata — самые маленькие в мире",
+    "summary": "Murata выпустила самые маленькие в мире радиочастотные/микроволновые коаксиальные разъемы с переключателем серии SWL. Разъёмы сокращают занимаемую на печатной плате площадь на 40%,...",
+    "link": "https://kit-e.ru/murata-swl-connectors/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 30 Oct 2026 03:38:39 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Система пайки Vision RCC от Rehm Thermal Systems: сочетание трех технологий в одном решении",
+    "summary": "Rehm Thermal Systems выпустила систему пайки Vision RCC, которая объединяет конвекционный предварительный нагрев, конденсационную пайку и вакуумную обработку. Решение предназначено...",
+    "link": "https://kit-e.ru/vision-rcc/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 30 Oct 2026 03:38:32 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Типоразмер блокиратора: как подобрать устройство LOTO под конкретный узел",
+    "summary": "Блокировка оборудования по методике Lockout Tagout (LOTO) работает, только если устройство физически подходит к узлу. Блокиратор для крана DN50 не встанет на кран DN150, а кнопка д...",
+    "link": "https://kit-e.ru/loto/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 29 Oct 2026 12:06:53 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Как выбрать корпус для электронного устройства: основные критерии и материалы",
+    "summary": "Представьте, что электронная плата уже готова: разведена, протестирована, все компоненты на местах. Остаётся только найти ей дом — корпус. И тут часто выясняется неприятная вещь: г...",
+    "link": "https://kit-e.ru/kak-vybrat/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 29 Oct 2026 09:29:38 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Под капотом современных ИИ-сервисов: KV-кэш, батчинг, квантизация и серверное железо",
+    "summary": "Итак, вы отправляете запрос через сайт или приложение. В этот момент начинается его путь к подробному и, возможно, корректному ответу. По дороге запрос проходит через несколько сис...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1099322/?utm_campaign=1099322&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Thu, 29 Oct 2026 08:00:43 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Куда пропадают 69 гигабайт с каждого терабайта и почему за это судились с производителями",
+    "summary": "В 2005 году юристы из Сан-Франциско подали в суд на Western Digital из-за 7 процентов, которые пропадают с каждого диска, и через год компания пошла на мировую. А похожий иск к App...",
+    "link": "https://habr.com/ru/articles/1100542/?utm_campaign=1100542&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Thu, 29 Oct 2026 04:51:24 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "[Перевод] Автоматизация моего процесса сканирования 35-миллиметровых плёнок",
+    "summary": "Я люблю фотографию. Есть что‑то волнующее в наблюдении за изображением через объектив, выстраивании кадра для получения композиции и работы над получившимся фото. Я менял зеркальны...",
+    "link": "https://habr.com/ru/articles/1090592/?utm_campaign=1090592&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Wed, 28 Oct 2026 12:23:17 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Лестница метража: почему ателье берут ткань от 3 метров, а фабрики заказывают от 300",
+    "summary": "Покупатель тканей на оптовом рынке редко выбирает между «дорого» и «дёшево». Чаще он выбирает ступень на лестнице метража: от нескольких метров на пробный пошив до сотен метров на...",
+    "link": "https://kit-e.ru/lestnitsa-metrazha/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Tue, 27 Oct 2026 10:28:29 +0000",
     "lang": "ru"
   },
   {
@@ -45,62 +165,6 @@
     "link": "https://kit-e.ru/mikroe-usb-c-sink-5-click/",
     "source": "КиТ (Компоненты и Технологии)",
     "pubDate": "Sat, 24 Oct 2026 03:59:48 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "PE566212 and PE566213:  UltraCMOS+™ Front-End Modules ",
-    "summary": "PE566212 and PE566213 are fully monolithic 2.4 GHz SOI front-end modules for Bluetooth, Zigbee and Thread applications. Both integrate a PA, LNA and RF switch....",
-    "link": "https://www.microwavejournal.com/articles/46345-qpa9907-high-efficiency-linearizable-power-amplifier",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 23 Oct 2026 16:20:41 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "SAM®200:  Smart, Advanced, Robust Solid-State Power Amplifier ",
-    "summary": "The SAM200 and SAM200 Advanced models extend capability from 20 GHz to 53 GHz with up to 4 watts of saturation power....",
-    "link": "https://www.microwavejournal.com/articles/46344-sam200-smart-advanced-robust-solid-state-power-amplifier",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 23 Oct 2026 16:05:49 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Low Noise Amplifier, PE2-32-218-3R5-8-15-SFF",
-    "summary": "Model PE2-32-218-3R5-8-15-SFF is a 2 to 18 GHz broadband low noise amplifier with a gain of 32 dB and a gain flatness of ±2.0 dB with a noise figure of 3.5 dB and an OP1dB of 8 dBm...",
-    "link": "https://www.microwavejournal.com/articles/46343-low-noise-amplifier-pe2-32-218-3r5-8-15-sff",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 23 Oct 2026 15:47:02 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "8 Channel Power Amplifier, PA-LPN-40-50M500M-5-35DBM-SFF-X8",
-    "summary": "Planar Monolithics (PMI) Model PA-LPN-40-50M500M-5-35DBM-SFF-X8 is an 8 channel, ultra-low phase noise, power amplifier chassis with the ability to terminate unused ports into 50 o...",
-    "link": "https://www.microwavejournal.com/articles/46342-8-channel-power-amplifier-pa-lpn-40-50m500m-5-35dbm-sff-x8",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 23 Oct 2026 15:43:26 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "4 Channel Switch Filter Bank, 4SFB-2G18G-CD-SFF",
-    "summary": "Planar Monolithics (PMI) Model 4SFB-2G18G-CD-SFF is a four-channel switch filter bank that operates over the 2 to 18 GHz frequency range that includes an integral TTL driver and of...",
-    "link": "https://www.microwavejournal.com/articles/46341-4-channel-switch-filter-bank-4sfb-2g18g-cd-sff",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 23 Oct 2026 15:36:25 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Анализатор спектра SDR на базе HackRF One",
-    "summary": "Предлагаю вашему вниманию информацию о применении популярного SDR HackRF One — использование для радиомониторинга эфира, контроля занятости радиочастот/диапазонов частот, определен...",
-    "link": "https://habr.com/ru/articles/1098560/?utm_campaign=1098560&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 23 Oct 2026 13:47:47 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Зачем заменять BIOS и UEFI свободной прошивкой GNU Boot",
-    "summary": "Люди редко задумываются, что творится в первые секунды после нажатия кнопки питания ПК или ноутбука. А происходит вот что: прошивка материнской платы запускает память, процессор, к...",
-    "link": "https://habr.com/ru/companies/ru_mts/articles/1098248/?utm_campaign=1098248&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Fri, 23 Oct 2026 12:00:05 GMT",
     "lang": "ru"
   },
   {
@@ -128,75 +192,11 @@
     "lang": "ru"
   },
   {
-    "title": "Оживляем дисплей от приборной панели автобуса",
-    "summary": "Приветствую всех!\nНасколько сложно запустить приборную панель от автобуса, грузовика или ещё какой-то спецтехники и вывести на неё какие-нибудь данные? Возможно ли вообще это сдела...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1094812/?utm_campaign=1094812&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 23 Oct 2026 08:05:27 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Пожарная автоматика промышленного объекта как единый алгоритм: от обнаружения до управляемой эвакуации",
-    "summary": "На промышленном объекте пожарная безопасность давно перестала быть «набором отдельных систем». Для устойчивой работы предприятия важна не только скорость обнаружения возгорания, но...",
-    "link": "https://kit-e.ru/pozharnaya-avtomatika/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 22 Oct 2026 18:54:21 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Регистрационный маршрут медицинского изделия в России: как подготовить проект без лишних итераций",
-    "summary": "Регистрация медицинского изделия в России — это не «финальный забег на подачу», а управляемый проект, который начинается с инженерного и клинико-технического анализа. На практике с...",
-    "link": "https://kit-e.ru/registratsiya/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 22 Oct 2026 17:19:38 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Конденсаторы безопасности серии B3201*A5/B5/C5 от TDK для работы при напряжении до 500 В (AC) и температуре до +125 °C",
-    "summary": "TDK представила серию конденсаторов безопасности B3201*A5/B5/C5 для подавления электромагнитных помех в автомобильных и промышленных приложениях. Изделия рассчитаны на напряжение д...",
-    "link": "https://kit-e.ru/b3201-a5-b5-c5/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 22 Oct 2026 03:44:27 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Неохлаждаемый инфракрасный модуль Raytron SE5 1280 для ОЕМ-систем тепловидения",
-    "summary": "Raytron SE5 1280 — неохлаждаемый инфракрасный модуль с высоким разрешением для ОЕМ-систем тепловидения. Он сочетает чувствительный детектор и специализированный чип обработки изобр...",
-    "link": "https://kit-e.ru/se5-1280/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 22 Oct 2026 03:44:24 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Плавающие соединители для межплатных соединений серии FX36 от Hirose для жестких условий эксплуатации",
-    "summary": "Hirose расширила семейство плавающих соединителей для межплатных соединений FunctionMAX, представив версию высокой плотности FX36. Соединители предназначены для компактных устройст...",
-    "link": "https://kit-e.ru/fx36/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 22 Oct 2026 03:44:21 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Экранированные силовые индукторы серии SRP201210V от Bourns для портативной электроники с ограниченным пространством",
-    "summary": "Bourns выпустила серию экранированных силовых индукторов SRP201210V для компактных электронных устройств. Индукторы сочетают магнитоэкранирование и сердечник из металлосплавного по...",
-    "link": "https://kit-e.ru/bourns-srp201210v-inductors/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 22 Oct 2026 03:16:37 +0000",
-    "lang": "ru"
-  },
-  {
     "title": "DEKRON в промышленном строительстве: как совместить технические требования и бюджет проекта",
     "summary": "DEKRON в промышленном строительстве: как совместить технические требования и бюджет проекта Строительство и оснащение промышленных, коммерческих и жилых объектов требует значительн...",
     "link": "https://elcomdesign.ru/uncategorized/dekron-v-promyshlennom-stroitelstve-kak-sovmestit-tehnicheskie-trebovaniya-i-byudzhet-proekta/",
     "source": "Электронные компоненты",
     "pubDate": "Wed, 21 Oct 2026 14:17:39 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Микроконтроллеры PSOC Control C3 Main Line PSC3M/P6 от Infineon с расширенными функциями безопасности для систем управления несколькими двигателями и преобразования энергии",
-    "summary": "Infineon расширила семейство микроконтроллеров PSOC Control C3, представив модели PSC3M/P6. Новые устройства сочетают высокую производительность управления двигателями и энергосист...",
-    "link": "https://kit-e.ru/infineon-psc3m-p6-mcu/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 21 Oct 2026 03:24:44 +0000",
     "lang": "ru"
   },
   {
