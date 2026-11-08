@@ -1,266 +1,106 @@
 [
   {
-    "title": "Параметрическая подстройка патч-антенны в ADS",
-    "summary": "Для кого эта статья? Для тех, кто уже знаком с ПО и умеет в нём кое-что проектировать, но ещё не знает как можно быстро подстраивать различные параметры автоматически. \nС функцией...",
-    "link": "https://habr.com/ru/articles/1092614/?utm_campaign=1092614&utm_source=habrahabr&utm_medium=rss",
+    "title": "Как я отремонтировал 32-х летний ноутбук с кафедры университета и для чего он мне нужен в 2026'ом",
+    "summary": "Осторожно: В этой статье всё как вы и любите - разбор схемотехники и компонентной базы, диагностика устройства вообще без схемы, тестирование софта и бенчмарки - в общем, техногика...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1104764/?utm_campaign=1104764&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 31 Oct 2026 00:30:15 GMT",
+    "pubDate": "Sat, 07 Nov 2026 14:05:30 GMT",
     "lang": "ru"
   },
   {
-    "title": "Antenna Research Associates and Empower RF Systems Announce Merger to Build an Integrated RF Platform for Contested-Spectrum Missions",
-    "summary": "Antenna Research Associates (“ARA”), an OceanSound Partners portfolio company, announced a merger with Empower RF Systems (\"Empower RF\")....",
-    "link": "https://www.microwavejournal.com/articles/46388-antenna-research-associates-and-empower-rf-systems-announce-merger-to-build-an-integrated-rf-platform-for-contested-spectrum-missions",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 30 Oct 2026 16:21:54 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Наследие Siemens: как концерн пережил две Мировые войны",
-    "summary": "В предыдущей части мы подробно рассказали о становлении компании Siemens и ее экспансии на глобальные рынки в начале прошлого века. В этой части речь пойдет о судьбе корпорации в п...",
-    "link": "https://habr.com/ru/companies/onlinepatent/articles/1101792/?utm_campaign=1101792&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 30 Oct 2026 13:37:10 GMT",
+    "title": "Как я отремонтировал 32-х летний ноутбук с кафедры университета и для чего он мне нужен в 2026'ом",
+    "summary": "Осторожно: В этой статье всё как вы и любите - разбор схемотехники и компонентной базы, диагностика устройства вообще без схемы, тестирование софта и бенчмарки - в общем, техногика...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1104764/?utm_campaign=1104764&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 07 Nov 2026 14:05:30 GMT",
     "lang": "ru"
   },
   {
-    "title": "Frequency Matters | November Edition: 5G, 6G & IoT",
+    "title": "От поиска коллизий к когнитивному инференсу: Топологический логический слой архитектуры ZAP v4.0",
+    "summary": "В прошлой статье мы выкатили концепт ZAP (Zero-Annihilation Processor) и рассказали, как приспособить существующие ASIC-майнеры под роль аппаратных ускорителей для поиска пространс...",
+    "link": "https://habr.com/ru/articles/1104772/?utm_campaign=1104772&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 06 Nov 2026 22:01:37 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Что умеет «486SX на максималках»? Запускаем промышленный мини‑ПК из двухтысячных",
+    "summary": "Приветствую всех!\nСейчас уже мало кого удивишь миниатюрными и одноплатными компьютерами. Но всё же иногда среди них находятся крайне примечательные артефакты. Например, eBox-2300SX...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1096982/?utm_campaign=1096982&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 06 Nov 2026 08:05:54 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Что умеет «486SX на максималках»? Запускаем промышленный мини‑ПК из двухтысячных",
+    "summary": "Приветствую всех!\nСейчас уже мало кого удивишь миниатюрными и одноплатными компьютерами. Но всё же иногда среди них находятся крайне примечательные артефакты. Например, eBox-2300SX...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1096982/?utm_campaign=1096982&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 06 Nov 2026 08:05:54 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как я завёл Radeon R7 240 на Windows Server 2022",
+    "summary": "Перенёс Windows Server 2022 на свой компьютер с Radeon R7 240. То чёрный экран, то только 1280×1024. В итоге подошёл драйвер 2019 года из старой Windows 11. После установки получил...",
+    "link": "https://habr.com/ru/articles/1104302/?utm_campaign=1104302&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 06 Nov 2026 07:34:53 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Force Effect Launches PARALLAX: Realistic GNSS Jamming and Spoofing Training Without Transmitting Over-the-Air",
     "summary": "...",
-    "link": "https://www.microwavejournal.com/articles/46384-frequency-matters-november-edition-5g-6g-and-iot",
+    "link": "https://www.microwavejournal.com/articles/46420-force-effect-launches-parallax-realistic-gnss-jamming-and-spoofing-training-without-transmitting-over-the-air",
     "source": "Microwave Journal",
-    "pubDate": "Fri, 30 Oct 2026 09:18:50 -0400",
+    "pubDate": "Fri, 06 Nov 2026 02:13:48 -0500",
     "lang": "en"
   },
   {
-    "title": "Team FORTITUDE Secures Key Role Supporting British Army CEMA Capability",
-    "summary": "Team FORTITUDE has been selected to provide through-life support, training and capability sustainment to a concept demonstrator for a critical British Army capability....",
-    "link": "https://www.microwavejournal.com/articles/46387-team-fortitude-secures-key-role-supporting-british-army-cema-capability",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 30 Oct 2026 09:09:57 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Rohde & Schwarz Introduces MXO AI Connect for AI-Assisted Oscilloscope Workflows",
-    "summary": "With the new MXO AI Connect, Rohde & Schwarz brings AI-assisted instrument intelligence to its MXO oscilloscopes....",
-    "link": "https://www.microwavejournal.com/articles/46386-rohde-and-schwarz-introduces-mxo-ai-connect-for-ai-assisted-oscilloscope-workflows",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 30 Oct 2026 08:19:18 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Richardson RFPD Expands RF Portfolio with Flip Electronics Manufacturing Services (FMS) ",
-    "summary": "Richardson RFPD, Inc., an Arrow Electronics company, announced a global franchise agreement with Flip Electronics Manufacturing Services (FMS), expanding its portfolio of RF and po...",
-    "link": "https://www.microwavejournal.com/articles/46385-richardson-rfpd-expands-rf-portfolio-with-flip-electronics-manufacturing-services-fms",
-    "source": "Microwave Journal",
-    "pubDate": "Fri, 30 Oct 2026 08:08:24 -0400",
-    "lang": "en"
-  },
-  {
-    "title": "Как я превратил клавиатуру от ноутбука MSI в самостоятельную USB‑клавиатуру",
-    "summary": "Есть люди, которые спокойно меняют клавиатуры и через пару дней привыкают к новым. А есть моя жена. У неё есть ноутбук MSI GS75, и его клавиатура ей очень нравится. Настолько, что...",
-    "link": "https://habr.com/ru/articles/1101616/?utm_campaign=1101616&utm_source=habrahabr&utm_medium=rss",
+    "title": "[Перевод] Экран для старой кассы стоил около $300, и я вывел картинку на VGA через Raspberry Pi Pico",
+    "summary": "У кассы Samsung SPS-1000 сломался монохромный STN-дисплей, а такой же на eBay стоил около 300 долларов. Тогда автор измерил сигналы контроллера SED1351 осциллографом, снял четырёхб...",
+    "link": "https://habr.com/ru/articles/1104238/?utm_campaign=1104238&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 30 Oct 2026 09:23:25 GMT",
+    "pubDate": "Fri, 06 Nov 2026 04:10:21 GMT",
     "lang": "ru"
   },
   {
-    "title": "Как я превратил клавиатуру от ноутбука MSI в самостоятельную USB‑клавиатуру",
-    "summary": "Есть люди, которые спокойно меняют клавиатуры и через пару дней привыкают к новым. А есть моя жена. У неё есть ноутбук MSI GS75, и его клавиатура ей очень нравится. Настолько, что...",
-    "link": "https://habr.com/ru/articles/1101616/?utm_campaign=1101616&utm_source=habrahabr&utm_medium=rss",
+    "title": "pSemi Expands UltraCMOS+™ Portfolio with PE423213 Wideband RF Switch",
+    "summary": "pSemi® Corporation, a Murata company, announced the PE423213, a HaRP™ technology-enhanced reflective single-pole double-throw (SPDT) RF switch operating from 0.3 to 10.6 GHz....",
+    "link": "https://www.microwavejournal.com/articles/46425-psemi-expands-ultracmos-portfolio-with-pe423213-wideband-rf-switch",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 05 Nov 2026 11:07:55 -0500",
+    "lang": "en"
+  },
+  {
+    "title": "Нубский анбоксинг ZX Spectrum Next Issue 5 (KS3)",
+    "summary": "Получил сегодня ZX Spectrum Next Issue 3 (чёрный, с ускорителем). \"Issue 3\" - значит третья кампания на кикстартере. Сама кампания здесь. Хотели собрать 250 килофунтов, а собрали 2...",
+    "link": "https://habr.com/ru/articles/1104118/?utm_campaign=1104118&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 30 Oct 2026 09:23:25 GMT",
+    "pubDate": "Thu, 05 Nov 2026 15:40:00 GMT",
     "lang": "ru"
   },
   {
-    "title": "Предок всех домофонов. Как работает подъездный кодовый замок?",
-    "summary": "Приветствую всех!\nЯ уже десятки раз рассказывал о различных ключах, домофонах, считывателях и прочих электронных устройствах, призванных ограничивать доступ в подъезды и прочие том...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1091280/?utm_campaign=1091280&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 30 Oct 2026 09:05:22 GMT",
-    "lang": "ru"
+    "title": "Minimize Magnetic Interference with Non-Magnetic MCX Connectors",
+    "summary": "Amphenol RF is pleased to introduce a non-magnetic MCX end-launch jack designed for RF systems where interaction with surrounding magnetic fields and magnetic interference are crit...",
+    "link": "https://www.microwavejournal.com/articles/46424-minimize-magnetic-interference-with-non-magnetic-mcx-connectors",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 05 Nov 2026 10:31:39 -0500",
+    "lang": "en"
   },
   {
-    "title": "Микросветодиоды WICOP 3 без редкоземельных материалов от Seoul Viosys",
-    "summary": "Seoul Viosys запустила массовое производство микросветодиодов WICOP 3, которые не используют редкоземельные материалы и могут быть меньше 100 мкм.\nThe post Микросветодиоды WICOP 3...",
-    "link": "https://kit-e.ru/seoul-viosys-wicop-3-microled/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 30 Oct 2026 06:46:59 +0000",
-    "lang": "ru"
+    "title": "Keysight Introduces 14-Bit Low-Profile Oscilloscope for High-Channel Density, Synchronized Test Systems",
+    "summary": "Keysight Technologies, Inc. (NYSE: KEYS) introduces the XR3, a low-profile 14-bit oscilloscope designed to increase measurement capacity in rack-based test systems....",
+    "link": "https://www.microwavejournal.com/articles/46423-keysight-introduces-14-bit-low-profile-oscilloscope-for-high-channel-density-synchronized-test-systems",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 05 Nov 2026 08:47:05 -0500",
+    "lang": "en"
   },
   {
-    "title": "SiC-МОП-транзисторы SemiQ четвертого поколения с напряжением 1200 и 750 В",
-    "summary": "SemiQ представила МОП-транзисторы четвертого поколения на карбиде кремния с улучшенными характеристиками. Устройства предназначены для высокомощных приложений, включая зарядку элек...",
-    "link": "https://kit-e.ru/semiq-gen4/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 30 Oct 2026 03:43:12 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Коаксиальные разъемы с переключателем серии SWL от Murata — самые маленькие в мире",
-    "summary": "Murata выпустила самые маленькие в мире радиочастотные/микроволновые коаксиальные разъемы с переключателем серии SWL. Разъёмы сокращают занимаемую на печатной плате площадь на 40%,...",
-    "link": "https://kit-e.ru/murata-swl-connectors/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 30 Oct 2026 03:38:39 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Система пайки Vision RCC от Rehm Thermal Systems: сочетание трех технологий в одном решении",
-    "summary": "Rehm Thermal Systems выпустила систему пайки Vision RCC, которая объединяет конвекционный предварительный нагрев, конденсационную пайку и вакуумную обработку. Решение предназначено...",
-    "link": "https://kit-e.ru/vision-rcc/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 30 Oct 2026 03:38:32 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Типоразмер блокиратора: как подобрать устройство LOTO под конкретный узел",
-    "summary": "Блокировка оборудования по методике Lockout Tagout (LOTO) работает, только если устройство физически подходит к узлу. Блокиратор для крана DN50 не встанет на кран DN150, а кнопка д...",
-    "link": "https://kit-e.ru/loto/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 29 Oct 2026 12:06:53 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Как выбрать корпус для электронного устройства: основные критерии и материалы",
-    "summary": "Представьте, что электронная плата уже готова: разведена, протестирована, все компоненты на местах. Остаётся только найти ей дом — корпус. И тут часто выясняется неприятная вещь: г...",
-    "link": "https://kit-e.ru/kak-vybrat/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 29 Oct 2026 09:29:38 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Под капотом современных ИИ-сервисов: KV-кэш, батчинг, квантизация и серверное железо",
-    "summary": "Итак, вы отправляете запрос через сайт или приложение. В этот момент начинается его путь к подробному и, возможно, корректному ответу. По дороге запрос проходит через несколько сис...",
-    "link": "https://habr.com/ru/companies/selectel/articles/1099322/?utm_campaign=1099322&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 29 Oct 2026 08:00:43 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Куда пропадают 69 гигабайт с каждого терабайта и почему за это судились с производителями",
-    "summary": "В 2005 году юристы из Сан-Франциско подали в суд на Western Digital из-за 7 процентов, которые пропадают с каждого диска, и через год компания пошла на мировую. А похожий иск к App...",
-    "link": "https://habr.com/ru/articles/1100542/?utm_campaign=1100542&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 29 Oct 2026 04:51:24 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "[Перевод] Автоматизация моего процесса сканирования 35-миллиметровых плёнок",
-    "summary": "Я люблю фотографию. Есть что‑то волнующее в наблюдении за изображением через объектив, выстраивании кадра для получения композиции и работы над получившимся фото. Я менял зеркальны...",
-    "link": "https://habr.com/ru/articles/1090592/?utm_campaign=1090592&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Wed, 28 Oct 2026 12:23:17 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Лестница метража: почему ателье берут ткань от 3 метров, а фабрики заказывают от 300",
-    "summary": "Покупатель тканей на оптовом рынке редко выбирает между «дорого» и «дёшево». Чаще он выбирает ступень на лестнице метража: от нескольких метров на пробный пошив до сотен метров на...",
-    "link": "https://kit-e.ru/lestnitsa-metrazha/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Tue, 27 Oct 2026 10:28:29 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "MIKROE выпустила плату USB-C Sink 5 Click для питания по USB Power Delivery",
-    "summary": "Плата расширения USB-C Sink 5 Click от MIKROE позволяет встраиваемым системам получать и управлять питанием от источников с поддержкой USB-C Power Delivery. В основе — контроллер S...",
-    "link": "https://kit-e.ru/mikroe-usb-c-sink-5-click/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Sat, 24 Oct 2026 03:59:48 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Что такое SLA и что прописать в соглашении с поставщиком ИТ-услуг",
-    "summary": "SLA (Service Level Agreement, соглашение об уровне сервиса) — документ, в котором поставщик услуг и клиент договариваются, какие услуги оказываются и по каким измеримым показателям...",
-    "link": "https://kit-e.ru/sla/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 23 Oct 2026 11:29:41 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Как снять квартиру в Москве на длительный срок и проверить условия аренды",
-    "summary": "Как снять квартиру на длительный срок в Москве и не столкнуться с неприятными сюрпризами? В этом материале разберём, как рассчитать реальный бюджет с учётом всех платежей, выбрать...",
-    "link": "https://kit-e.ru/snyat-kvartiru-v-moskve/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 23 Oct 2026 11:08:15 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Опубликована деловая программа выставки-форума «Электроника России 2026»",
-    "summary": "Опубликована деловая программа выставки-форума «Электроника России 2026» 24-26 ноября 2026 в Москве пройдет 5-я Международная выставка-форум «Электроника России 2026». В рамках дел...",
-    "link": "https://elcomdesign.ru/uncategorized/opublikovana-delovaya-programma-vystavki-foruma-elektronika-rossii-2026/",
-    "source": "Электронные компоненты",
-    "pubDate": "Fri, 23 Oct 2026 10:23:37 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "DEKRON в промышленном строительстве: как совместить технические требования и бюджет проекта",
-    "summary": "DEKRON в промышленном строительстве: как совместить технические требования и бюджет проекта Строительство и оснащение промышленных, коммерческих и жилых объектов требует значительн...",
-    "link": "https://elcomdesign.ru/uncategorized/dekron-v-promyshlennom-stroitelstve-kak-sovmestit-tehnicheskie-trebovaniya-i-byudzhet-proekta/",
-    "source": "Электронные компоненты",
-    "pubDate": "Wed, 21 Oct 2026 14:17:39 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Разработка и исследование широкополосного усилителя мощности в диапазоне частот 2-32 ГГц на гетероструктурах нитрида галлия",
-    "summary": "Разработка и исследование широкополосного усилителя мощности в диапазоне частот 2-32 ГГц на гетероструктурах нитрида галлия Е.М. Хеглунд, И.Л. Хеглунд, Б.В. Калинин ООО «Микровейв...",
-    "link": "https://elcomdesign.ru/uncategorized/razrabotka-i-issledovanie-shirokopolosnogo-usilitelya-moshhnosti-v-diapazone-chastot-2-32-ggcz-na-geterostrukturah-nitrida-galliya/",
-    "source": "Электронные компоненты",
-    "pubDate": "Thu, 15 Oct 2026 19:19:58 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Фотонные технологии для технологического суверенитета",
-    "summary": "Фотонные технологии для технологического суверенитета 30 сентября на форуме «Микроэлектроника 2026» ГК «T8» организовала круглый стол «От фотонного компонента к системам: телеком,...",
-    "link": "https://elcomdesign.ru/uncategorized/fotonnye-tehnologii-dlya-tehnologicheskogo-suvereniteta-2/",
-    "source": "Электронные компоненты",
-    "pubDate": "Tue, 13 Oct 2026 16:33:14 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Представляем программу и докладчиков семинара «Снабжение производства электроники, управление закупками и товарно-материальными запасами» 16 октября 2026 в Москве.",
-    "summary": "Представляем программу и докладчиков семинара «Снабжение производства электроники, управление закупками и товарно-материальными запасами» 16 октября 2026 в Москве. АВТОРЫ И ДОКЛАДЧ...",
-    "link": "https://elcomdesign.ru/uncategorized/predstavlyaem-programmu-i-dokladchikov-seminara-snabzhenie-proizvodstva-elektroniki-upravlenie-zakupkami-i-tovarno-materialnymi-zapasami-16-oktyabrya-2026-v-moskve/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 12 Oct 2026 11:22:32 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Композитные силовые дроссели",
-    "summary": "Композитные силовые дроссели   Евгений Каретников Статья размещена в журнале «Электронные Компоненты» № 7-2026г.   В статье рассматриваются особенности силовых дросселей с композит...",
-    "link": "https://elcomdesign.ru/uncategorized/kompozitnye-silovye-drosseli/",
-    "source": "Электронные компоненты",
-    "pubDate": "Sat, 10 Oct 2026 14:31:13 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Приглашаем принять участие в конференции  “Испытание и тестирование изделий электронной техники”, которая состоится 22 октября 2026 года в Москве",
-    "summary": "Приглашаем принять участие в конференции  “Испытание и тестирование изделий электронной техники”, которая состоится 22 октября 2026 года в Москве   22 октября 2026 года, Москва, ко...",
-    "link": "https://elcomdesign.ru/uncategorized/priglashaem-prinyat-uchastie-v-konferenczii-ispytanie-i-testirovanie-izdelij-elektronnoj-tehniki-kotoraya-sostoitsya-22-oktyabrya-2026-goda-v-moskve/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 05 Oct 2026 14:33:14 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Ростех представил новое поколение матриц расширенного диапазона для «всевидящих» SWIR-камер",
-    "summary": "Ростех представил новое поколение матриц расширенного диапазона для «всевидящих» SWIR-камер На форуме «Микроэлектроника 2026» холдинг «Швабе» Госкорпорации Ростех представил новое...",
-    "link": "https://elcomdesign.ru/uncategorized/rosteh-predstavil-novoe-pokolenie-matricz-rasshirennogo-diapazona-dlya-vsevidyashhih-swir-kamer/",
-    "source": "Электронные компоненты",
-    "pubDate": "Mon, 05 Oct 2026 11:43:52 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "Измерение углов отсечки с использованием осциллографов Rigol серии DS70000 при наличии выраженных шумов и нелинейности. Часть 2",
-    "summary": "Измерение углов отсечки с использованием осциллографов Rigol серии DS70000 при наличии выраженных шумов и нелинейности. Часть 2   Николай Лемешко, д.т.н., гл. науч. сотр., АО «Корп...",
-    "link": "https://elcomdesign.ru/uncategorized/izmerenie-uglov-otsechki-s-ispolzovaniem-osczillografov-rigol-serii-ds70000-pri-nalichii-vyrazhennyh-shumov-i-nelinejnosti-chast-2/",
-    "source": "Электронные компоненты",
-    "pubDate": "Sat, 26 Sep 2026 15:49:15 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "ФИС для телекома и сенсоров",
-    "summary": "ФИС для телекома и сенсоров Группа компаний «T8» организует круглый стол «От фотонного компонента к системам: телеком, сенсоры» Цель мероприятия – определить точки технологической...",
-    "link": "https://elcomdesign.ru/uncategorized/fis-dlya-telekoma-i-sensorov/",
-    "source": "Электронные компоненты",
-    "pubDate": "Sat, 26 Sep 2026 12:12:03 +0000",
-    "lang": "ru"
+    "title": "ThinKom and Space Systems Command Successfully Demonstrate GECKO, a Scalable, Multi-Orbit Ground SATCOM System",
+    "summary": "ThinKom Solutions Inc. (ThinKom) and Systems Delta 88 (SYD 88), a unit of the U.S. Space Force’s Space Systems Command (SSC), successfully completed a live demonstration of the Gro...",
+    "link": "https://www.microwavejournal.com/articles/46422-thinkom-and-space-systems-command-successfully-demonstrate-gecko-a-scalable-multi-orbit-ground-satcom-system",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 05 Nov 2026 08:24:47 -0500",
+    "lang": "en"
   }
 ]
