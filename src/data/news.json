@@ -1,106 +1,186 @@
 [
   {
-    "title": "Как я отремонтировал 32-х летний ноутбук с кафедры университета и для чего он мне нужен в 2026'ом",
-    "summary": "Осторожно: В этой статье всё как вы и любите - разбор схемотехники и компонентной базы, диагностика устройства вообще без схемы, тестирование софта и бенчмарки - в общем, техногика...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1104764/?utm_campaign=1104764&utm_source=habrahabr&utm_medium=rss",
+    "title": "Сравнение DC/DC от Texas Instruments с её китайским аналогом",
+    "summary": "Почти в каждом устройстве есть напряжение, которое мы зовём входным, и напряжение, которое на самом деле нужно потребителям на плате. Будь то микроконтроллер или какой-то датчик. Ч...",
+    "link": "https://habr.com/ru/articles/1107922/?utm_campaign=1107922&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 07 Nov 2026 14:05:30 GMT",
+    "pubDate": "Sat, 14 Nov 2026 19:10:23 GMT",
     "lang": "ru"
   },
   {
-    "title": "Как я отремонтировал 32-х летний ноутбук с кафедры университета и для чего он мне нужен в 2026'ом",
-    "summary": "Осторожно: В этой статье всё как вы и любите - разбор схемотехники и компонентной базы, диагностика устройства вообще без схемы, тестирование софта и бенчмарки - в общем, техногика...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1104764/?utm_campaign=1104764&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 07 Nov 2026 14:05:30 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "От поиска коллизий к когнитивному инференсу: Топологический логический слой архитектуры ZAP v4.0",
-    "summary": "В прошлой статье мы выкатили концепт ZAP (Zero-Annihilation Processor) и рассказали, как приспособить существующие ASIC-майнеры под роль аппаратных ускорителей для поиска пространс...",
-    "link": "https://habr.com/ru/articles/1104772/?utm_campaign=1104772&utm_source=habrahabr&utm_medium=rss",
+    "title": "АСУТП лиофилизационной установки",
+    "summary": "Всем привет. Меня зовут Андрей, занимаюсь разработкой электроники и микропроцессорных устройств с 2005 года. Сегодня поделюсь историей разработки одного очень интересного проекта....",
+    "link": "https://habr.com/ru/articles/1107730/?utm_campaign=1107730&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 06 Nov 2026 22:01:37 GMT",
+    "pubDate": "Sat, 14 Nov 2026 17:56:33 GMT",
     "lang": "ru"
   },
   {
-    "title": "Что умеет «486SX на максималках»? Запускаем промышленный мини‑ПК из двухтысячных",
-    "summary": "Приветствую всех!\nСейчас уже мало кого удивишь миниатюрными и одноплатными компьютерами. Но всё же иногда среди них находятся крайне примечательные артефакты. Например, eBox-2300SX...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1096982/?utm_campaign=1096982&utm_source=habrahabr&utm_medium=rss",
+    "title": "Разработчик представил открытую USB‑плату с 3D‑лидаром для роботов и гаджетов",
+    "summary": "Разработчик под никнеймом RemiFM представил проект USB‑LiDAR‑VL53L9 — это компактная плата с лидаром и шестиосевым инерциальным датчиком. Устройство размером 34 × 30 мм подключаетс...",
+    "link": "https://habr.com/ru/articles/1107902/?utm_campaign=1107902&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 14 Nov 2026 16:52:54 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Устройства, которые мы потеряли: по настоящему карманный ноутбук HP Jornada 720",
+    "summary": "В наше время смартфон стал основным и самым часто используемым компьютером. Шестидюймовый гаджет за 20.000 рублей способен запустить полноценную Windows, эмулировать игровые консол...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1107670/?utm_campaign=1107670&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Fri, 06 Nov 2026 08:05:54 GMT",
+    "pubDate": "Sat, 14 Nov 2026 14:05:44 GMT",
     "lang": "ru"
   },
   {
-    "title": "Что умеет «486SX на максималках»? Запускаем промышленный мини‑ПК из двухтысячных",
-    "summary": "Приветствую всех!\nСейчас уже мало кого удивишь миниатюрными и одноплатными компьютерами. Но всё же иногда среди них находятся крайне примечательные артефакты. Например, eBox-2300SX...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1096982/?utm_campaign=1096982&utm_source=habrahabr&utm_medium=rss",
+    "title": "Устройства, которые мы потеряли: по настоящему карманный ноутбук HP Jornada 720",
+    "summary": "В наше время смартфон стал основным и самым часто используемым компьютером. Шестидюймовый гаджет за 20.000 рублей способен запустить полноценную Windows, эмулировать игровые консол...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1107670/?utm_campaign=1107670&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 06 Nov 2026 08:05:54 GMT",
+    "pubDate": "Sat, 14 Nov 2026 14:05:44 GMT",
     "lang": "ru"
   },
   {
-    "title": "Как я завёл Radeon R7 240 на Windows Server 2022",
-    "summary": "Перенёс Windows Server 2022 на свой компьютер с Radeon R7 240. То чёрный экран, то только 1280×1024. В итоге подошёл драйвер 2019 года из старой Windows 11. После установки получил...",
-    "link": "https://habr.com/ru/articles/1104302/?utm_campaign=1104302&utm_source=habrahabr&utm_medium=rss",
+    "title": "[Перевод] TROS: как мейнфреймы IBM хранили микрокод в трансформаторах",
+    "summary": "В 1960-х годах инженерам IBM пришлось решать непростую задачу: где хранить микрокод процессора, если полупроводниковых микросхем ПЗУ ещё не существовало? Одним из решений стала TRO...",
+    "link": "https://habr.com/ru/companies/otus/articles/1104710/?utm_campaign=1104710&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Fri, 06 Nov 2026 07:34:53 GMT",
+    "pubDate": "Sat, 14 Nov 2026 13:12:41 GMT",
     "lang": "ru"
   },
   {
-    "title": "Force Effect Launches PARALLAX: Realistic GNSS Jamming and Spoofing Training Without Transmitting Over-the-Air",
+    "title": "Сверло, скрепка и пинцет. Как прошивали консоли до того, как это стали делать нейросети",
+    "summary": "Мы живем в абсолютно безумное время. Вдумайтесь: продукт одной корпорации взламывают с помощью инструментов другой корпорации, и последняя на этом еще и зарабатывает, так как токен...",
+    "link": "https://habr.com/ru/companies/timeweb/articles/1106410/?utm_campaign=1106410&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 14 Nov 2026 10:05:25 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "TrueRMS. Ловушка, в которую попадают даже опытные радиотехники, или как намерить 200% КПД исправным прибором",
+    "summary": "Все началось с того, что я сам попал в эту ловушку. Я собрал преобразователь напряжения 12/220 В, который должен был запитать активную нагрузку через ШИМ-регулятор мощности, и реши...",
+    "link": "https://habr.com/ru/articles/1107764/?utm_campaign=1107764&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Sat, 14 Nov 2026 06:34:07 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Frequency Matters, Nov. 13 | Special Focus: NewSpace",
     "summary": "...",
-    "link": "https://www.microwavejournal.com/articles/46420-force-effect-launches-parallax-realistic-gnss-jamming-and-spoofing-training-without-transmitting-over-the-air",
+    "link": "https://www.microwavejournal.com/articles/46453-frequency-matters-nov-13-special-focus-newspace",
     "source": "Microwave Journal",
-    "pubDate": "Fri, 06 Nov 2026 02:13:48 -0500",
+    "pubDate": "Fri, 13 Nov 2026 10:30:16 -0500",
     "lang": "en"
   },
   {
-    "title": "[Перевод] Экран для старой кассы стоил около $300, и я вывел картинку на VGA через Raspberry Pi Pico",
-    "summary": "У кассы Samsung SPS-1000 сломался монохромный STN-дисплей, а такой же на eBay стоил около 300 долларов. Тогда автор измерил сигналы контроллера SED1351 осциллографом, снял четырёхб...",
-    "link": "https://habr.com/ru/articles/1104238/?utm_campaign=1104238&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Fri, 06 Nov 2026 04:10:21 GMT",
+    "title": "Пять трендов российской электроники: от импортозамещения к собственным технологиям",
+    "summary": "Российская электронная промышленность постепенно переходит от замещения отдельных зарубежных устройств к формированию собственных производственных цепочек. Меняется компонентная ба...",
+    "link": "https://kit-e.ru/pyat-trendov/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 13 Nov 2026 12:14:32 +0000",
     "lang": "ru"
   },
   {
-    "title": "pSemi Expands UltraCMOS+™ Portfolio with PE423213 Wideband RF Switch",
-    "summary": "pSemi® Corporation, a Murata company, announced the PE423213, a HaRP™ technology-enhanced reflective single-pole double-throw (SPDT) RF switch operating from 0.3 to 10.6 GHz....",
-    "link": "https://www.microwavejournal.com/articles/46425-psemi-expands-ultracmos-portfolio-with-pe423213-wideband-rf-switch",
+    "title": "NewSpace Special Focus 2026",
+    "summary": "As satellite networks evolve to support higher data rates, multi-orbit connectivity, and emerging non-terrestrial network (NTN) applications, RF and microwave technologies are play...",
+    "link": "https://www.microwavejournal.com/articles/46454-newspace-special-focus-2026",
     "source": "Microwave Journal",
-    "pubDate": "Thu, 05 Nov 2026 11:07:55 -0500",
+    "pubDate": "Thu, 12 Nov 2026 16:12:00 -0500",
     "lang": "en"
   },
   {
-    "title": "Нубский анбоксинг ZX Spectrum Next Issue 5 (KS3)",
-    "summary": "Получил сегодня ZX Spectrum Next Issue 3 (чёрный, с ускорителем). \"Issue 3\" - значит третья кампания на кикстартере. Сама кампания здесь. Хотели собрать 250 килофунтов, а собрали 2...",
-    "link": "https://habr.com/ru/articles/1104118/?utm_campaign=1104118&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Thu, 05 Nov 2026 15:40:00 GMT",
+    "title": "Atomera Has Signed a Joint Development Agreement with IQE to Bring High Performance, Cost-Effective RF GaN-on-Silicon to Volume Markets",
+    "summary": "Atomera, a semiconductor transistor materials and technology licensing company, announced it has entered into a Joint Development Agreement (JDA) with IQE plc to bring high perform...",
+    "link": "https://www.microwavejournal.com/articles/46452-atomera-has-signed-a-joint-development-agreement-with-iqe-to-bring-high-performance-cost-effective-rf-gan-on-silicon-to-volume-markets",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 12 Nov 2026 11:01:28 -0500",
+    "lang": "en"
+  },
+  {
+    "title": "Rohde & Schwarz and Connektica Showcase Automated RF Test Systems for Satellite Payloads and Radar at Space Tech Expo",
+    "summary": "Rohde & Schwarz and Connektica will present a joint demonstrator for automated test systems covering passive and active RF components, such as LNAs, and satellite payloads at Space...",
+    "link": "https://www.microwavejournal.com/articles/46451-rohde-and-schwarz-and-connektica-showcase-automated-rf-test-systems-for-satellite-payloads-and-radar-at-space-tech-expo",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 12 Nov 2026 09:52:05 -0500",
+    "lang": "en"
+  },
+  {
+    "title": "Advanced Test Equipment Corporation Expands Oscilloscope Rental Fleet With 20+ GHz Models",
+    "summary": "Advanced Test Equipment Corporation announces that its oscilloscope rental inventory now includes multiple models with 20+ GHz bandwidth....",
+    "link": "https://www.microwavejournal.com/articles/46450-advanced-test-equipment-corporation-expands-oscilloscope-rental-fleet-with-20-ghz-models",
+    "source": "Microwave Journal",
+    "pubDate": "Thu, 12 Nov 2026 08:32:02 -0500",
+    "lang": "en"
+  },
+  {
+    "title": "Нейтраль 240 мм²: зачем четвёртой жиле то же сечение, что и у фазных",
+    "summary": "В четырёхжильных силовых кабелях нулевая жила нередко делается меньше фазных. При симметричной нагрузке ток в ней близок к нулю, и лишний металл только удорожает линию. Но в офисах...",
+    "link": "https://kit-e.ru/nejtral-240-mm/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Wed, 11 Nov 2026 18:03:26 +0000",
     "lang": "ru"
   },
   {
-    "title": "Minimize Magnetic Interference with Non-Magnetic MCX Connectors",
-    "summary": "Amphenol RF is pleased to introduce a non-magnetic MCX end-launch jack designed for RF systems where interaction with surrounding magnetic fields and magnetic interference are crit...",
-    "link": "https://www.microwavejournal.com/articles/46424-minimize-magnetic-interference-with-non-magnetic-mcx-connectors",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 05 Nov 2026 10:31:39 -0500",
-    "lang": "en"
+    "title": "Как заводу привезти электронные компоненты из Китая с документами",
+    "summary": "Заводу нужна не просто коробка от китайского поставщика, а партия электронных компонентов, которую можно принять на склад, поставить на производственный учёт и использовать в соста...",
+    "link": "https://kit-e.ru/kak-zavodu-privezti/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Wed, 11 Nov 2026 14:27:06 +0000",
+    "lang": "ru"
   },
   {
-    "title": "Keysight Introduces 14-Bit Low-Profile Oscilloscope for High-Channel Density, Synchronized Test Systems",
-    "summary": "Keysight Technologies, Inc. (NYSE: KEYS) introduces the XR3, a low-profile 14-bit oscilloscope designed to increase measurement capacity in rack-based test systems....",
-    "link": "https://www.microwavejournal.com/articles/46423-keysight-introduces-14-bit-low-profile-oscilloscope-for-high-channel-density-synchronized-test-systems",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 05 Nov 2026 08:47:05 -0500",
-    "lang": "en"
+    "title": "Микросветодиоды WICOP 3 без редкоземельных материалов от Seoul Viosys",
+    "summary": "Seoul Viosys запустила массовое производство микросветодиодов WICOP 3, которые не используют редкоземельные материалы и могут быть меньше 100 мкм.\nThe post Микросветодиоды WICOP 3...",
+    "link": "https://kit-e.ru/seoul-viosys-wicop-3-microled/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 30 Oct 2026 06:46:59 +0000",
+    "lang": "ru"
   },
   {
-    "title": "ThinKom and Space Systems Command Successfully Demonstrate GECKO, a Scalable, Multi-Orbit Ground SATCOM System",
-    "summary": "ThinKom Solutions Inc. (ThinKom) and Systems Delta 88 (SYD 88), a unit of the U.S. Space Force’s Space Systems Command (SSC), successfully completed a live demonstration of the Gro...",
-    "link": "https://www.microwavejournal.com/articles/46422-thinkom-and-space-systems-command-successfully-demonstrate-gecko-a-scalable-multi-orbit-ground-satcom-system",
-    "source": "Microwave Journal",
-    "pubDate": "Thu, 05 Nov 2026 08:24:47 -0500",
-    "lang": "en"
+    "title": "SiC-МОП-транзисторы SemiQ четвертого поколения с напряжением 1200 и 750 В",
+    "summary": "SemiQ представила МОП-транзисторы четвертого поколения на карбиде кремния с улучшенными характеристиками. Устройства предназначены для высокомощных приложений, включая зарядку элек...",
+    "link": "https://kit-e.ru/semiq-gen4/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 30 Oct 2026 03:43:12 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Коаксиальные разъемы с переключателем серии SWL от Murata — самые маленькие в мире",
+    "summary": "Murata выпустила самые маленькие в мире радиочастотные/микроволновые коаксиальные разъемы с переключателем серии SWL. Разъёмы сокращают занимаемую на печатной плате площадь на 40%,...",
+    "link": "https://kit-e.ru/murata-swl-connectors/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 30 Oct 2026 03:38:39 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Система пайки Vision RCC от Rehm Thermal Systems: сочетание трех технологий в одном решении",
+    "summary": "Rehm Thermal Systems выпустила систему пайки Vision RCC, которая объединяет конвекционный предварительный нагрев, конденсационную пайку и вакуумную обработку. Решение предназначено...",
+    "link": "https://kit-e.ru/vision-rcc/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Fri, 30 Oct 2026 03:38:32 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Типоразмер блокиратора: как подобрать устройство LOTO под конкретный узел",
+    "summary": "Блокировка оборудования по методике Lockout Tagout (LOTO) работает, только если устройство физически подходит к узлу. Блокиратор для крана DN50 не встанет на кран DN150, а кнопка д...",
+    "link": "https://kit-e.ru/loto/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 29 Oct 2026 12:06:53 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Как выбрать корпус для электронного устройства: основные критерии и материалы",
+    "summary": "Представьте, что электронная плата уже готова: разведена, протестирована, все компоненты на местах. Остаётся только найти ей дом — корпус. И тут часто выясняется неприятная вещь: г...",
+    "link": "https://kit-e.ru/kak-vybrat/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 29 Oct 2026 09:29:38 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Лестница метража: почему ателье берут ткань от 3 метров, а фабрики заказывают от 300",
+    "summary": "Покупатель тканей на оптовом рынке редко выбирает между «дорого» и «дёшево». Чаще он выбирает ступень на лестнице метража: от нескольких метров на пробный пошив до сотен метров на...",
+    "link": "https://kit-e.ru/lestnitsa-metrazha/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Tue, 27 Oct 2026 10:28:29 +0000",
+    "lang": "ru"
   }
 ]
