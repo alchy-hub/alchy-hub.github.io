@@ -1,186 +1,186 @@
 [
   {
-    "title": "Сравнение DC/DC от Texas Instruments с её китайским аналогом",
-    "summary": "Почти в каждом устройстве есть напряжение, которое мы зовём входным, и напряжение, которое на самом деле нужно потребителям на плате. Будь то микроконтроллер или какой-то датчик. Ч...",
-    "link": "https://habr.com/ru/articles/1107922/?utm_campaign=1107922&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Sat, 14 Nov 2026 19:10:23 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "АСУТП лиофилизационной установки",
-    "summary": "Всем привет. Меня зовут Андрей, занимаюсь разработкой электроники и микропроцессорных устройств с 2005 года. Сегодня поделюсь историей разработки одного очень интересного проекта....",
-    "link": "https://habr.com/ru/articles/1107730/?utm_campaign=1107730&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Схемотехника",
-    "pubDate": "Sat, 14 Nov 2026 17:56:33 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Разработчик представил открытую USB‑плату с 3D‑лидаром для роботов и гаджетов",
-    "summary": "Разработчик под никнеймом RemiFM представил проект USB‑LiDAR‑VL53L9 — это компактная плата с лидаром и шестиосевым инерциальным датчиком. Устройство размером 34 × 30 мм подключаетс...",
-    "link": "https://habr.com/ru/articles/1107902/?utm_campaign=1107902&utm_source=habrahabr&utm_medium=rss",
+    "title": "Как Nvidia и Toshiba кинули всех: разыскивается O2 Xda Flame для хардкорного моддерского проекта",
+    "summary": "Многие Хабровчане знают меня как хардкорного реверсера, любителя 3д демок на экзотических ГПУ и фаната впихнуть невпихуемое. И мне нужен девайс для одного очень хардкорного проекта...",
+    "link": "https://habr.com/ru/articles/1110788/?utm_campaign=1110788&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Железо",
-    "pubDate": "Sat, 14 Nov 2026 16:52:54 GMT",
+    "pubDate": "Sun, 22 Nov 2026 02:23:48 GMT",
     "lang": "ru"
   },
   {
-    "title": "Устройства, которые мы потеряли: по настоящему карманный ноутбук HP Jornada 720",
-    "summary": "В наше время смартфон стал основным и самым часто используемым компьютером. Шестидюймовый гаджет за 20.000 рублей способен запустить полноценную Windows, эмулировать игровые консол...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1107670/?utm_campaign=1107670&utm_source=habrahabr&utm_medium=rss",
+    "title": "Обзор дисплея ILI9341",
+    "summary": "В тексте я написал про особенности работы с микросхемой графического цветного экрана ILI9341: подключение ILI9341 к микроконтроллеру, написание драйвера, зажигание пикселей в разны...",
+    "link": "https://habr.com/ru/articles/1101948/?utm_campaign=1101948&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 14 Nov 2026 14:05:44 GMT",
+    "pubDate": "Sun, 22 Nov 2026 00:02:24 GMT",
     "lang": "ru"
   },
   {
-    "title": "Устройства, которые мы потеряли: по настоящему карманный ноутбук HP Jornada 720",
-    "summary": "В наше время смартфон стал основным и самым часто используемым компьютером. Шестидюймовый гаджет за 20.000 рублей способен запустить полноценную Windows, эмулировать игровые консол...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1107670/?utm_campaign=1107670&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 14 Nov 2026 14:05:44 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "[Перевод] TROS: как мейнфреймы IBM хранили микрокод в трансформаторах",
-    "summary": "В 1960-х годах инженерам IBM пришлось решать непростую задачу: где хранить микрокод процессора, если полупроводниковых микросхем ПЗУ ещё не существовало? Одним из решений стала TRO...",
-    "link": "https://habr.com/ru/companies/otus/articles/1104710/?utm_campaign=1104710&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 14 Nov 2026 13:12:41 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "Сверло, скрепка и пинцет. Как прошивали консоли до того, как это стали делать нейросети",
-    "summary": "Мы живем в абсолютно безумное время. Вдумайтесь: продукт одной корпорации взламывают с помощью инструментов другой корпорации, и последняя на этом еще и зарабатывает, так как токен...",
-    "link": "https://habr.com/ru/companies/timeweb/articles/1106410/?utm_campaign=1106410&utm_source=habrahabr&utm_medium=rss",
-    "source": "Habr Железо",
-    "pubDate": "Sat, 14 Nov 2026 10:05:25 GMT",
-    "lang": "ru"
-  },
-  {
-    "title": "TrueRMS. Ловушка, в которую попадают даже опытные радиотехники, или как намерить 200% КПД исправным прибором",
-    "summary": "Все началось с того, что я сам попал в эту ловушку. Я собрал преобразователь напряжения 12/220 В, который должен был запитать активную нагрузку через ШИМ-регулятор мощности, и реши...",
-    "link": "https://habr.com/ru/articles/1107764/?utm_campaign=1107764&utm_source=habrahabr&utm_medium=rss",
+    "title": "СССР и микроэлектроника: анатомия отставания. Часть образовательная",
+    "summary": "Когда говорят о советском отставании в микроэлектронике, обычно начинают с конца — с транзисторов, интегральных схем, копирования западных процессоров. Но корни любой технологическ...",
+    "link": "https://habr.com/ru/articles/1110768/?utm_campaign=1110768&utm_source=habrahabr&utm_medium=rss",
     "source": "Habr Схемотехника",
-    "pubDate": "Sat, 14 Nov 2026 06:34:07 GMT",
+    "pubDate": "Sat, 21 Nov 2026 21:06:50 GMT",
     "lang": "ru"
   },
   {
-    "title": "Frequency Matters, Nov. 13 | Special Focus: NewSpace",
-    "summary": "...",
-    "link": "https://www.microwavejournal.com/articles/46453-frequency-matters-nov-13-special-focus-newspace",
+    "title": "Seagate выпустила гибридный накопитель FireCuda Forge на 8 и 20 ТБ с поддержкой NVMe SSD",
+    "summary": "Seagate выпустила FireCuda Forge — внешний накопитель, в котором большой жесткий диск работает вместе с быстрым NVMe SSD. Модель доступна в версиях на 8 и 20 ТБ и подключается к ко...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1110376/?utm_campaign=1110376&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 21 Nov 2026 12:01:05 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "JEDEC анонсировали первые параметры DDR6: чем она отличается от DDR5 и где это будет заметно",
+    "summary": "18 ноября JEDEC рассказала, какой будет DDR6. В первую очередь DDR6 рассчитана на дата-центры, облака и ИИ, но в планах есть и клиентские ПК. Стандарт еще в разработке, и организац...",
+    "link": "https://habr.com/ru/companies/selectel/articles/1110070/?utm_campaign=1110070&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Sat, 21 Nov 2026 10:00:55 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "Как подключить динамический микрофон к радиолюбительскому трансиверу",
+    "summary": "Подарил мне руководитель коллективной радиостанции микрофон. Микрофон был интересен и поэтому решил его подключить к своему трансиверу, чтобы проверить в эфире. Как я это сделал оп...",
+    "link": "https://habr.com/ru/articles/1104992/?utm_campaign=1104992&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Sat, 21 Nov 2026 07:00:42 GMT",
+    "lang": "ru"
+  },
+  {
+    "title": "ATEK MIDAS and ATEK America to Showcase 17 New MMIC Products at AOC 2026",
+    "summary": "ATEK MIDAS together with its North American partner ATEK America, will showcase its latest RF and microwave technologies at the AOC 2026 International Symposium & Convention, takin...",
+    "link": "https://www.microwavejournal.com/articles/46476-atek-midas-and-atek-america-to-showcase-17-new-mmic-products-at-aoc-2026",
     "source": "Microwave Journal",
-    "pubDate": "Fri, 13 Nov 2026 10:30:16 -0500",
+    "pubDate": "Fri, 20 Nov 2026 14:57:02 -0500",
     "lang": "en"
   },
   {
-    "title": "Пять трендов российской электроники: от импортозамещения к собственным технологиям",
-    "summary": "Российская электронная промышленность постепенно переходит от замещения отдельных зарубежных устройств к формированию собственных производственных цепочек. Меняется компонентная ба...",
-    "link": "https://kit-e.ru/pyat-trendov/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 13 Nov 2026 12:14:32 +0000",
-    "lang": "ru"
-  },
-  {
-    "title": "NewSpace Special Focus 2026",
-    "summary": "As satellite networks evolve to support higher data rates, multi-orbit connectivity, and emerging non-terrestrial network (NTN) applications, RF and microwave technologies are play...",
-    "link": "https://www.microwavejournal.com/articles/46454-newspace-special-focus-2026",
+    "title": "Rohde & Schwarz at AOC 2026: End-to-End Electromagnetic Spectrum Solutions “From First Signal to Final Mission”",
+    "summary": "Rohde & Schwarz will showcase its end-to-end electromagnetic spectrum portfolio, from first signal to final mission, at AOC 2026 in booth #423 at the Gaylord National Harbor, Decem...",
+    "link": "https://www.microwavejournal.com/articles/46475-rohde-and-schwarz-at-aoc-2026-end-to-end-electromagnetic-spectrum-solutions-from-first-signal-to-final-mission",
     "source": "Microwave Journal",
-    "pubDate": "Thu, 12 Nov 2026 16:12:00 -0500",
+    "pubDate": "Fri, 20 Nov 2026 14:04:55 -0500",
     "lang": "en"
   },
   {
-    "title": "Atomera Has Signed a Joint Development Agreement with IQE to Bring High Performance, Cost-Effective RF GaN-on-Silicon to Volume Markets",
-    "summary": "Atomera, a semiconductor transistor materials and technology licensing company, announced it has entered into a Joint Development Agreement (JDA) with IQE plc to bring high perform...",
-    "link": "https://www.microwavejournal.com/articles/46452-atomera-has-signed-a-joint-development-agreement-with-iqe-to-bring-high-performance-cost-effective-rf-gan-on-silicon-to-volume-markets",
+    "title": "Modelithics Announces Latest Library Release for MATLAB, Growing Coverage to More Than 30,000 Components",
+    "summary": "Modelithics® is pleased to announce the latest release of the Modelithics Library for MATLAB® v26.6, further expanding the industry's most comprehensive collection of high-fidelity...",
+    "link": "https://www.microwavejournal.com/articles/46474-modelithics-announces-latest-library-release-for-matlab-growing-coverage-to-more-than-30-000-components",
     "source": "Microwave Journal",
-    "pubDate": "Thu, 12 Nov 2026 11:01:28 -0500",
+    "pubDate": "Fri, 20 Nov 2026 13:17:55 -0500",
     "lang": "en"
   },
   {
-    "title": "Rohde & Schwarz and Connektica Showcase Automated RF Test Systems for Satellite Payloads and Radar at Space Tech Expo",
-    "summary": "Rohde & Schwarz and Connektica will present a joint demonstrator for automated test systems covering passive and active RF components, such as LNAs, and satellite payloads at Space...",
-    "link": "https://www.microwavejournal.com/articles/46451-rohde-and-schwarz-and-connektica-showcase-automated-rf-test-systems-for-satellite-payloads-and-radar-at-space-tech-expo",
+    "title": "Compact, Versatile and Rugged 2KW L&S Band Jamming SSPA Gets Major Upgrade",
+    "summary": "Built for demanding missions, Empower RF’s 2180 delivers 2 kW CW power across 1–2.5 GHz with flexible CW and pulse operation....",
+    "link": "https://www.microwavejournal.com/articles/46473-compact-versatile-and-rugged-2kw-l-and-s-band-jamming-sspa-gets-major-upgrade",
     "source": "Microwave Journal",
-    "pubDate": "Thu, 12 Nov 2026 09:52:05 -0500",
+    "pubDate": "Fri, 20 Nov 2026 11:56:49 -0500",
     "lang": "en"
   },
   {
-    "title": "Advanced Test Equipment Corporation Expands Oscilloscope Rental Fleet With 20+ GHz Models",
-    "summary": "Advanced Test Equipment Corporation announces that its oscilloscope rental inventory now includes multiple models with 20+ GHz bandwidth....",
-    "link": "https://www.microwavejournal.com/articles/46450-advanced-test-equipment-corporation-expands-oscilloscope-rental-fleet-with-20-ghz-models",
+    "title": "ConductRF Achieves AS9100 Aerospace Manufacturing Certification",
+    "summary": "Electronic Assemblies MFG, Inc. (EAM), the U.S.-based corporation behind the ConductRF brand, announced that it has officially achieved AS9100:2016 aerospace quality management cer...",
+    "link": "https://www.microwavejournal.com/articles/46472-conductrf-achieves-as9100-aerospace-manufacturing-certificatio",
     "source": "Microwave Journal",
-    "pubDate": "Thu, 12 Nov 2026 08:32:02 -0500",
+    "pubDate": "Fri, 20 Nov 2026 11:31:46 -0500",
     "lang": "en"
   },
   {
-    "title": "Нейтраль 240 мм²: зачем четвёртой жиле то же сечение, что и у фазных",
-    "summary": "В четырёхжильных силовых кабелях нулевая жила нередко делается меньше фазных. При симметричной нагрузке ток в ней близок к нулю, и лишний металл только удорожает линию. Но в офисах...",
-    "link": "https://kit-e.ru/nejtral-240-mm/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 11 Nov 2026 18:03:26 +0000",
+    "title": "Энергопотребление ИИ-дата-центра: все сложнее, чем с промышленностью",
+    "summary": "Дата-центр с ИИ — крупный и сложный потребитель электроэнергии. Но управлять его энергопотреблением так же, как на сталелитейном заводе, не выйдет. Там схема понятная: нужно высвоб...",
+    "link": "https://habr.com/ru/companies/ru_mts/articles/1089778/?utm_campaign=1089778&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Железо",
+    "pubDate": "Fri, 20 Nov 2026 14:14:09 GMT",
     "lang": "ru"
   },
   {
-    "title": "Как заводу привезти электронные компоненты из Китая с документами",
-    "summary": "Заводу нужна не просто коробка от китайского поставщика, а партия электронных компонентов, которую можно принять на склад, поставить на производственный учёт и использовать в соста...",
-    "link": "https://kit-e.ru/kak-zavodu-privezti/",
+    "title": "Осциллограф XR3 от Keysight: компактный 14-битный прибор для высокоплотных синхронизированных тестовых систем",
+    "summary": "Keysight выпустила осциллограф XR3 — компактное устройство для увеличения измерительных возможностей в стоечных системах. Прибор сочетает высокую производительность с малым занимае...",
+    "link": "https://kit-e.ru/keysight-xr3-oscilloscope/",
     "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Wed, 11 Nov 2026 14:27:06 +0000",
+    "pubDate": "Fri, 20 Nov 2026 10:52:55 +0000",
     "lang": "ru"
   },
   {
-    "title": "Микросветодиоды WICOP 3 без редкоземельных материалов от Seoul Viosys",
-    "summary": "Seoul Viosys запустила массовое производство микросветодиодов WICOP 3, которые не используют редкоземельные материалы и могут быть меньше 100 мкм.\nThe post Микросветодиоды WICOP 3...",
-    "link": "https://kit-e.ru/seoul-viosys-wicop-3-microled/",
+    "title": "Вебинар «Планирование и перепланирование производства за минуты: ИИ-помощники в ТУРБО ERP»",
+    "summary": "Приглашаем вас на вебинар, где покажем, как планировать производство и быстро перестраивать план в ТУРБО ERP с помощью ИИ-помощников. Разберём планирование в контуре дискретно-непр...",
+    "link": "https://kit-e.ru/turbo-erp/",
     "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 30 Oct 2026 06:46:59 +0000",
+    "pubDate": "Fri, 20 Nov 2026 10:14:47 +0000",
     "lang": "ru"
   },
   {
-    "title": "SiC-МОП-транзисторы SemiQ четвертого поколения с напряжением 1200 и 750 В",
-    "summary": "SemiQ представила МОП-транзисторы четвертого поколения на карбиде кремния с улучшенными характеристиками. Устройства предназначены для высокомощных приложений, включая зарядку элек...",
-    "link": "https://kit-e.ru/semiq-gen4/",
-    "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 30 Oct 2026 03:43:12 +0000",
+    "title": "Сборка успевает, прошивка — нет. Где застревает готовая партия",
+    "summary": "На сборке закончили очередную группу плат. На участке прошивки всё ещё занято. Оператор уже подключил плату, выбрал выпуск программы и нажал «Старт». Пока программатор стирает памя...",
+    "link": "https://habr.com/ru/articles/1110284/?utm_campaign=1110284&utm_source=habrahabr&utm_medium=rss",
+    "source": "Habr Схемотехника",
+    "pubDate": "Fri, 20 Nov 2026 10:10:43 GMT",
     "lang": "ru"
   },
   {
-    "title": "Коаксиальные разъемы с переключателем серии SWL от Murata — самые маленькие в мире",
-    "summary": "Murata выпустила самые маленькие в мире радиочастотные/микроволновые коаксиальные разъемы с переключателем серии SWL. Разъёмы сокращают занимаемую на печатной плате площадь на 40%,...",
-    "link": "https://kit-e.ru/murata-swl-connectors/",
+    "title": "ЭКБ, «русские роботы» и электромобиль «Атом»: в преддверии открытия выставки-форума «Электроника России – 2026»",
+    "summary": "С 24 по 26 ноября 2026 года в Москве, в МВЦ «Крокус Экспо» (павильон 2, зал 11), пройдет 5-я Международная выставка-форум «Электроника России». Это ключевое отраслевое мероприятие...",
+    "link": "https://kit-e.ru/elektronika-rossii-2026/",
     "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 30 Oct 2026 03:38:39 +0000",
+    "pubDate": "Fri, 20 Nov 2026 07:42:34 +0000",
     "lang": "ru"
   },
   {
-    "title": "Система пайки Vision RCC от Rehm Thermal Systems: сочетание трех технологий в одном решении",
-    "summary": "Rehm Thermal Systems выпустила систему пайки Vision RCC, которая объединяет конвекционный предварительный нагрев, конденсационную пайку и вакуумную обработку. Решение предназначено...",
-    "link": "https://kit-e.ru/vision-rcc/",
+    "title": "Рабочая ячейка для депанелизации печатных плат TTR-400 от PROMATION",
+    "summary": "PROMATION выпустила рабочую ячейку TTR-400 для депанелизации печатных плат. Устройство поддерживает панели размером до 400 мм x 400 мм и оснащено рядом функций для упрощения процес...",
+    "link": "https://kit-e.ru/promation-ttr-400-depaneling/",
     "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Fri, 30 Oct 2026 03:38:32 +0000",
+    "pubDate": "Fri, 20 Nov 2026 03:50:25 +0000",
     "lang": "ru"
   },
   {
-    "title": "Типоразмер блокиратора: как подобрать устройство LOTO под конкретный узел",
-    "summary": "Блокировка оборудования по методике Lockout Tagout (LOTO) работает, только если устройство физически подходит к узлу. Блокиратор для крана DN50 не встанет на кран DN150, а кнопка д...",
-    "link": "https://kit-e.ru/loto/",
+    "title": "Водонепроницаемые версии разъемов ix Industrial от Hirose",
+    "summary": "Hirose представила водонепроницаемые версии разъемов ix Industrial с рейтингом IP65/67. Они совместимы с существующими вариантами и обеспечивают передачу данных со скоростью до 10...",
+    "link": "https://kit-e.ru/hirose-ix-industrial-waterproof/",
     "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 29 Oct 2026 12:06:53 +0000",
+    "pubDate": "Fri, 20 Nov 2026 03:48:12 +0000",
     "lang": "ru"
   },
   {
-    "title": "Как выбрать корпус для электронного устройства: основные критерии и материалы",
-    "summary": "Представьте, что электронная плата уже готова: разведена, протестирована, все компоненты на местах. Остаётся только найти ей дом — корпус. И тут часто выясняется неприятная вещь: г...",
-    "link": "https://kit-e.ru/kak-vybrat/",
+    "title": "Модуль COM Express SOM-COMe-CT6-R8000 на базе AMD Ryzen Embedded 8000 Series от SECO доступен для тестирования",
+    "summary": "SECO выпустила модуль COM Express SOM-COMe-CT6-R8000 на базе процессоров AMD Ryzen Embedded 8000 Series. Модуль предназначен для систем Physical AI, оснащен интегрированной графико...",
+    "link": "https://kit-e.ru/seco-com-express-module/",
     "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Thu, 29 Oct 2026 09:29:38 +0000",
+    "pubDate": "Fri, 20 Nov 2026 03:48:08 +0000",
     "lang": "ru"
   },
   {
-    "title": "Лестница метража: почему ателье берут ткань от 3 метров, а фабрики заказывают от 300",
-    "summary": "Покупатель тканей на оптовом рынке редко выбирает между «дорого» и «дёшево». Чаще он выбирает ступень на лестнице метража: от нескольких метров на пробный пошив до сотен метров на...",
-    "link": "https://kit-e.ru/lestnitsa-metrazha/",
+    "title": "Двухканальные драйверы затворов IXD704 от Littelfuse повышают точность коммутации",
+    "summary": "Littelfuse представила серию драйверов затворов IXD704, которые обеспечивают высокую точность коммутации и помогают разрабатывать надежные системы питания для высокочастотных прило...",
+    "link": "https://kit-e.ru/littelfuse-ixd704-gate-driver/",
     "source": "КиТ (Компоненты и Технологии)",
-    "pubDate": "Tue, 27 Oct 2026 10:28:29 +0000",
+    "pubDate": "Fri, 20 Nov 2026 03:48:04 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Какой видеоредактор выбрать для монтажа видео",
+    "summary": "Первый видеоролик редко получается идеальным, и это нормально. Сложнее другое: найти программу для монтажа видео на ПК, в которой не придётся разбираться неделями, прежде чем смонт...",
+    "link": "https://kit-e.ru/videoredaktor/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 19 Nov 2026 07:30:40 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Система-на-модуле i.MX 95 от SolidRun с экосистемой для промышленного применения и интеграцией NVIDIA Holoscan",
+    "summary": "SolidRun представила семейство продуктов на базе NXP i.MX 95 с экосистемой для промышленного применения. Платформа включает SoM, носитель HummingBoard i.MX 95 IIoT и поддержку инте...",
+    "link": "https://kit-e.ru/solidrun-nxp-imx95-system/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 19 Nov 2026 03:19:59 +0000",
+    "lang": "ru"
+  },
+  {
+    "title": "Усилитель мощности MGX-445040-S5 от CML Micro для аэрокосмической и оборонной сферы",
+    "summary": "CML Micro представила усилитель мощности MGX-445040-S5 для аэрокосмической и оборонной сфер. Устройство работает в C-диапазоне, обеспечивает выходную мощность 10 Вт и отличается ко...",
+    "link": "https://kit-e.ru/cml-micro-mgx-445040-s5/",
+    "source": "КиТ (Компоненты и Технологии)",
+    "pubDate": "Thu, 19 Nov 2026 03:19:56 +0000",
     "lang": "ru"
   }
 ]
